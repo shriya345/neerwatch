@@ -1,0 +1,42 @@
+{
+  "krs": {
+    "latest.json": "9d1e99ff2022302f1124cb557c812808a118cfca88a131ff0684b0cd6b984dec",
+    "history.json": "6c34f9cfdb9140d572a2a5f84a72dd3478eb4b43a0c554ff1122f7cdacafe773",
+    "krs.geojson": "69c5adf1ea78ce6d632fb5b35b43180340308b26e2179c7255c331272b61c48e"
+  },
+  "bhadra": {
+    "latest.json": "4625337f0c1152a3fc34ec3b11037018a9011aca06aa402394d3e47f850e1658",
+    "history.json": "9f0a5c3327a71c854f47d577ae411acd64b7470a5d368496f8654e6ffb587060",
+    "bhadra.geojson": "536703f73999a0c91aad7fb1f85e63328e7cb6bac72c005b78d4a40f2a56d6c1"
+  },
+  "tungabhadra": {
+    "latest.json": "313b6542e90c6ef97eb250bb2386f907844009db77e15a0e1bddf4b407b977f2",
+    "history.json": "520e3bf3983b7f28e1438eab9d451cd9ac0a98823c61ce12e1122d2541fcb57f",
+    "tungabhadra.geojson": "566f8b1341e0a36b42399aa54f995e7585b8ca960cc2499342a929ed324cacdc"
+  },
+  "supa": {
+    "latest.json": "3538fcb72813ad6620db478291ead60f0f6e6936bac045875397728bb37e23b6",
+    "history.json": "d928f8106a851d89861fc6ce707d08d26b6c5230840c3efacf61e1cd529c55f4",
+    "supa.geojson": "6a21366a517d510a719119871406f4531be719c24c17ae51c04901f3243a02d7"
+  },
+  "varahi": {
+    "latest.json": "82d50deb107f1e295a08da833ef279151bdbf179499a28bfacf985d51539ac55",
+    "history.json": "fc50ee099ec570db67d4e69305b9bbac77f16404388841820f557ac671d3a9a2",
+    "varahi.geojson": "4bfd3a6d8f7bd629931b361cf01d90e6408cf67ec6f40b0f56b672a6a4a884ab"
+  },
+  "vani-vilasa": {
+    "latest.json": "6bc5b7a8f57130c66d9c9ea4965213d862cc31c0dfb41d13d4c96220d52c64bd",
+    "history.json": "a4a31f98eccc601342a107a4e6bd29a0d9e7eeef0dbc1678d8b2b93142247f13",
+    "vani-vilasa.geojson": "c2bc4db67b53c10e315d7fad2c164f29d2a070dc5d1bcf78afe747c3fe0ae445"
+  },
+  "kabini": {
+    "latest.json": "5cc69101f0d218957157f15033f82da057fcdfbf653526621b6cefa634b00f79",
+    "history.json": "e51080f4c3b21944ac194ea9aaea1b6f39ea77e331d053df26863541848b2ea2",
+    "kabini.geojson": "348033d62e8fdf392cd43719cb5af65c27e00b764780b8ac9b850d986471547b"
+  },
+  "harangi": {
+    "latest.json": "beb246d4e2bc07d89a58d2c7be0d9cc173248ad3175481e966af8992e0636dd1",
+    "history.json": "a93b1fc69cd96fdcbba4cb05f4450ef68d0594ab4f4c0a3adc7a9ef7326d5ea7",
+    "harangi.geojson": "7d4c3899222f89959fb559194f17e42f98f6fb34f0a2ef48cd01121deeaab2a7"
+  }
+}

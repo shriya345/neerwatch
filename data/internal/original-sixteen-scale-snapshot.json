@@ -1,0 +1,82 @@
+{
+  "krs": {
+    "sentinel2/krs/latest.json": "9d1e99ff2022302f1124cb557c812808a118cfca88a131ff0684b0cd6b984dec",
+    "sentinel2/krs/history.json": "6c34f9cfdb9140d572a2a5f84a72dd3478eb4b43a0c554ff1122f7cdacafe773",
+    "boundaries/krs.geojson": "69c5adf1ea78ce6d632fb5b35b43180340308b26e2179c7255c331272b61c48e"
+  },
+  "bhadra": {
+    "sentinel2/bhadra/latest.json": "4625337f0c1152a3fc34ec3b11037018a9011aca06aa402394d3e47f850e1658",
+    "sentinel2/bhadra/history.json": "9f0a5c3327a71c854f47d577ae411acd64b7470a5d368496f8654e6ffb587060",
+    "boundaries/bhadra.geojson": "536703f73999a0c91aad7fb1f85e63328e7cb6bac72c005b78d4a40f2a56d6c1"
+  },
+  "tungabhadra": {
+    "sentinel2/tungabhadra/latest.json": "313b6542e90c6ef97eb250bb2386f907844009db77e15a0e1bddf4b407b977f2",
+    "sentinel2/tungabhadra/history.json": "520e3bf3983b7f28e1438eab9d451cd9ac0a98823c61ce12e1122d2541fcb57f",
+    "boundaries/tungabhadra.geojson": "566f8b1341e0a36b42399aa54f995e7585b8ca960cc2499342a929ed324cacdc"
+  },
+  "supa": {
+    "sentinel2/supa/latest.json": "3538fcb72813ad6620db478291ead60f0f6e6936bac045875397728bb37e23b6",
+    "sentinel2/supa/history.json": "d928f8106a851d89861fc6ce707d08d26b6c5230840c3efacf61e1cd529c55f4",
+    "boundaries/supa.geojson": "6a21366a517d510a719119871406f4531be719c24c17ae51c04901f3243a02d7"
+  },
+  "varahi": {
+    "sentinel2/varahi/latest.json": "82d50deb107f1e295a08da833ef279151bdbf179499a28bfacf985d51539ac55",
+    "sentinel2/varahi/history.json": "fc50ee099ec570db67d4e69305b9bbac77f16404388841820f557ac671d3a9a2",
+    "boundaries/varahi.geojson": "4bfd3a6d8f7bd629931b361cf01d90e6408cf67ec6f40b0f56b672a6a4a884ab"
+  },
+  "vani-vilasa": {
+    "sentinel2/vani-vilasa/latest.json": "6bc5b7a8f57130c66d9c9ea4965213d862cc31c0dfb41d13d4c96220d52c64bd",
+    "sentinel2/vani-vilasa/history.json": "a4a31f98eccc601342a107a4e6bd29a0d9e7eeef0dbc1678d8b2b93142247f13",
+    "boundaries/vani-vilasa.geojson": "c2bc4db67b53c10e315d7fad2c164f29d2a070dc5d1bcf78afe747c3fe0ae445"
+  },
+  "kabini": {
+    "sentinel2/kabini/latest.json": "5cc69101f0d218957157f15033f82da057fcdfbf653526621b6cefa634b00f79",
+    "sentinel2/kabini/history.json": "e51080f4c3b21944ac194ea9aaea1b6f39ea77e331d053df26863541848b2ea2",
+    "boundaries/kabini.geojson": "348033d62e8fdf392cd43719cb5af65c27e00b764780b8ac9b850d986471547b"
+  },
+  "harangi": {
+    "sentinel2/harangi/latest.json": "beb246d4e2bc07d89a58d2c7be0d9cc173248ad3175481e966af8992e0636dd1",
+    "sentinel2/harangi/history.json": "a93b1fc69cd96fdcbba4cb05f4450ef68d0594ab4f4c0a3adc7a9ef7326d5ea7",
+    "boundaries/harangi.geojson": "7d4c3899222f89959fb559194f17e42f98f6fb34f0a2ef48cd01121deeaab2a7"
+  },
+  "hemavathi": {
+    "sentinel2/hemavathi/latest.json": "a5ffb83b2926f3f61341058638a68674a7ce3a30c08445c2134f8e56bc6ba842",
+    "sentinel2/hemavathi/history.json": "1a6545fcfdef6f931c663da4ca758ce019a4cc035d5e114cc56f5e72900f2861",
+    "boundaries/hemavathi.geojson": "1437ba7680ea9f8a8ba2b16a94695a88b1617d8be8c98689273e9ea5ee3945b3"
+  },
+  "almatti": {
+    "sentinel2/almatti/latest.json": "924e15577029baee9ee09b9b04dee2087a02e975a35487faa70e33750965d008",
+    "sentinel2/almatti/history.json": "2804a791a0d367e8cdca2965bfb4629260bd3b07daf16e141eda37a911efe56a",
+    "boundaries/almatti.geojson": "e3addedf5a116d0291d18e1d493ad4c56398ccbe0a755d7b713164d9673c3a00"
+  },
+  "linganamakki": {
+    "sentinel2/linganamakki/latest.json": "0ed31fc1d13738e84ccaeea5a0234eb87aa2bfd225bbae1ba3fe14f05f6c7b89",
+    "sentinel2/linganamakki/history.json": "480cf70b4776d65b4c95040b8b4c3cc4df7bb63baad44c157ba7e949dd6c7e92",
+    "boundaries/linganamakki.geojson": "d7d455e209a4d1170c23fd99e33d36ae408426ae5958318e56c98b7c64d7867c"
+  },
+  "markonahalli": {
+    "sentinel2/markonahalli/latest.json": "a06432b011b441f774fa97b01bd064ddb10c700c875f83346e3112516d8d932b",
+    "sentinel2/markonahalli/history.json": "c462fc7d683744d0552483a10092bd42638a45efc8a9306fbea2803c0d167c10",
+    "boundaries/markonahalli.geojson": "529b93a06d7f10e8d8a0d2af5d2aa61858fdd9b8974d8f91f89ca71530f88fc7"
+  },
+  "yagachi": {
+    "sentinel2/yagachi/latest.json": "a2ef88b368673d965510f7acca89d0392f7c86154ae6ee63fc6cff55b3cf3fb6",
+    "sentinel2/yagachi/history.json": "9eda46d7b24b67c8cac3fed1512968b5e313d5537bcb0416db7964b6f496f326",
+    "boundaries/yagachi.geojson": "9ddc3344a3692c38842607453bdac6d9c16896d0470a483ffac84d02af2cb7d6"
+  },
+  "hidkal": {
+    "sentinel2/hidkal/latest.json": "00a57cb97a6c4216e072f390a762f071f3b6cf3d4cc342380c35f7bf8bc7b6ce",
+    "sentinel2/hidkal/history.json": "1021d1669495470eb75b5256230b1cc66f60ac423cefbd35e8be7c3931c48e57",
+    "boundaries/hidkal.geojson": "e3e5aec3a9e64ad8cc3dbd3beeae26739196badf432a76cbdb023b20ee47a830"
+  },
+  "nugu": {
+    "sentinel2/nugu/latest.json": "07f2029731c531bc018bc5a4078c22488ec579bef9e0d89460de37cea59efeb6",
+    "sentinel2/nugu/history.json": "40ed1c0b5cdbe9381965b6ee822543d4e1921f03c8603ea8e08db391a306d8b4",
+    "boundaries/nugu.geojson": "544e10740a7d51ec09c6f0a0ff4284972c40430111f2a4fb73d8cd5c4c3b6c20"
+  },
+  "kadra": {
+    "sentinel2/kadra/latest.json": "d483fd9c68584aecd1010c725e0dbbd3a60c42bd73abd8a4e2a6cc076ecf6bec",
+    "sentinel2/kadra/history.json": "ab97622ebbc7fb8904d651cd8371a4c7269ae5500c49cfbdb602ead7b42540e5",
+    "boundaries/kadra.geojson": "a0e18728d93f7553ac6f9e89cdf335ab068c64fc43ff788f1e6a2ce9327bf07e"
+  }
+}

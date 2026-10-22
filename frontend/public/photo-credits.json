@@ -1,0 +1,34 @@
+{
+  "krs": {
+    "path": "/photos/krs.jpg",
+    "artist": "Vaishu2",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Krishna_raja_sagara_dam.JPG",
+    "title": "Krishna_raja_sagara_dam.JPG"
+  },
+  "bhadra": {
+    "path": "/photos/bhadra.jpg",
+    "artist": "Original uploader was Amarrg at en.wikipedia",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bhadra_River_Project_Dam.jpg",
+    "title": "Bhadra_River_Project_Dam.jpg"
+  },
+  "tungabhadra": {
+    "path": "/photos/tungabhadra.jpg",
+    "artist": "Mohammed aquib",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tungabhadra_dam_all_gates_open.jpg",
+    "title": "Tungabhadra_dam_all_gates_open.jpg"
+  },
+  "supa": {
+    "path": "/photos/supa.jpg",
+    "artist": "Chinmayisk",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Supa_dam_back_waters.JPG",
+    "title": "Supa_dam_back_waters.JPG"
+  }
+}

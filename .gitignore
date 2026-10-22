@@ -1,0 +1,20 @@
+.venv/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/cache/
+.env
+.env.*
+!.env.example
+output/pdf/*.png
+
+# Local machine files and linked dependency environments
+.DS_Store
+.venv
+frontend/node_modules
+data/cache
+
+# Upstream notebook includes historical signed download URLs
+reference/download_satellite_PlanetaryComputer.ipynb

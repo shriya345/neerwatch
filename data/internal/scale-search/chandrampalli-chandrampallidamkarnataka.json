@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": 249130043,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 360926327,
+    "lat": "17.5360295",
+    "lon": "77.4600247",
+    "category": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13337083466849772,
+    "addresstype": "dam",
+    "name": "Chandrampalli dam",
+    "display_name": "Chandrampalli dam, Chandrampalli, Chincholi taluku, Kalaburagi, Karnataka, India",
+    "boundingbox": [
+      "17.5312561",
+      "17.5385060",
+      "77.4584551",
+      "77.4634341"
+    ],
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            77.4584551,
+            17.5383286
+          ],
+          [
+            77.4585644,
+            17.5376294
+          ],
+          [
+            77.4605075,
+            17.5344296
+          ],
+          [
+            77.4626049,
+            17.5312561
+          ],
+          [
+            77.4634341,
+            17.5314173
+          ],
+          [
+            77.4589452,
+            17.538506
+          ],
+          [
+            77.4584551,
+            17.5383286
+          ]
+        ]
+      ]
+    }
+  }
+]

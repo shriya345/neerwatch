@@ -1,0 +1,4037 @@
+{
+  "source": "NASA SeaBASS CAML",
+  "selected_records": 342,
+  "matched_features": 135,
+  "rejected": [
+    {
+      "uid": "acpk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210810T171901_R012_T14SMG_20210811T033630",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210815T171859_R012_T14SMG_20210816T063221",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "acqu",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200717T182921_R027_T11SLV_20200816T114525",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200712T182919_R027_T11SLV_20200912T235148",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200715T183919_R070_T11SLV_20200912T054110",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "acuf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180816T180909_R084_T12TWM_20201011T024558",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180821T180921_R084_T12TWM_20201011T045543",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 9 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "adxk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200606T162839_R083_T16TFL_20200826T102723",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200601T162901_R083_T16TFL_20200825T174935",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "aiby",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210820T162829_R083_T16SFH_20210821T075920",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210820T162829_R083_T16SFJ_20210821T060835",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210815T162901_R083_T16SFJ_20210816T065506",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ajfv",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180914T165909_R069_T15SUC_20201009T012014",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "algg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200905T155829_R097_T17TPE_20200908T031054",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200910T155911_R097_T17TPE_20210515T004803",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "alqd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180727T153911_R011_T18SVH_20201011T203523",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180722T153809_R011_T18SVH_20201011T185311",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180725T154809_R054_T18SVH_20201011T200230",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "amjn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190420T161839_R040_T17TLG_20201105T130644",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190425T161901_R040_T17TLG_20201109T121357",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "aqky",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180814T154859_R054_T18TVK_20201011T015119",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 8 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180819T154901_R054_T18TVK_20201011T035745",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "arkx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200914T180919_R084_T12TWP_20200917T130820",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200919T181031_R084_T12TWP_20200922T195551",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "atio",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190729T170901_R112_T14SQH_20201106T050412",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190729T170901_R112_T15STC_20201106T050405",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190803T170859_R112_T14SQH_20201004T200744",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "axml",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190509T155911_R097_T17SPV_20201006T115621",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190514T155829_R097_T17SPV_20201006T141430",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "bapo",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190726T160839_R140_T17TNE_20201106T023633",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190802T155829_R097_T17TNE_20201004T194315",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190728T155911_R097_T17TNE_20201106T040333",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "bdbx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180510T184929_R113_T10SFH_20201012T082038",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180505T184921_R113_T10SFH_20201012T060830",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "bjlx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20191110T160459_R097_T17SPV_20201003T151347",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20191105T160441_R097_T17SPV_20201003T131919",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "bnxl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210518T155901_R097_T18TUM_20210519T205631",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210520T154809_R054_T18TUM_20210521T155030",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210525T154911_R054_T18TUM_20210526T042127",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cadb",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210619T154809_R054_T18SUF_20210620T005729",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210624T154911_R054_T18SUE_20210625T200100",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210624T154911_R054_T18SUF_20210625T194749",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cayg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20201211T155649_R054_T17SQU_20201214T042959",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201206T155641_R054_T17SQU_20201207T115434",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cbmc",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180429T155859_R097_T17SPV_20201026T081759",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180504T155911_R097_T17SPV_20201012T054313",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cccl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200811T155911_R097_T17SPV_20200814T174145",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "chcw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200310T185109_R113_T10SFH_20201005T030129",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 174 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SFH_20201010T085048",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 174 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cimh",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190711T160911_R140_T17TNF_20201005T122701",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190716T160839_R140_T17TNF_20201005T150829",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cmky",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210811T155819_R097_T17SQV_20210812T045933",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210811T155819_R097_T17SPA_20210812T045910",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210811T155819_R097_T17SQA_20210812T033316",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cosw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200310T185109_R113_T10SFH_20201005T030129",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SFG_20201020T013734",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200310T185109_R113_T10SFG_20201027T095328",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cpji",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210813T154911_R054_T18TVM_20210814T050934",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 12 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210818T154809_R054_T18TVM_20210819T051231",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "crcz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210820T162829_R083_T16TFL_20210821T074627",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210825T162901_R083_T16TFL_20210826T030736",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 15 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "crrj",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210918T165849_R069_T15SUD_20210919T061435",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210916T170941_R112_T15SUD_20210917T071208",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210911T170849_R112_T15SUD_20210912T064044",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cuej",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20201128T154609_R011_T18SVJ_20201129T032955",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201206T155641_R054_T18SVJ_20201207T115222",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20201128T154609_R011_T18SVH_20201129T032829",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 9 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "cytg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210913T174909_R141_T13TDF_20210914T114430",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210908T174911_R141_T13TDF_20210909T102001",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "czlf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180909T183921_R070_T11SKA_20201008T231611",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180914T183949_R070_T11SKA_20201009T012043",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "daov",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190110T185741_R113_T10SFF_20201008T002234",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190110T185741_R113_T10SEF_20201008T002233",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190115T185729_R113_T10SFF_20201008T015410",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dazf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190509T155911_R097_T17SPV_20201006T115621",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190514T155829_R097_T17SPV_20201006T141430",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dgyn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180912T180029_R041_T13TCH_20201009T003413",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180917T180001_R041_T13TCH_20201009T020112",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180909T174859_R141_T13TCH_20201008T232706",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dign",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190630T154819_R054_T18TUK_20201109T144224",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190630T154819_R054_T18TVK_20201109T144223",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 3 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190625T154911_R054_T18TUK_20201006T061005",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "djoi",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190806T162901_R083_T16TFL_20201004T210617",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190811T162839_R083_T16TFL_20201004T231537",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dlrx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190306T185239_R113_T10SGF_20201030T185719",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190303T184259_R070_T10SGF_20201030T121259",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190226T184331_R070_T10SGF_20201007T205200",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dxsp",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210613T184919_R113_T10SFH_20210615T042136",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 8 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210608T184921_R113_T10SFH_20210612T173744",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dxvy",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20201025T160249_R097_T18TUM_20201030T022152",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201020T160311_R097_T18TUM_20201021T170658",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "dzwu",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190715T154911_R054_T18TVK_20201005T142316",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190715T154911_R054_T18TUK_20201005T142311",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190710T154819_R054_T18TUK_20201005T121222",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "egqe",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190127T184631_R070_T10SGG_20201008T050451",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190130T185621_R113_T10SGG_20201008T055515",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ejgd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180724T170851_R112_T14SQJ_20201011T192821",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180724T170851_R112_T15STD_20201011T192823",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180729T170849_R112_T14SQJ_20201011T213109",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ejje",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180920T190049_R013_T10TDL_20201009T031702",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180925T190121_R013_T10TDL_20201009T044432",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ekwk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180917T185019_R113_T10SFF_20201030T213026",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180917T185019_R113_T10SEF_20201009T021301",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180912T184951_R113_T10SFF_20201009T002438",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "elhz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190809T163901_R126_T16TEM_20201004T221712",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190804T163849_R126_T16TEM_20201004T203037",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190811T162839_R083_T16TEM_20201004T231533",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "emss",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190907T170851_R112_T15TTE_20201004T102103",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190907T170851_R112_T14TQK_20201004T102101",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190912T170859_R112_T14TQK_20201004T122742",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "etcm",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200424T184921_R113_T10SFH_20200921T220851",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200419T184909_R113_T10SFH_20200924T055112",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "fapj",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20181002T171131_R112_T15STD_20201009T071715",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181002T171131_R112_T14SQJ_20201009T071715",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20181007T171159_R112_T15STD_20201009T091552",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "fdgx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190630T154819_R054_T18SVH_20201006T082638",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190702T153911_R011_T18SVH_20201005T081122",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190630T154819_R054_T18SVJ_20201006T082640",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ffbn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190720T154819_R054_T18SVH_20201005T171020",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190722T153911_R011_T18SVJ_20201005T175813",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190722T153911_R011_T18SVH_20201005T175815",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "fitc",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180404T155901_R097_T17SPV_20201012T181117",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "fnal",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180827T160059_R097_T17TNE_20201027T052412",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 3 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180820T160819_R140_T17TNE_20201011T044041",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180825T160901_R140_T17TNE_20201011T064633",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "foww",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190816T153819_R011_T19TBG_20201005T011435",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190816T153819_R011_T18TYM_20201005T011432",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 8 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190818T153601_R111_T19TBG_20201005T015059",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "fwrt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190912T184949_R113_T10SFH_20201004T122820",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190907T184921_R113_T10SFH_20201004T102134",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gaog",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180529T155819_R097_T18TUM_20201012T153827",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 24 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180603T155901_R097_T18TUM_20201026T135418",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gbud",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180811T162901_R083_T16TFM_20201011T001544",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180806T163019_R083_T16TFM_20201010T220918",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gdvy",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180811T162901_R083_T16TEL_20201011T001547",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 14 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180806T163019_R083_T16TEL_20201010T220918",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gkbw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190811T153911_R011_T18TYM_20201004T230320",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190811T153911_R011_T19TBG_20201004T230321",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190816T153819_R011_T19TBG_20201005T011435",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gpfx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180605T154859_R054_T18SVH_20201026T164918",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180612T153809_R011_T18SVH_20201026T231837",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180607T153911_R011_T18SVH_20201026T181020",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gvjd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20181205T160639_R097_T17SPV_20201008T074226",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181130T160621_R097_T17SPV_20201008T225704",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "gwmk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210611T162839_R083_T16SEJ_20210614T071501",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210606T162901_R083_T16SEJ_20210609T202827",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "hanx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180709T171159_R112_T14SQJ_20201011T135708",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180709T171159_R112_T15STD_20201011T135711",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180714T170851_R112_T14SQJ_20201011T154140",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "hfus",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180911T155901_R097_T17SPV_20201009T000027",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180916T155859_R097_T17SPV_20201009T015127",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "hhhx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210823T154911_R054_T18TVK_20210824T042056",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210818T154809_R054_T18TVK_20210819T043914",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "hivt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190914T165921_R069_T15SUD_20201004T130304",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190919T165949_R069_T15SUD_20201004T150717",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190917T170941_R112_T15SUD_20201004T140956",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "howu",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20211225T185811_R113_T10SFF_20211226T024412",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20211220T185809_R113_T10SFF_20211221T190427",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20211225T185811_R113_T10SFF_20230128T134532",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "hrxr",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200915T155819_R097_T17TPG_20200918T093011",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200915T155819_R097_T17TQG_20200918T093016",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200908T160829_R140_T17TQG_20200911T203647",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "hskv",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180629T170849_R112_T14SQH_20201012T035912",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 20 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180629T170849_R112_T15STC_20201012T035916",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 21 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180704T171011_R112_T14SQH_20201011T115147",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 20 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ibvw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210809T160901_R140_T17SNV_20210810T030844",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210801T155819_R097_T17SNV_20210802T065803",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 24 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210809T160901_R140_T17SNV_20210810T052612",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "iexm",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190406T154911_R054_T18TVL_20201006T225049",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190401T154819_R054_T18TVL_20201006T210841",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "iinq",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180819T163829_R126_T16TEM_20201011T041218",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 8 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180821T162901_R083_T16TEM_20201011T045450",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 21 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180826T162829_R083_T16TEM_20201027T043555",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 3 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "iizl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210609T154809_R054_T18TVM_20210610T215905",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210604T154911_R054_T18TVM_20210605T063426",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ilon",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180812T155901_R097_T18TUK_20201011T004052",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180817T155819_R097_T18TUK_20201011T031441",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 22 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180814T154859_R054_T18TUK_20201011T015114",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ilwl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210710T174911_R141_T13TDF_20210711T034327",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210705T174909_R141_T13TDF_20210706T122717",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ivka",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190810T160911_R140_T17TMF_20201004T224012",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190815T160829_R140_T17TNF_20201005T005111",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190810T160911_R140_T17TNF_20201004T224013",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "iybw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200824T160911_R140_T17TNG_20200827T150931",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 19 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200829T160829_R140_T17TNG_20200907T143107",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "iyxp",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200823T154819_R054_T18TWL_20200825T160130",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200823T154819_R054_T18TVL_20200909T093225",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "izqt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190608T182929_R027_T11SMT_20201005T234956",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190603T182921_R027_T11SMT_20201005T213426",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jdgw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190810T160911_R140_T17TMF_20201004T224012",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190815T160829_R140_T17TMF_20201005T005112",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 14 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jfch",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210705T160829_R140_T17SNV_20210709T012137",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210630T160901_R140_T17SNV_20210701T110648",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210627T155911_R097_T17SNV_20210629T140526",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jggf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190110T185741_R113_T10SFF_20201008T002234",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190112T184739_R070_T10SFF_20201008T010404",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190115T185729_R113_T10SFF_20201008T015410",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jjxa",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180602T163021_R083_T16SFH_20201026T122917",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 7 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180602T163021_R083_T16SFJ_20201026T122917",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 7 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180607T162859_R083_T16SFJ_20201026T184039",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jrzp",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190614T170859_R112_T15STD_20201006T021719",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190619T170901_R112_T15STD_20201006T040740",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190619T170901_R112_T14SQJ_20201006T040735",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jtwq",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180718T174029_R098_T13SDA_20201011T172159",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180723T173901_R098_T13SDA_20201011T190540",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180721T175039_R141_T13SDA_20201011T183132",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "jxgt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190630T154819_R054_T18SVH_20201006T082638",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190702T153911_R011_T18SVH_20201005T081122",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190705T154911_R054_T18SVH_20201005T093635",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "keuf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180828T171039_R112_T15STC_20201011T065918",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180828T171039_R112_T14SQH_20201103T093927",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180902T170851_R112_T15STC_20201011T073546",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kfid",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210507T171849_R012_T14SPH_20210509T000040",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210512T171901_R012_T14SPH_20210513T142028",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210512T171901_R012_T14SPJ_20210513T142131",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kiaz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190419T155911_R097_T18TUP_20201007T035744",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190419T155911_R097_T17TQJ_20201007T035740",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190424T155829_R097_T17TQJ_20201105T173352",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kmzg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210823T154911_R054_T18SUF_20210824T031226",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210818T154809_R054_T18SUF_20210819T051430",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "knqs",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180717T153911_R011_T18TXL_20201011T164944",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180722T153809_R011_T18TXL_20201011T185320",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kozi",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SFF_20201010T085040",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SEF_20201010T085047",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200310T185109_R113_T10SFF_20201005T030153",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kpum",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20211123T154549_R011_T19TBG_20211124T013925",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20211123T154549_R011_T18TYM_20211124T013651",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 20 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20211128T154611_R011_T19TBG_20211129T133105",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kupz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210617T155901_R097_T18TUL_20210619T173120",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 20 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210614T154911_R054_T18TUL_20210615T142411",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 21 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210622T155819_R097_T18TUL_20210625T051502",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "kzyq",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190917T185021_R113_T10SFF_20201004T141032",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190912T184949_R113_T10SFF_20201004T122818",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lbsg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20211011T171139_R112_T14SQH_20211012T004504",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 12 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20211011T171139_R112_T15STC_20211012T041103",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lcfo",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190614T170859_R112_T15STD_20201006T021719",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190614T170859_R112_T14SQJ_20201006T021719",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190614T170859_R112_T15STD_20201006T021722",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lcmm",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180919T165951_R069_T15RTP_20201009T024643",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180916T164921_R026_T15RTP_20201009T014025",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 23 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180924T170159_R069_T15RTP_20201009T043302",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lell",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210522T162839_R083_T16TFK_20210523T042914",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210517T162901_R083_T16TFK_20210519T013015",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lgsd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190512T183929_R070_T10SFG_20201006T132631",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190510T184921_R113_T10SFG_20201006T122323",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190507T183921_R070_T10SFG_20201006T110848",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lgxs",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20191017T171321_R112_T14SPJ_20201004T031739",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 19 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20191012T171239_R112_T14SPJ_20201004T013841",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 19 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "llav",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190912T184949_R113_T10SFH_20201004T122820",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 14 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190907T184921_R113_T10SFH_20201004T102134",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lnpc",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180615T154809_R054_T18TUK_20201027T020826",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180618T155819_R097_T18TUK_20201011T234506",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180613T155901_R097_T18TUK_20201026T234719",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ltix",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190710T154819_R054_T18TVK_20201005T121227",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190705T154911_R054_T18TVK_20201005T093632",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lums",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180902T170851_R112_T15STC_20201011T073546",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180902T170851_R112_T14SQH_20201011T073547",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180907T171009_R112_T15STC_20201011T095236",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "lytg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SFG_20201020T013734",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SFF_20201010T085040",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200310T185109_R113_T10SFG_20201027T095328",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "maln",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180804T154859_R054_T18SUE_20201010T211340",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180730T154911_R054_T18SUE_20201011T214153",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "mcjd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180928T155021_R054_T18TVK_20201009T054839",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180923T154949_R054_T18TVK_20201009T041245",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180925T154001_R011_T18TWK_20201009T044257",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "mjha",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210608T170851_R112_T14SQH_20210610T173002",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210608T170851_R112_T15STC_20210610T172453",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210613T170849_R112_T15STC_20210615T060650",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "mlon",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210320T185051_R113_T10SEH_20210321T164740",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210320T185051_R113_T10SFH_20210321T173651",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210320T185051_R113_T10SEJ_20210321T155618",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "mofh",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210619T154809_R054_T18SUF_20210620T005729",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210624T154911_R054_T18SUF_20210625T194749",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "mpyl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180803T170851_R112_T14SPJ_20201010T203318",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180801T172049_R012_T14SPJ_20201010T195335",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180727T171901_R012_T14SPJ_20201011T203626",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "mqsz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20201115T185649_R113_T10SFH_20201116T205357",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201110T185621_R113_T10SFJ_20201111T123826",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201110T185621_R113_T10SFH_20201111T123622",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ncav",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210627T155911_R097_T18TUM_20210629T154255",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210702T155819_R097_T18TUM_20210703T075330",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "nmrh",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210614T154911_R054_T18TVM_20210615T141739",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 7 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210619T154809_R054_T18TVM_20210620T011145",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "nrhn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190812T155829_R097_T18TUM_20201004T233949",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190807T155911_R097_T18TUM_20201004T212917",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "obtl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190206T184541_R070_T10SFG_20201007T142913",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190209T185531_R113_T10SFG_20201007T151828",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ofof",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200115T185721_R113_T10SFJ_20201002T185820",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200120T185709_R113_T10SFJ_20201002T212339",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200120T185709_R113_T10SFH_20201002T212335",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ohel",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210119T185711_R113_T10SFF_20210120T081840",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210126T184641_R070_T10SFF_20210201T070510",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210121T184659_R070_T10SFF_20210122T142200",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "oico",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210806T155911_R097_T18TUM_20210807T112407",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210811T155819_R097_T18TUM_20210812T045003",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "oigd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210719T154819_R054_T18TTK_20210720T015240",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210717T155911_R097_T18TUK_20210718T034437",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210712T155819_R097_T18TUK_20210713T094408",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "oltc",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210806T155911_R097_T18TUM_20210807T112407",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210801T155819_R097_T18TUM_20210802T090636",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 14 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ondl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190702T162839_R083_T16TDK_20201005T082508",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 7 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190705T163849_R126_T16TDK_20201005T095118",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 21 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190630T163901_R126_T16TDK_20201106T012538",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 22 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "osye",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20181031T160411_R097_T18TUM_20201009T170549",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 16 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20181105T160439_R097_T18TUM_20201008T160853",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181028T155341_R054_T18TUM_20201009T160825",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "oszw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210910T155819_R097_T17SPV_20210911T052940",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ozcq",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190808T184921_R113_T10SFG_20201004T215443",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190810T183929_R070_T10SFG_20201004T225313",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190803T184929_R113_T10SFG_20201004T200822",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pawt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20181016T160229_R097_T17SPV_20201009T121705",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181011T160201_R097_T17SPV_20201009T102654",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pddy",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190907T170851_R112_T14SPH_20201004T102058",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 23 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190912T170859_R112_T14SPH_20201004T122741",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pehi",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190812T155829_R097_T18TUM_20201004T233949",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190807T155911_R097_T18TUM_20201004T212917",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pkra",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190520T184921_R113_T10SFJ_20201006T163050",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190515T184929_R113_T10SFJ_20201006T144030",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190515T184929_R113_T10SEJ_20201006T144029",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pmzj",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190803T161911_R040_T17TLL_20201004T195458",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 14 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190801T162839_R083_T17TLL_20201004T191951",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190727T162901_R083_T17TLL_20201106T030715",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pogt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20211113T154509_R011_T18TYM_20211114T030840",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 19 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20211113T154509_R011_T19TBG_20211114T033132",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "psos",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180822T155901_R097_T18TUL_20201011T052157",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180817T155819_R097_T18TUL_20201011T031443",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180814T154859_R054_T18TUL_20201011T015111",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "pycn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180803T161829_R040_T16SFJ_20201010T204558",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180806T163019_R083_T16SFJ_20201010T220919",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 15 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180801T163041_R083_T16SFJ_20201010T192354",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qdqp",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210522T162839_R083_T16SEH_20210523T055459",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210517T162901_R083_T16SEH_20210518T231926",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qhms",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20181126T185719_R113_T10SFF_20201008T220055",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20181126T185719_R113_T10SFG_20201008T220055",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181121T185701_R113_T10SFF_20201008T202852",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qlud",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190831T180919_R084_T12TYP_20201005T073115",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 22 cloud-free interior water pixels in 186 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190828T175919_R041_T12TYP_20201005T061021",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 23 cloud-free interior water pixels in 186 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190902T175911_R041_T12TYP_20201004T082353",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 22 cloud-free interior water pixels in 186 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qqdj",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180708T155819_R097_T17SPV_20201011T133356",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180703T155901_R097_T17SPV_20201011T112911",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qugy",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180914T160901_R140_T17TNF_20201009T010745",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180909T160819_R140_T17TNF_20201008T232620",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qwlo",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210906T170851_R112_T14SPJ_20210907T072937",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210911T170849_R112_T14SPJ_20210912T073043",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 181 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "qymp",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180718T160009_R097_T18TUM_20201011T172117",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180723T155901_R097_T18TUM_20201011T190453",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rblj",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190903T154911_R054_T18SVH_20201004T084559",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190910T153901_R011_T18SVH_20201004T112744",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190908T154809_R054_T18SVH_20201004T105346",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rgmz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210613T184919_R113_T10SFH_20210615T042136",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 174 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210608T184921_R113_T10SFH_20210612T173744",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 174 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rhhd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": []
+    },
+    {
+      "uid": "rhqk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210820T162829_R083_T16TEL_20210821T072317",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210825T162901_R083_T16TEL_20210826T043807",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rmve",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20181126T185719_R113_T10SEF_20201008T220048",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20181126T185719_R113_T10SFF_20201008T220055",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181121T185701_R113_T10SEF_20201008T202852",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rppz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190818T170851_R112_T15STD_20201005T015201",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190818T170851_R112_T14SQJ_20201005T015155",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190818T170851_R112_T15TTE_20201005T015202",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rqkk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190819T154819_R054_T18TVL_20201005T022720",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190814T154911_R054_T18TVL_20201005T001501",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 4 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rshn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210419T184911_R113_T10SFG_20210420T100219",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210419T184911_R113_T10SFF_20210420T102149",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210424T184909_R113_T10SFG_20210426T002819",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rwal",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190903T154911_R054_T18TUK_20201004T084558",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190903T154911_R054_T18TVK_20201004T084606",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190908T154809_R054_T18TVK_20201004T105349",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rzox",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210921T184959_R113_T10SEF_20210922T081559",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210921T184959_R113_T10SFF_20210922T084716",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210926T185131_R113_T10SFF_20210927T091031",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "rzxv",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210818T172859_R055_T14SMJ_20210819T064103",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210815T171859_R012_T14SMJ_20210816T071944",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210820T171901_R012_T14SMJ_20210821T110200",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 1 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "sdkx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180805T184019_R070_T11SKA_20201010T214304",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180810T183921_R070_T11SKA_20201010T234854",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180810T183921_R070_T10SGF_20201010T234852",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 183 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "seto",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180617T162829_R083_T16TFL_20201011T232134",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180612T162901_R083_T16TFL_20201026T225259",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "sgvf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210808T154809_R054_T18TVM_20210809T023947",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 23 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210803T154911_R054_T18TVM_20210804T050038",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "sjfx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190518T162901_R083_T16SFJ_20201006T154117",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 15 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190518T162901_R083_T16SFH_20201006T154117",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 15 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190523T162839_R083_T16SFH_20201006T173511",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "slnw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180926T160029_R097_T17TQF_20201009T051728",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180926T160029_R097_T18TTL_20201009T051731",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181001T160051_R097_T18TTL_20201030T220712",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "sqpe",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180730T154911_R054_T18SUE_20201011T214153",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180725T154809_R054_T18SUE_20201011T200227",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "srlj",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190617T153819_R011_T19TBF_20201006T032940",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190617T153819_R011_T18TYL_20201006T032941",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190617T153819_R011_T19TBG_20201006T032943",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ssft",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200905T155829_R097_T18TUM_20200908T031115",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200831T155911_R097_T18TUM_20200907T192705",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 3 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ssmk",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200511T183921_R070_T10SFG_20200917T184902",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200504T184921_R113_T10SFG_20200920T113206",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200509T184919_R113_T10SFG_20200921T052946",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "svtt",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200808T154911_R054_T18TVL_20200815T111637",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200813T154819_R054_T18TVL_20200814T232322",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "tiip",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210518T155901_R097_T18TUK_20210519T175624",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210515T154911_R054_T18TUK_20210517T144650",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210513T155819_R097_T18TUK_20210515T220958",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "tndn",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200519T184919_R113_T10SEH_20200910T064408",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 8 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200519T184919_R113_T10SEJ_20200910T064408",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200519T184919_R113_T10SFJ_20200910T064408",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "tqdw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190830T174911_R141_T13TDG_20201005T065008",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190904T174909_R141_T13TDG_20201004T092240",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190904T174909_R141_T13TEG_20201004T092240",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 11 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "twyy",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200812T184921_R113_T10SFH_20200908T073103",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200817T184919_R113_T10SFH_20200818T161455",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "tyyp",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20180618T155819_R097_T17SPA_20201011T234458",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180618T155819_R097_T17SQA_20201027T022731",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180623T155901_R097_T17SPV_20201012T012659",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "tzjd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190611T160901_R140_T17TNF_20201006T005044",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 2 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190616T160839_R140_T17TNF_20201006T030625",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ufdw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20201007T155141_R054_T18TUK_20201010T080559",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 13 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201007T155141_R054_T18TVK_20201010T080557",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 13 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20201012T155119_R054_T18TUK_20201014T105747",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "uhxo",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190826T153819_R011_T19TBG_20201005T051653",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 12 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190826T153819_R011_T18TYM_20201005T051651",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190821T153911_R011_T19TBG_20201005T030252",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 184 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "umne",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190822T155829_R097_T17SPA_20201005T033934",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190817T155911_R097_T17SPA_20201005T012645",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "unrm",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190903T154911_R054_T18SVH_20201004T084559",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190910T153901_R011_T18SVH_20201004T112744",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190903T154911_R054_T18SVJ_20201004T084558",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "utho",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190730T154819_R054_T18TUL_20201005T200623",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 18 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190725T154911_R054_T18TUL_20201106T014032",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190728T155911_R097_T18TUL_20201106T040351",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "uwka",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190715T154911_R054_T18TVK_20201005T142316",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190715T154911_R054_T18TUK_20201005T142311",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190710T154819_R054_T18TUK_20201005T121222",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "vemb",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190729T153601_R111_T19TBG_20201106T050244",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190729T153601_R111_T18TYM_20201106T050240",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 6 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190727T153819_R011_T18TYM_20201106T033548",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 12 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "vgfg",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190717T153819_R011_T18TXM_20201005T153809",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190722T153911_R011_T18TXM_20201005T175828",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 178 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "vnaw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200820T162901_R083_T16TEK_20200822T184753",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200815T162839_R083_T16TEK_20201027T085801",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "vuvf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20201220T185811_R113_T10SFF_20201221T052742",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20201225T185809_R113_T10SFF_20201226T145601",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "vwns",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SFF_20201010T085040",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200315T185121_R113_T10SEF_20201010T085047",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200310T185109_R113_T10SFF_20201005T030153",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "vwuw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200120T185709_R113_T10SFH_20201002T212335",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200115T185721_R113_T10SFH_20201002T185820",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "wcsl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190612T153911_R011_T18TXM_20201006T011445",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190617T153819_R011_T18TXM_20201006T032939",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190615T154911_R054_T18TXM_20201006T022846",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "wewx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20191126T185721_R113_T10SFF_20201003T200014",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20191201T185729_R113_T10SFG_20201030T195732",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20191201T185729_R113_T10SFF_20201030T195728",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 172 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "woap",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210912T154911_R054_T18TVM_20210913T062226",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210917T154809_R054_T18TVM_20210918T041447",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "wrfu",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210910T155819_R097_T18TUM_20210911T055616",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 17 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210915T155911_R097_T18TUM_20210916T024639",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "wvky",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190110T185741_R113_T10SFG_20201008T002229",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190112T184739_R070_T10SFG_20201008T010402",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190107T184741_R070_T10SFG_20201007T233245",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "wzqm",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180224T185341_R113_T10SFF_20201014T005525",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180301T185309_R113_T10SFF_20201013T051928",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xbxh",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210921T184959_R113_T10SFF_20210922T084716",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210926T185131_R113_T10SFF_20210927T091031",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xezw",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200424T184921_R113_T10SFF_20200921T220845",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200419T184909_R113_T10SFF_20200924T055111",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 171 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xmuz",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200522T162901_R083_T16SFJ_20200910T133509",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200529T161911_R040_T16SFJ_20200911T092843",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200527T162839_R083_T16SFJ_20200911T051824",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xpkc",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190809T154819_R054_T18TUK_20201004T222828",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190809T154819_R054_T18TVK_20201004T222830",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190814T154911_R054_T18TUK_20201005T001504",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xrsi",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20210809T183919_R070_T11SLV_20210810T104255",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210816T182919_R027_T11SLV_20210817T040837",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210814T183921_R070_T11SLV_20210815T042230",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xsbu",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20190719T184921_R113_T10SFH_20201005T162513",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20190724T184929_R113_T10SFH_20201005T191256",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xtkf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20191006T174211_R098_T13SEU_20201003T231319",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 5 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20191001T174139_R098_T13SEU_20201106T054509",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "xymd",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210803T154911_R054_T18TUK_20210804T054151",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20210803T154911_R054_T18TVK_20210804T044818",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210729T154819_R054_T18TVK_20210730T011024",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "yilu",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190614T184929_R113_T10SFH_20201006T021805",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190609T184921_R113_T10SFH_20201006T000220",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 177 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "yios",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180826T153901_R011_T18TYL_20201027T041235",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180826T153901_R011_T19TBF_20201011T065712",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 9 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180826T153901_R011_T18TYM_20201108T201146",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 185 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ylbx",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20211008T170119_R069_T15STB_20211009T062235",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 24 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20211003T170141_R069_T15STB_20211004T053802",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 15 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20211006T171211_R112_T15STB_20211007T072455",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 180 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "yszy",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20181108T184601_R070_T11SKA_20201008T165447",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20181103T184529_R070_T11SKA_20201008T153351",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 182 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "yuuv",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20201007T155141_R054_T18TUK_20201010T080559",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20201007T155141_R054_T18TVK_20201010T080557",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20201012T155119_R054_T18TUK_20201014T105747",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "yvch",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180603T155901_R097_T17SPV_20201026T135402",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180608T155859_R097_T17SPV_20201026T193609",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 175 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "ywmf",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20190816T153819_R011_T18TXL_20201005T011431",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 9 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20190821T153911_R011_T18TXL_20201005T030251",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "yyzq",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180717T153911_R011_T18SVH_20201011T164933",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 10 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20180710T154911_R054_T18SVH_20201011T140746",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180712T153809_R011_T18SVH_20201011T150605",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 13 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "zavh",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20180604T170851_R112_T14SPH_20201026T151115",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20180609T170849_R112_T14SPH_20201026T203240",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 179 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "zhie",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20200914T180919_R084_T12TWP_20200917T130820",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20200919T181031_R084_T12TWP_20200922T195551",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "zips",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20191126T185721_R113_T10SFF_20201003T200014",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20191201T185729_R113_T10SFF_20201030T195728",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 170 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "zkke",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2B_MSIL2A_20181017T171309_R112_T15SUD_20201009T123823",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20181014T170249_R069_T15SUD_20201009T113603",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2A_MSIL2A_20181012T171241_R112_T15SUD_20201009T104712",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 176 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "zomc",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20200624T163901_R126_T16SDJ_20200908T100100",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200626T162839_R083_T16SDJ_20200824T060551",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20200619T163839_R126_T16SDJ_20200823T085650",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 14 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    },
+    {
+      "uid": "zrkl",
+      "status": "insufficient_data",
+      "reason": "No usable satellite observation in the historical lookback window.",
+      "attempts": [
+        {
+          "item_id": "S2A_MSIL2A_20210716T162901_R083_T16SEH_20210717T085550",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        },
+        {
+          "item_id": "S2B_MSIL2A_20210711T162839_R083_T16SEH_20210712T004745",
+          "status": "insufficient_data",
+          "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 169 polygon pixels; fails unchanged minimum count/coverage gates."
+        }
+      ]
+    }
+  ],
+  "class_counts_after_qc": {
+    "1": 38,
+    "2": 33,
+    "3": 25,
+    "4": 19,
+    "5": 20
+  }
+}

@@ -1,0 +1,830 @@
+[
+  {
+    "reservoir": "krs",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/krs/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.72 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-1.7%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "bhadra",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/bhadra/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.97 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-5.5%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "tungabhadra",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/tungabhadra/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A42.19 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE54.3%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "supa",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/supa/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.32 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE11.6%10 Oct 2026 → 20 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "varahi",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/varahi/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A22.87 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-7.8%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "vani-vilasa",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/vani-vilasa/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A21.65 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-2.9%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "kabini",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kabini/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.85 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-4%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "harangi",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/harangi/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A32.37 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE31.8%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "hemavathi",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hemavathi/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.26 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-0.5%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "almatti",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/almatti/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.98 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-14.3%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "linganamakki",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/linganamakki/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.78 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-2.4%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "markonahalli",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/markonahalli/sentinel2/rgb?scene_id=S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A21.81 µg/LExperimental satellite-derived estimateACQUISITION DATE19 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-20.2%14 Oct 2026 → 19 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "yagachi",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/yagachi/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.22 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-1.2%27 Sept 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "hidkal",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hidkal/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.39 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-6.2%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "nugu",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/nugu/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.54 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-8.3%9 Oct 2026 → 17 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "kadra",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kadra/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.67 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-10.4%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "basava-sagara",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/basava-sagara/sentinel2/rgb?scene_id=MOSAIC_Sentinel2C_20261017T051821_62",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A29.17 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE35.4%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "malaprabha",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/malaprabha/sentinel2/rgb?scene_id=MOSAIC_Sentinel2C_20261020T052841_105",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A22.69 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-2.5%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "gerusoppa",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/gerusoppa/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.48 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-4.6%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "kodasalli",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kodasalli/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A19.61 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-3.7%2 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "karanja",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/karanja/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.29 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE12.9%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "kanva",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kanva/sentinel2/rgb?scene_id=S2B_MSIL2A_20261009T050719_R019_T43PGQ_20261009T090953",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A28.26 µg/LExperimental satellite-derived estimateACQUISITION DATE9 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE35.4%4 Oct 2026 → 9 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "manchanabele",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/manchanabele/sentinel2/rgb?scene_id=S2B_MSIL2A_20261019T050819_R019_T43PGQ_20261019T085221",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A67.65 µg/LExperimental satellite-derived estimateACQUISITION DATE19 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE28.3%14 Oct 2026 → 19 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "suvarnavathy",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/suvarnavathy/sentinel2/rgb?scene_id=S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A31.52 µg/LExperimental satellite-derived estimateACQUISITION DATE9 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE1.5%29 Sept 2026 → 9 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "taraka",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/taraka/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.12 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE11.4%7 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "votehole",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/votehole/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.61 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE26.3%27 Sept 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "bennethora",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/bennethora/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A21.77 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE52.6%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "chandrampalli",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chandrampalli/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A26.12 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-0.2%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "dharma",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/dharma/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A17.82 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE7.8%9 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "upper-tunga",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/upper-tunga/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A16.18 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-3.6%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "chikkahole",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chikkahole/sentinel2/rgb?scene_id=S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.81 µg/LExperimental satellite-derived estimateACQUISITION DATE14 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-7.4%9 Oct 2026 → 14 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "chiklihole",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chiklihole/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.21 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE7%7 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "hattikuni",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hattikuni/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGU_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.05 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-8.9%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "narihalla",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/narihalla/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.01 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-9.9%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "upper-mullamari",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/upper-mullamari/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.28 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE32.5%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "lower-mullamari",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/lower-mullamari/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A17.45 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-10.2%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "gundal",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/gundal/sentinel2/rgb?scene_id=S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.25 µg/LExperimental satellite-derived estimateACQUISITION DATE9 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE13.2%4 Oct 2026 → 9 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "gandorinala",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/gandorinala/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A17.09 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE4%9 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "maskinala",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/maskinala/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.9 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE8.8%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "chulkinala",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chulkinala/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.39 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-3.3%12 Oct 2026 → 17 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "harinala",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/harinala/sentinel2/rgb?scene_id=S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.23 µg/LExperimental satellite-derived estimateACQUISITION DATE15 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE25.8%10 Oct 2026 → 15 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "hirehalla",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hirehalla/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.58 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-0.6%12 Oct 2026 → 17 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "uduthorehalla",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/uduthorehalla/sentinel2/rgb?scene_id=S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.09 µg/LExperimental satellite-derived estimateACQUISITION DATE4 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-39.1%9 Sept 2026 → 4 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "jambhadhahalla",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/jambhadhahalla/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.97 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE17%2 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "tattihalla",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/tattihalla/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.5 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE1.3%12 Oct 2026 → 20 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "savehaklu",
+    "reopen_pass": 1,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/savehaklu/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.28 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-7.8%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "krs",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/krs/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.72 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-1.7%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "bhadra",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/bhadra/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.97 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-5.5%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "tungabhadra",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/tungabhadra/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A42.19 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE54.3%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "supa",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/supa/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.32 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE11.6%10 Oct 2026 → 20 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "varahi",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/varahi/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A22.87 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-7.8%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "vani-vilasa",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/vani-vilasa/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A21.65 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-2.9%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "kabini",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kabini/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.85 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-4%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "harangi",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/harangi/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A32.37 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE31.8%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "hemavathi",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hemavathi/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.26 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-0.5%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "almatti",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/almatti/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.98 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-14.3%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "linganamakki",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/linganamakki/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.78 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-2.4%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "markonahalli",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/markonahalli/sentinel2/rgb?scene_id=S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A21.81 µg/LExperimental satellite-derived estimateACQUISITION DATE19 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-20.2%14 Oct 2026 → 19 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "yagachi",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/yagachi/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.22 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-1.2%27 Sept 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "hidkal",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hidkal/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.39 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-6.2%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "nugu",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/nugu/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.54 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-8.3%9 Oct 2026 → 17 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "kadra",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kadra/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.67 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-10.4%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "basava-sagara",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/basava-sagara/sentinel2/rgb?scene_id=MOSAIC_Sentinel2C_20261017T051821_62",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A29.17 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE35.4%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "malaprabha",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/malaprabha/sentinel2/rgb?scene_id=MOSAIC_Sentinel2C_20261020T052841_105",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A22.69 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-2.5%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "gerusoppa",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/gerusoppa/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.48 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-4.6%15 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "kodasalli",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kodasalli/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A19.61 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-3.7%2 Oct 2026 → 20 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "karanja",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/karanja/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.29 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE12.9%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "kanva",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/kanva/sentinel2/rgb?scene_id=S2B_MSIL2A_20261009T050719_R019_T43PGQ_20261009T090953",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A28.26 µg/LExperimental satellite-derived estimateACQUISITION DATE9 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE35.4%4 Oct 2026 → 9 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "manchanabele",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/manchanabele/sentinel2/rgb?scene_id=S2B_MSIL2A_20261019T050819_R019_T43PGQ_20261019T085221",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A67.65 µg/LExperimental satellite-derived estimateACQUISITION DATE19 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE28.3%14 Oct 2026 → 19 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "suvarnavathy",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/suvarnavathy/sentinel2/rgb?scene_id=S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A31.52 µg/LExperimental satellite-derived estimateACQUISITION DATE9 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYHypereutrophicSatellite-derived screening classificationCOMPARABLE CHANGE1.5%29 Sept 2026 → 9 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "taraka",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/taraka/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.12 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE11.4%7 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "votehole",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/votehole/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.61 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE26.3%27 Sept 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "bennethora",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/bennethora/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A21.77 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE52.6%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "chandrampalli",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chandrampalli/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A26.12 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-0.2%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "dharma",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/dharma/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A17.82 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE7.8%9 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "upper-tunga",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/upper-tunga/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A16.18 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-3.6%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "chikkahole",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chikkahole/sentinel2/rgb?scene_id=S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.81 µg/LExperimental satellite-derived estimateACQUISITION DATE14 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-7.4%9 Oct 2026 → 14 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "chiklihole",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chiklihole/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.21 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE7%7 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "hattikuni",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hattikuni/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGU_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.05 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-8.9%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "narihalla",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/narihalla/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.01 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-9.9%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "upper-mullamari",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/upper-mullamari/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.28 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE32.5%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "lower-mullamari",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/lower-mullamari/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A17.45 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-10.2%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "gundal",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/gundal/sentinel2/rgb?scene_id=S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.25 µg/LExperimental satellite-derived estimateACQUISITION DATE9 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE13.2%4 Oct 2026 → 9 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "gandorinala",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/gandorinala/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A17.09 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE4%9 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "maskinala",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/maskinala/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A25.9 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE8.8%12 Oct 2026 → 17 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "chulkinala",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/chulkinala/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.39 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-3.3%12 Oct 2026 → 17 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "harinala",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/harinala/sentinel2/rgb?scene_id=S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.23 µg/LExperimental satellite-derived estimateACQUISITION DATE15 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE25.8%10 Oct 2026 → 15 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "hirehalla",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/hirehalla/sentinel2/rgb?scene_id=S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A20.58 µg/LExperimental satellite-derived estimateACQUISITION DATE17 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-0.6%12 Oct 2026 → 17 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "uduthorehalla",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/uduthorehalla/sentinel2/rgb?scene_id=S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.09 µg/LExperimental satellite-derived estimateACQUISITION DATE4 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-39.1%9 Sept 2026 → 4 Oct 2026 · Decreasing"
+  },
+  {
+    "reservoir": "jambhadhahalla",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/jambhadhahalla/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A24.97 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE17%2 Oct 2026 → 12 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "tattihalla",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/tattihalla/sentinel2/rgb?scene_id=S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A27.5 µg/LExperimental satellite-derived estimateACQUISITION DATE20 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE1.3%12 Oct 2026 → 20 Oct 2026 · Increasing"
+  },
+  {
+    "reservoir": "savehaklu",
+    "reopen_pass": 2,
+    "display": "PASS",
+    "map_svg_present": "PASS",
+    "polygon_popup_and_click": "PASS",
+    "image_src": "/api/reservoirs/savehaklu/sentinel2/rgb?scene_id=S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A23.28 µg/LExperimental satellite-derived estimateACQUISITION DATE12 Oct 2026Same scene as both imagery viewsEPA CONCENTRATION CATEGORYEutrophicSatellite-derived screening classificationCOMPARABLE CHANGE-7.8%9 Oct 2026 → 12 Oct 2026 · Decreasing"
+  }
+]

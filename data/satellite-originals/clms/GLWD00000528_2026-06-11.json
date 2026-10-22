@@ -1,0 +1,27 @@
+{
+  "lake_id": "GLWD00000528",
+  "kgis_id": "KA07040042",
+  "date": "2026-06-11",
+  "period_start": "2026-06-11T00:00:00.000",
+  "period_end": "2026-06-20T23:59:59.999",
+  "candidate_product": "c_gls_LWQ300_202606110000_GLOBE_OLCI_V2.1.1_cog",
+  "collection": "byoc-5c2c9b2c-2893-41d9-b2bc-fbd6e5b8b31d",
+  "bbox": [
+    75.93973214285714,
+    15.111607142857153,
+    76.37723214285711,
+    15.30357142857143
+  ],
+  "bands": [
+    "CHLAMEAN",
+    "FCBPROB",
+    "TMEAN",
+    "NOBS",
+    "QFLAG",
+    "CHLAUNC",
+    "dataMask"
+  ],
+  "boundary_sha256": "b8d92760972d0db5c36a1761e301fe5d0ec7cd0155b47fe12b9f2aef42ba483b",
+  "sha256": "7ccfa8b018c4d74d63dacbae8688993a496debc3a766b5e57e3aacb29b53308d",
+  "retrieved_at": "2026-10-18T11:27:21.249833+00:00"
+}

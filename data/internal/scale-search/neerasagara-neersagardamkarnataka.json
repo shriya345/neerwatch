@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": 252343593,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 251901691,
+    "lat": "15.3172347",
+    "lon": "74.9883988",
+    "category": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13338665522240023,
+    "addresstype": "dam",
+    "name": "Neersagar Dam",
+    "display_name": "Neersagar Dam, Gambhyapura, Kalaghatagi taluku, Dharwad, Karnataka, 580114, India",
+    "boundingbox": [
+      "15.3125146",
+      "15.3245984",
+      "74.9847794",
+      "74.9905295"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          74.9847794,
+          15.3130476
+        ],
+        [
+          74.9848298,
+          15.3132418
+        ],
+        [
+          74.9863348,
+          15.3130527
+        ],
+        [
+          74.9869839,
+          15.3125146
+        ],
+        [
+          74.9869998,
+          15.3130142
+        ],
+        [
+          74.9871663,
+          15.3129751
+        ],
+        [
+          74.9905295,
+          15.3245984
+        ]
+      ]
+    }
+  }
+]

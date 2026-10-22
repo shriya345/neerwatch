@@ -1,0 +1,13 @@
+{
+  "method": "Gilerson 2010 two-band; Sentinel-2 L2A BOA screening adaptation v1",
+  "equation": "(35.75 * B05 / B04 - 19.30) ** 1.124",
+  "reference": "https://doi.org/10.1364/OE.18.024109",
+  "implementation_reference": "https://github.com/bishun945/FCMm/blob/master/R/Chla_estimation.R",
+  "input": "Provider Sen2Cor L2A BOA reflectance, experimental approximation to aquatic reflectance",
+  "native_dn_conversion": "asset scale/offset if provided; otherwise DN * 0.0001 plus -0.1 for baseline >= 04.00; older baselines offset 0",
+  "output_unit": "\u00b5g/L (numerically equivalent to mg/m\u00b3)",
+  "qc": "positive finite reflectance in all 6 bands <=1; SCL water 6, 60 m shoreline erosion and cloud/shadow exclusion; minimum 25 valid pixels and 10% polygon coverage; algorithm outputs 1\u2013100 \u00b5g/L, invalids omitted rather than clamped",
+  "mosaic": "Same calendar date, platform, relative orbit, processing baseline; provider STAC timestamps <=300 seconds; one deterministic tile owner per output pixel used for SCL and all spectral bands; common 60 m UTM grid; vector union and data footprint >=95%",
+  "coefficient_change_for_scaling": false,
+  "validation": "Experimental screening only; no Karnataka field validation, accuracy scores, bloom probability or toxicity claims"
+}

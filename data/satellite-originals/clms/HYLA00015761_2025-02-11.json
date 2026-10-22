@@ -1,0 +1,27 @@
+{
+  "lake_id": "HYLA00015761",
+  "kgis_id": "KA17030269",
+  "date": "2025-02-11",
+  "period_start": "2025-02-11T00:00:00.000",
+  "period_end": "2025-02-20T23:59:59.999",
+  "candidate_product": "c_gls_LWQ300_202502110000_GLOBE_OLCI_V2.0.0_cog",
+  "collection": "byoc-5c2c9b2c-2893-41d9-b2bc-fbd6e5b8b31d",
+  "bbox": [
+    75.48660714285714,
+    13.520089285714292,
+    75.66294642857142,
+    13.732142857142861
+  ],
+  "bands": [
+    "CHLAMEAN",
+    "FCBPROB",
+    "TMEAN",
+    "NOBS",
+    "QFLAG",
+    "CHLAUNC",
+    "dataMask"
+  ],
+  "boundary_sha256": "c9f9808b8eb82210569e3069d159d4dadb4ec7667efa91168fc9140afaa3ef2e",
+  "sha256": "ed9c2e97d746a37791d572778c25b50ebbfd5ce901636cad0bccfbefa34c6dfc",
+  "retrieved_at": "2026-10-18T11:27:52.744341+00:00"
+}

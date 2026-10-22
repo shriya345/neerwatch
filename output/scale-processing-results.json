@@ -1,0 +1,260 @@
+[
+  {
+    "id": "basava-sagara",
+    "result": 29.171611785888672,
+    "scene_id": "MOSAIC_Sentinel2C_20261017T051821_62"
+  },
+  {
+    "id": "malaprabha",
+    "result": 22.69149398803711,
+    "scene_id": "MOSAIC_Sentinel2C_20261020T052841_105"
+  },
+  {
+    "id": "gerusoppa",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "kodasalli",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "karanja",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "kanva",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "manchanabele",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "suvarnavathy",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "taraka",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "votehole",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "bennethora",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "chandrampalli",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "dharma",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "upper-tunga",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "amarja",
+    "reason": "No correct water polygon returned near government dam location"
+  },
+  {
+    "id": "chikkahole",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "chiklihole",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "hattikuni",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "narihalla",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "upper-mullamari",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "lower-mullamari",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "gundal",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "gandorinala",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "maskinala",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "chulkinala",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "harinala",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "hirehalla",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "uduthorehalla",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "jambhadhahalla",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "ambligola",
+    "reason": "Official name is Tank; independent substantial-reservoir classification not established"
+  },
+  {
+    "id": "tattihalla",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "savehaklu",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "chakra",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  },
+  {
+    "id": "rakkaskop",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "reason": null
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "place_id": 250020722,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11925296367,
+    "lat": "17.4442677",
+    "lon": "77.0120868",
+    "category": "water",
+    "type": "reservoir",
+    "place_rank": 20,
+    "importance": 0.13337083466849772,
+    "addresstype": "reservoir",
+    "name": "Bennethora Reservoir \u0cac\u0cc6\u0ca3\u0ccd\u0ca3\u0cc6\u0ca4\u0cca\u0cb0\u0cbe \u0c9c\u0cb2\u0cbe\u0cb6\u0caf",
+    "display_name": "Bennethora Reservoir \u0cac\u0cc6\u0ca3\u0ccd\u0ca3\u0cc6\u0ca4\u0cca\u0cb0\u0cbe \u0c9c\u0cb2\u0cbe\u0cb6\u0caf, Herura, Kalagi taluku, Kalaburagi, Karnataka, India",
+    "boundingbox": [
+      "17.4442177",
+      "17.4443177",
+      "77.0120368",
+      "77.0121368"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        77.0120868,
+        17.4442677
+      ]
+    }
+  }
+]

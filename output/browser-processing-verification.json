@@ -1,0 +1,27 @@
+[
+  {
+    "reservoir": "KRS",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A\n24.72 µg/L\n\nExperimental satellite-derived estimate\n\nACQUISITION DATE\n12 Oct 2026\n\nSame scene as both imagery views\n\nEPA CONCENTRATION CATEGORY\nEutrophic\n\nSatellite-derived screening classification\n\nCOMPARABLE CHANGE\n-1.7%\n\n9 Oct 2026 → 12 Oct 2026 · Decreasing",
+    "processing": "Refresh Sentinel-2 estimate\nOn demand · cached results"
+  },
+  {
+    "reservoir": "Bhadra",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A\n23.97 µg/L\n\nExperimental satellite-derived estimate\n\nACQUISITION DATE\n12 Oct 2026\n\nSame scene as both imagery views\n\nEPA CONCENTRATION CATEGORY\nEutrophic\n\nSatellite-derived screening classification\n\nCOMPARABLE CHANGE\n-5.5%\n\n9 Oct 2026 → 12 Oct 2026 · Decreasing",
+    "processing": "Refresh Sentinel-2 estimate\nOn demand · cached results"
+  },
+  {
+    "reservoir": "Tungabhadra",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A\n42.19 µg/L\n\nExperimental satellite-derived estimate\n\nACQUISITION DATE\n17 Oct 2026\n\nSame scene as both imagery views\n\nEPA CONCENTRATION CATEGORY\nHypereutrophic\n\nSatellite-derived screening classification\n\nCOMPARABLE CHANGE\nUnavailable\n\nTwo observations from the same method required.",
+    "processing": "Processing satellite bands…\nreading B08 · 12 Oct 2026"
+  },
+  {
+    "reservoir": "Supa",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A\n25.32 µg/L\n\nExperimental satellite-derived estimate\n\nACQUISITION DATE\n20 Oct 2026\n\nSame scene as both imagery views\n\nEPA CONCENTRATION CATEGORY\nEutrophic\n\nSatellite-derived screening classification\n\nCOMPARABLE CHANGE\n11.6%\n\n10 Oct 2026 → 20 Oct 2026 · Increasing",
+    "processing": "Refresh Sentinel-2 estimate\nOn demand · cached results"
+  },
+  {
+    "reservoir": "Vani Vilasa Sagara",
+    "stats": "SENTINEL-2 CHLOROPHYLL-A\n21.65 µg/L\n\nExperimental satellite-derived estimate\n\nACQUISITION DATE\n12 Oct 2026\n\nSame scene as both imagery views\n\nEPA CONCENTRATION CATEGORY\nEutrophic\n\nSatellite-derived screening classification\n\nCOMPARABLE CHANGE\n-2.9%\n\n9 Oct 2026 → 12 Oct 2026 · Decreasing",
+    "processing": "Refresh Sentinel-2 estimate\nOn demand · cached results"
+  }
+]

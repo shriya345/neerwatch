@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 252235682,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 153204460,
+    "lat": "13.7828962",
+    "lon": "74.9691273",
+    "category": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.1333433333333333,
+    "addresstype": "dam",
+    "name": "Savehaklu Dam",
+    "display_name": "Savehaklu Dam, Hosanagara taluk, Shimoga, Karnataka, India",
+    "boundingbox": [
+      "13.7806223",
+      "13.7853008",
+      "74.9672087",
+      "74.9708565"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          74.9672087,
+          13.7806223
+        ],
+        [
+          74.9702771,
+          13.7842588
+        ],
+        [
+          74.9704233,
+          13.7845217
+        ],
+        [
+          74.9708565,
+          13.7853008
+        ]
+      ]
+    }
+  }
+]

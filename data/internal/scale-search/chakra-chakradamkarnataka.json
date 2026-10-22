@@ -1,0 +1,66 @@
+[
+  {
+    "place_id": 250898898,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 341586824,
+    "lat": "13.8204597",
+    "lon": "74.9558187",
+    "category": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13337083466849772,
+    "addresstype": "dam",
+    "name": "Chakra dam",
+    "display_name": "Chakra dam, Hosanagara taluk, Shimoga, Karnataka, India",
+    "boundingbox": [
+      "13.8184468",
+      "13.8213120",
+      "74.9534174",
+      "74.9565980"
+    ],
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            74.9534174,
+            13.8184468
+          ],
+          [
+            74.9537147,
+            13.818461
+          ],
+          [
+            74.9544811,
+            13.8186263
+          ],
+          [
+            74.9554057,
+            13.81852
+          ],
+          [
+            74.956598,
+            13.8197368
+          ],
+          [
+            74.9562389,
+            13.821312
+          ],
+          [
+            74.9559035,
+            13.8211826
+          ],
+          [
+            74.9541744,
+            13.8193949
+          ],
+          [
+            74.9534174,
+            13.8184468
+          ]
+        ]
+      ]
+    }
+  }
+]

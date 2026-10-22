@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": 252883140,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 922414911,
+    "lat": "14.1855144",
+    "lon": "75.2604994",
+    "category": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13337083466849772,
+    "addresstype": "dam",
+    "name": "Ambligola Dam",
+    "display_name": "Ambligola Dam, Sagara taluk, Shimoga, Karnataka, India",
+    "boundingbox": [
+      "14.1827176",
+      "14.1890522",
+      "75.2595127",
+      "75.2612722"
+    ],
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            75.2595127,
+            14.1890236
+          ],
+          [
+            75.2595368,
+            14.1888676
+          ],
+          [
+            75.2595234,
+            14.1885737
+          ],
+          [
+            75.2599418,
+            14.1870161
+          ],
+          [
+            75.2606794,
+            14.1845041
+          ],
+          [
+            75.261122,
+            14.1828112
+          ],
+          [
+            75.2612722,
+            14.1827176
+          ],
+          [
+            75.2611864,
+            14.1835861
+          ],
+          [
+            75.2603173,
+            14.1865246
+          ],
+          [
+            75.2596468,
+            14.1890522
+          ],
+          [
+            75.2595127,
+            14.1890236
+          ]
+        ]
+      ]
+    }
+  }
+]

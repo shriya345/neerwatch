@@ -1,0 +1,262 @@
+{
+  "reservoir_id": "basava-sagara",
+  "observations": [
+    {
+      "status": "available",
+      "quality": {
+        "valid_pixels": 24541,
+        "polygon_pixels": 34148,
+        "valid_fraction": 0.7186658076607708,
+        "resolution_m": 60,
+        "shoreline_buffer_m": 60,
+        "cloud_buffer_m": 60,
+        "minimum_valid_pixels": 25,
+        "minimum_valid_fraction": 0.1,
+        "screening_basis": "Project quality screening; not provider validation"
+      },
+      "features": {
+        "B02_mean": 0.05202068015933037,
+        "B02_median": 0.050599999725818634,
+        "B02_std": 0.014756109565496445,
+        "B03_mean": 0.07498760521411896,
+        "B03_median": 0.07239999622106552,
+        "B03_std": 0.020312486216425896,
+        "B04_mean": 0.0494375117123127,
+        "B04_median": 0.04639998823404312,
+        "B04_std": 0.018896369263529778,
+        "B05_mean": 0.04883148893713951,
+        "B05_median": 0.04639998823404312,
+        "B05_std": 0.016633639112114906,
+        "B08_mean": 0.02913818508386612,
+        "B08_median": 0.0291999951004982,
+        "B08_std": 0.01162880752235651,
+        "B11_mean": 0.031136522069573402,
+        "B11_median": 0.030799992382526398,
+        "B11_std": 0.008525358512997627,
+        "ndci": -0.005820647347718477,
+        "ndwi": 0.43527206778526306,
+        "fai": -0.013451118022203445
+      },
+      "reason": null,
+      "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PFT_20260927T101415",
+      "observed_at": "2026-09-27T05:16:51.025000Z",
+      "source": "Copernicus Sentinel-2 L2A / Microsoft Planetary Computer",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PFT_20260927T101415",
+      "retrieved_at": "2026-10-21T19:06:34.605164+00:00",
+      "boundary_source": "OpenStreetMap mapped reservoir polygon; independent field validation pending",
+      "cyanobacteria_dominance_established": false,
+      "chlorophyll_a": null,
+      "chlorophyll_note": "No calibrated chlorophyll-a concentration is available from this Sentinel-2 extraction. NDCI is a spectral index, not a concentration.",
+      "query_end": "2026-10-15",
+      "image_filename": "basava-sagara-2026-09-27.png"
+    }
+  ],
+  "weather": {
+    "source": "NASA POWER daily gridded meteorology (not an in-lake measurement)",
+    "source_url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M%2CPRECTOTCORR%2CWS2M&community=AG&latitude=16.2237273&longitude=76.3320099&start=20260915&end=20261015&format=JSON",
+    "retrieved_at": "2026-10-21T19:05:58.902732+00:00",
+    "rows": [
+      {
+        "date": "2026-09-15",
+        "air_temperature_c": 29.32,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 2.82
+      },
+      {
+        "date": "2026-09-16",
+        "air_temperature_c": 29.42,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 3.09
+      },
+      {
+        "date": "2026-09-17",
+        "air_temperature_c": 29.96,
+        "rainfall_mm": 0.48,
+        "wind_speed_ms": 3.61
+      },
+      {
+        "date": "2026-09-18",
+        "air_temperature_c": 30.22,
+        "rainfall_mm": 6.0,
+        "wind_speed_ms": 3.45
+      },
+      {
+        "date": "2026-09-19",
+        "air_temperature_c": 29.71,
+        "rainfall_mm": 53.76,
+        "wind_speed_ms": 2.28
+      },
+      {
+        "date": "2026-09-20",
+        "air_temperature_c": 27.03,
+        "rainfall_mm": 153.6,
+        "wind_speed_ms": 1.62
+      },
+      {
+        "date": "2026-09-21",
+        "air_temperature_c": 27.57,
+        "rainfall_mm": 146.4,
+        "wind_speed_ms": 1.34
+      },
+      {
+        "date": "2026-09-22",
+        "air_temperature_c": 26.28,
+        "rainfall_mm": 163.2,
+        "wind_speed_ms": 3.75
+      },
+      {
+        "date": "2026-09-23",
+        "air_temperature_c": 25.97,
+        "rainfall_mm": 70.8,
+        "wind_speed_ms": 4.64
+      },
+      {
+        "date": "2026-09-24",
+        "air_temperature_c": 25.2,
+        "rainfall_mm": 288.0,
+        "wind_speed_ms": 4.03
+      },
+      {
+        "date": "2026-09-25",
+        "air_temperature_c": 27.92,
+        "rainfall_mm": 11.52,
+        "wind_speed_ms": 4.48
+      },
+      {
+        "date": "2026-09-26",
+        "air_temperature_c": 27.82,
+        "rainfall_mm": 25.44,
+        "wind_speed_ms": 3.87
+      },
+      {
+        "date": "2026-09-27",
+        "air_temperature_c": 28.09,
+        "rainfall_mm": 11.52,
+        "wind_speed_ms": 1.68
+      },
+      {
+        "date": "2026-09-28",
+        "air_temperature_c": 28.66,
+        "rainfall_mm": 59.76,
+        "wind_speed_ms": 1.27
+      },
+      {
+        "date": "2026-09-29",
+        "air_temperature_c": 27.48,
+        "rainfall_mm": 67.92,
+        "wind_speed_ms": 1.48
+      },
+      {
+        "date": "2026-09-30",
+        "air_temperature_c": 28.78,
+        "rainfall_mm": 92.88,
+        "wind_speed_ms": 0.94
+      },
+      {
+        "date": "2026-10-01",
+        "air_temperature_c": 26.9,
+        "rainfall_mm": 0.72,
+        "wind_speed_ms": 1.63
+      },
+      {
+        "date": "2026-10-02",
+        "air_temperature_c": 27.13,
+        "rainfall_mm": 0.72,
+        "wind_speed_ms": 2.12
+      },
+      {
+        "date": "2026-10-03",
+        "air_temperature_c": 26.94,
+        "rainfall_mm": 3.84,
+        "wind_speed_ms": 1.64
+      },
+      {
+        "date": "2026-10-04",
+        "air_temperature_c": 27.24,
+        "rainfall_mm": 5.28,
+        "wind_speed_ms": 1.35
+      },
+      {
+        "date": "2026-10-05",
+        "air_temperature_c": 27.6,
+        "rainfall_mm": 62.16,
+        "wind_speed_ms": 0.93
+      },
+      {
+        "date": "2026-10-06",
+        "air_temperature_c": 26.96,
+        "rainfall_mm": 1.92,
+        "wind_speed_ms": 1.53
+      },
+      {
+        "date": "2026-10-07",
+        "air_temperature_c": 26.48,
+        "rainfall_mm": 0.24,
+        "wind_speed_ms": 2.04
+      },
+      {
+        "date": "2026-10-08",
+        "air_temperature_c": 26.93,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 1.82
+      },
+      {
+        "date": "2026-10-09",
+        "air_temperature_c": 27.15,
+        "rainfall_mm": 0.48,
+        "wind_speed_ms": 1.78
+      },
+      {
+        "date": "2026-10-10",
+        "air_temperature_c": 26.9,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 2.05
+      },
+      {
+        "date": "2026-10-11",
+        "air_temperature_c": 26.81,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 2.37
+      },
+      {
+        "date": "2026-10-12",
+        "air_temperature_c": 26.78,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 2.36
+      },
+      {
+        "date": "2026-10-13",
+        "air_temperature_c": 26.51,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 2.4
+      },
+      {
+        "date": "2026-10-14",
+        "air_temperature_c": 26.18,
+        "rainfall_mm": 0.0,
+        "wind_speed_ms": 1.88
+      },
+      {
+        "date": "2026-10-15",
+        "air_temperature_c": 27.02,
+        "rainfall_mm": 0.72,
+        "wind_speed_ms": 1.55
+      }
+    ],
+    "parameters": {
+      "T2M": {
+        "units": "C",
+        "longname": "Temperature at 2 Meters"
+      },
+      "PRECTOTCORR": {
+        "units": "mm/day",
+        "longname": "Precipitation Corrected"
+      },
+      "WS2M": {
+        "units": "m/s",
+        "longname": "Wind Speed at 2 Meters"
+      }
+    }
+  },
+  "updated_at": "2026-10-21T19:06:34.626488+00:00"
+}

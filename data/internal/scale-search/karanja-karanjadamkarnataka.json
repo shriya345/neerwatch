@@ -1,0 +1,52 @@
+[
+  {
+    "place_id": 250384550,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 146341230,
+    "lat": "17.8875716",
+    "lon": "77.3128860",
+    "category": "waterway",
+    "type": "dam",
+    "place_rank": 20,
+    "importance": 0.13337083466849772,
+    "addresstype": "dam",
+    "name": "\u0c95\u0cbe\u0cb0\u0c82\u0c9c \u0c86\u0ca3\u0cc6\u0c95\u0c9f\u0ccd\u0c9f\u0cc1",
+    "display_name": "\u0c95\u0cbe\u0cb0\u0c82\u0c9c \u0c86\u0ca3\u0cc6\u0c95\u0c9f\u0ccd\u0c9f\u0cc1, Sindhabandhagi, Byalahalli, Bhalki taluku, Bidar, Karnataka, India",
+    "boundingbox": [
+      "17.8792853",
+      "17.8890911",
+      "77.3007769",
+      "77.3276488"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          77.3276488,
+          17.8890911
+        ],
+        [
+          77.3152641,
+          17.8881764
+        ],
+        [
+          77.3109756,
+          17.8870857
+        ],
+        [
+          77.3094229,
+          17.8862062
+        ],
+        [
+          77.303286,
+          17.8807528
+        ],
+        [
+          77.3007769,
+          17.8792853
+        ]
+      ]
+    }
+  }
+]

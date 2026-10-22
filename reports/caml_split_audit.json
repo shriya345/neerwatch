@@ -1,0 +1,231 @@
+{
+  "reason": "Initial development validation partition lacked class 3. Repaired using development-only category counts and target size; no performance-based split selection.",
+  "original_validation_class_counts": {
+    "1": 6,
+    "2": 1,
+    "3": 0,
+    "4": 2,
+    "5": 2
+  },
+  "fixed_test_preserved": true,
+  "fixed_test_uids": [
+    "ayze",
+    "bkqd",
+    "cacg",
+    "clmh",
+    "ctgf",
+    "esic",
+    "ettz",
+    "fgio",
+    "fmdy",
+    "fuus",
+    "garm",
+    "gfca",
+    "gkab",
+    "gwze",
+    "hxnz",
+    "jhsk",
+    "jmem",
+    "jqhd",
+    "jtxh",
+    "kgyw",
+    "kzxi",
+    "msop",
+    "mxaj",
+    "nwhh",
+    "ocvw",
+    "omai",
+    "oyxb",
+    "phbj",
+    "qmlm",
+    "shpc",
+    "sulb",
+    "teps",
+    "tftu",
+    "tmev",
+    "ttnt",
+    "utaz",
+    "wccr",
+    "wnuc",
+    "xxxz",
+    "yfeq",
+    "ztwf"
+  ],
+  "initial_evaluation": {
+    "train_count": 83,
+    "validation_count": 11,
+    "test_count": 41,
+    "mlp": {
+      "accuracy": 0.3902439024390244,
+      "macro_f1": 0.2806349206349206,
+      "per_class": {
+        "1": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 6.0
+        },
+        "2": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 10.0
+        },
+        "3": {
+          "precision": 0.25,
+          "recall": 0.2,
+          "f1-score": 0.2222222222222222,
+          "support": 5.0
+        },
+        "4": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 10.0
+        },
+        "5": {
+          "precision": 0.36,
+          "recall": 0.9,
+          "f1-score": 0.5142857142857142,
+          "support": 10.0
+        },
+        "accuracy": 0.3902439024390244,
+        "macro avg": {
+          "precision": 0.22199999999999998,
+          "recall": 0.42000000000000004,
+          "f1-score": 0.2806349206349206,
+          "support": 41.0
+        },
+        "weighted avg": {
+          "precision": 0.19146341463414634,
+          "recall": 0.3902439024390244,
+          "f1-score": 0.2500967866821525,
+          "support": 41.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          6,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          0,
+          1,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          4
+        ],
+        [
+          2,
+          0,
+          1,
+          0,
+          7
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          9
+        ]
+      ]
+    },
+    "random_forest": {
+      "accuracy": 0.1951219512195122,
+      "macro_f1": 0.19435574229691877,
+      "per_class": {
+        "1": {
+          "precision": 0.36363636363636365,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.47058823529411764,
+          "support": 6.0
+        },
+        "2": {
+          "precision": 0.25,
+          "recall": 0.1,
+          "f1-score": 0.14285714285714285,
+          "support": 10.0
+        },
+        "3": {
+          "precision": 0.09090909090909091,
+          "recall": 0.2,
+          "f1-score": 0.125,
+          "support": 5.0
+        },
+        "4": {
+          "precision": 0.2,
+          "recall": 0.1,
+          "f1-score": 0.13333333333333333,
+          "support": 10.0
+        },
+        "5": {
+          "precision": 0.1,
+          "recall": 0.1,
+          "f1-score": 0.1,
+          "support": 10.0
+        },
+        "accuracy": 0.1951219512195122,
+        "macro avg": {
+          "precision": 0.20090909090909093,
+          "recall": 0.23333333333333334,
+          "f1-score": 0.19435574229691877,
+          "support": 41.0
+        },
+        "weighted avg": {
+          "precision": 0.1984478935698448,
+          "recall": 0.1951219512195122,
+          "f1-score": 0.17586424813827967,
+          "support": 41.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          4,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          1,
+          2,
+          1,
+          3
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          3,
+          1,
+          4
+        ],
+        [
+          2,
+          0,
+          5,
+          2,
+          1
+        ]
+      ]
+    }
+  }
+}

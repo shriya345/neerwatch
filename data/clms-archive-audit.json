@@ -1,0 +1,4174 @@
+{
+  "source_directory": "/Users/shriyahr/Downloads/hab-early-warning-main/outputs/copernicus_karnataka_feasibility/history",
+  "original_rasters": [
+    {
+      "file": "GLWD00000528_2024-09-01.tif",
+      "sha256": "d99f351f16882b2088d175150071e34b02f7b39a9e4cc835b174e148c45de000",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-09-11.tif",
+      "sha256": "eee7aab38ee9b36523b8ca8b06221272b0cda83c15125eb75be81ed847f634c4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-09-21.tif",
+      "sha256": "e1a8b0ba34d983faafa21ad587b46a8245bde887203af5a349b1954295557859",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-10-01.tif",
+      "sha256": "b6930906f9089b25968c169356763cc8820fe3d392b3abe8cbd4dac3f7d0ed6c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-10-11.tif",
+      "sha256": "e6f6fbea8c90e5e8b0c8a623be59599db36b014454ccb2541486b70713a9397c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-10-21.tif",
+      "sha256": "92f6576c36fc77c2590911df165a496c13895cd4ae4cd1f4165e992c06ac4067",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-11-01.tif",
+      "sha256": "f29ea3039fdf130a200f3a3d85da3748865ffdbe7abb3981299909bd393ac633",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-11-11.tif",
+      "sha256": "d90737871db1fda3ddbd0c50a5af8b282fd302a858e606dba58b60b47e139ada",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-11-21.tif",
+      "sha256": "912c130263fc285b3aed8dc133c434286f7eab1a5b4c5ce929a9cacac84f0057",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-12-01.tif",
+      "sha256": "d126be38ec191dd328cd57be948392a2a9b5e2f62611b44bc92b8a0b724e7a53",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-12-11.tif",
+      "sha256": "906e105e7c63d2ea638727fdba50f8b8cb6f04befed2884bd458958fa57fab6f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2024-12-21.tif",
+      "sha256": "bdf2b89d500736bb4faa34facb40e5a0cd3485e08c11c441a2199a367fa8b217",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-01-01.tif",
+      "sha256": "c0272da4410f8bd9761935819ea0a30957df62b07b8b3dd13c4f9d5491177525",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-01-11.tif",
+      "sha256": "a76195850ba7e476d778bbd9b302a6b2dbdd121f268e859c3e1b6c3a8780f6f1",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-01-21.tif",
+      "sha256": "771cc311e720b8423510b74ce99a9827fdcca4514b083c00143d74ba65935a00",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-02-01.tif",
+      "sha256": "f106a679e3b6999fdcd6ad8621db2a962b984fb9d57b4e2e0becd2f348b7b78a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-02-11.tif",
+      "sha256": "8083642b794bcb522f5625b65c0dd77b6a027f0d2661be9f527b6af3727e7622",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-02-21.tif",
+      "sha256": "28d4159d87b7d3124c659087c8786d7395ccdc2fe6b407e54e9960daf40f747f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-03-01.tif",
+      "sha256": "0cb0f98eeedf9812a0cdf52397bfcf25a7da4b6e92d577138bbfb05bddebe082",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-03-11.tif",
+      "sha256": "aeb45d0b99b64f31518177d5f27b3513a29b4c804c79c7c73202ce3c16c2e88e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-03-21.tif",
+      "sha256": "b674fbb37eba440f021b1f4e919e99879b335173bf7c0d7f8b7c18255968a170",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-04-01.tif",
+      "sha256": "f7799b2a67cf6372d48520f59fcfc139c666bcb407f1383b125be559f6bc75c5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-04-11.tif",
+      "sha256": "2dc6bd916450b47b2537ca0040d04548a38187eb6fe55c6b8d2edcbe6eef3214",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-04-21.tif",
+      "sha256": "fbd1906379a275615de1929dc166a7535493d081b9138f887e75f73dafa9ce5a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-05-01.tif",
+      "sha256": "17d8f9e6672d14595f92bd5e69f1818c62fd4309339159c70ff2a50794dfc4c5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-05-11.tif",
+      "sha256": "6e4b45ec6d74117ddf78c651a13e969539f1972338a27b03cce0caf5375179a0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-05-21.tif",
+      "sha256": "7bf5f9dbdc6b209a889df7090400bdd9993da24b2987d006d42b06526a489948",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-06-01.tif",
+      "sha256": "f5208ad01f053cb074cf84fd610717249946d194cfe4cf2867845a5411b367f2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-06-11.tif",
+      "sha256": "84f98dcc00eefeefc2571dbd9895f0b994c0d8fb59e98be4e47ad68e53b23eb3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-06-21.tif",
+      "sha256": "733ca87914fde38aa9052c01f7fec4898b51cfa3297dd33303c743b58397f77c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-07-01.tif",
+      "sha256": "9292d0b95b605afaab9899d6af23528c9185c762cf5e74634a7139e8e5340063",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-07-11.tif",
+      "sha256": "ddb7e861fee1a0e795df5113f969b14919fedc13597f6baff166756a099486f1",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-07-21.tif",
+      "sha256": "4904c78420bcb6d2b95ca2a036eef7206011a3c07e91069b6afeb8471ebc7f02",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-08-01.tif",
+      "sha256": "8778823e84acaf2b10a306905c967a33ed3e9fca93f5e07c3b30478457a72f6a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-08-11.tif",
+      "sha256": "2633341c129425cb0a3110a5522dd58936e3d9008bb9de67d4ce80f7d3a12a84",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-08-21.tif",
+      "sha256": "6e041c6d530c7c01f524161ac83fdaed16a5c3934f0e008ba445c64109139516",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-09-01.tif",
+      "sha256": "b77e3a2490d22f26eef4f5724622af9b1b0ea21bdaa12c0b6ba96f13ff8a3421",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-09-11.tif",
+      "sha256": "e78c4e4be2e6e393da2f5e353259123168a9d93014da6f01ea99ce9dd2a7d320",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-09-21.tif",
+      "sha256": "64f0c9f36e101c7f55e8b7bd96ef421312713d91dcbf4a5c174fe9673375437e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-10-01.tif",
+      "sha256": "51078883f644c0c604bf5a59eee4aee5c2f9e2331305062b63f005224ae85653",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-10-11.tif",
+      "sha256": "4706f14586bc6ce8d684f04aad37220b2d3c45578e8179aac4b97351932cfbda",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-10-21.tif",
+      "sha256": "f4320dad78487f8798b0ba3f3a22f9f559d0da33f3e113012869d28965895c4c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-11-01.tif",
+      "sha256": "b1516d978b41712f4e83ea321d047fbdac105f05df77d497eb4d234cb116193e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-11-11.tif",
+      "sha256": "8b26b0beb4f06286650a6b59b296ec6dd5519e34e9b3821abf60034663196a51",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-11-21.tif",
+      "sha256": "393b3743f59224eb5b5ba21020264833968510e34eeb0b26f1796d4907b0a9ea",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-12-01.tif",
+      "sha256": "7bae021c48b945171903706e175cf6eaa92537d38b75d14b1c5a6399cced6842",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-12-11.tif",
+      "sha256": "5c7e9bacfd4d5029243fc6c41df3d2344e8611526182696efd726a5d646e4138",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2025-12-21.tif",
+      "sha256": "27b343d858a6666871fae3e269689f99c9ab53e280651190bef778cb5beb0f29",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-01-01.tif",
+      "sha256": "ccbf2adf0f4c93b67cf739098c57c5162a43b706fe2a8fdf57ce3256349c18b4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-01-11.tif",
+      "sha256": "a195fd493053da6a8dc719b9eb081f8ac18b05626f2bd24aa59f7ad5e77ea6f4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-01-21.tif",
+      "sha256": "8f88152e98e0334bc17f8465248a6007ad5ad030ce25b2bc099e40146e24cda4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-02-01.tif",
+      "sha256": "edb8e713fd9b2174a97d66394ebd7035558b039023280cec3f9fdca0f8ed95bc",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-02-11.tif",
+      "sha256": "8db50d22fb3384971b31d1fcf25f5b10ec61e330986888a22ee3566b1b37b6b3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-02-21.tif",
+      "sha256": "3dda05af4de3b3074c80fcf1c079d5f7be8a35c0ca5e228cb96c070572335318",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-03-01.tif",
+      "sha256": "c60969014628bce373bc401b3d6b5f5e26bbdc331f8ac047e620cc37dbf1e830",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-03-11.tif",
+      "sha256": "dae56fb774b6247f1a7db21c92115dd851be49cae32266f4f73b27143620dd1d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-03-21.tif",
+      "sha256": "b3e70c8f44874f3f57e2cab00b70c4f210ce405d99150caf5bb8616b014cb6b1",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-04-01.tif",
+      "sha256": "999f086dac2e7cacd7f78420118ea38a269b70ea96ed030b4db00d96cd3de76d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-04-11.tif",
+      "sha256": "b28d5a49e0404cfcc51b0f23fd6ad49b28d03f5251d8c1dfca7ca2736d07ec82",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-04-21.tif",
+      "sha256": "dfb93697cbcfa7718fe00d3ab46a336c4ea87be3adff4c892c5b2f6748fa7099",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-05-01.tif",
+      "sha256": "857ec17ef861d6473395da38060a027b1f86fbf0db0ce2f886fdf98d447915da",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-05-11.tif",
+      "sha256": "4127682a2c84136be764ed442eeb812a133ed3e55e1148e0ba156288feca3bf0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-05-21.tif",
+      "sha256": "f3d6f2dfda99102b52ca2dcfc1e8fcf7e766187ce1b7712df7804fbda8ca4423",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-06-01.tif",
+      "sha256": "9a03cc95a9d9fff08cfaef2df2bd00e4a13bddc2c42608bb4ea811b9c9077e22",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-06-11.tif",
+      "sha256": "7ccfa8b018c4d74d63dacbae8688993a496debc3a766b5e57e3aacb29b53308d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-06-21.tif",
+      "sha256": "85fba99da45bdda84055758a5392f7503d757cd7351fda20bcec699af7ffd853",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-07-01.tif",
+      "sha256": "560434799813a453a28e51d6240ebe78b828985fc8adaeaf24d74efc24017dfd",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-07-11.tif",
+      "sha256": "b2c7470a02f3d4693a000081974d29a74167f01871effe9d7ab330eb2f7bd4ed",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-07-21.tif",
+      "sha256": "f9020acca739933f0798bcdb36da6e37f3498fb3e695612149ee19c719cb66be",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-08-01.tif",
+      "sha256": "acf85747ca4d74bae576ed20d1513c5346a3417c9484eb3e027d49d1dfe98b6e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-08-11.tif",
+      "sha256": "bc49711f46a7ea8eed3f1a0a69d43d8585a9a2cda21532259ecee323a3464d2f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-08-21.tif",
+      "sha256": "8d4fb030e82105cde0387556a9fa9f8f0384de4bb7796e44ed0ebf493267bddc",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-09-01.tif",
+      "sha256": "7c403751d62b7d41b361a4051033268e4bdab65a1ebd4ae8f95d82ebc2d51f92",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "GLWD00000528_2026-09-11.tif",
+      "sha256": "88f0fe002bb98b6a1f3914d9366f1fddcb7083356d8318526cfb05bb9b15dd68",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-09-01.tif",
+      "sha256": "302e0563ab3b3cda97be9f3a52b32df8acfa17baf54d0befa1a6b9eab920b6c8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-09-11.tif",
+      "sha256": "e12e80b17061e7fc4f9ca42107fc37ca204d565d54f59f61cdaba0d41c2591a5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-09-21.tif",
+      "sha256": "434b520a3f5d6008dcca9b829afd190cf7da23dc3b47425f02a2cba73d846dab",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-10-01.tif",
+      "sha256": "f7411e0ba37c467ef4989942a9e70395791354bd538442f6a90366e8dca54b39",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-10-11.tif",
+      "sha256": "04d71b6f1612bd7180375452090f9472b8e399ae6e3fd803610b0499ea9727c1",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-10-21.tif",
+      "sha256": "d9e0c9d0dcb028aa09e65f6ea8843d8057aeee273df0c8363a7f6400b078cfe4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-11-01.tif",
+      "sha256": "a1660f9a98ca545724b0b90816e1e402b5c58159128517c3720c676a129d166b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-11-11.tif",
+      "sha256": "109b67aa16dd8699369ce2bdabd71bceb2b367d5265afb7ae8143624a667a9c0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-11-21.tif",
+      "sha256": "80e825b9bae356753dfc36a2eeec7731a4979087d4dfdd02da8abfff07b92b60",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-12-01.tif",
+      "sha256": "5ecd56f91c9734bebcac5942db83ce6bd390741e2de6a8e5f48cb209fda48bdc",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-12-11.tif",
+      "sha256": "45d12e38b93086f74cb2a0c191f6a0313c56371b5d2aa0733cfc6b22f7305798",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2024-12-21.tif",
+      "sha256": "6a365d256b4b5e1778b3c0797eefa6fae36583b0190c17fdcc3e24826587dc19",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-01-01.tif",
+      "sha256": "d73f4c01f52f537246f665e86936c82a9d36225b20a27fa872505a84c450b184",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-01-11.tif",
+      "sha256": "66113ba5642e47d4ebc05d31d725439ef530e92a87c6b7609ed14038d7a04941",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-01-21.tif",
+      "sha256": "022c8e5145874bb7477a95430a73a3e8318c11a823df1ff628a568d2e63eeadd",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-02-01.tif",
+      "sha256": "9f1378a929b2d920d83ee3c3542375bcd5a5a50ed4f2ed7ab77f186aa93fa1c8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-02-11.tif",
+      "sha256": "8168c269b8bbdaa5c68de269cc96280d527cb236e2269dae8fd7df31328140df",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-02-21.tif",
+      "sha256": "28aa02127687fbdce78a7998092906543ff02a42cda7b3b6a9eb2705c7c82412",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-03-01.tif",
+      "sha256": "3093e41b7a1f39f55455b25ff1f1a52efa6b3d4858860dcd4dd58fbe6ece8225",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-03-11.tif",
+      "sha256": "420a593d9b35ad26298e200283df86094cad12382667e113f8e2badd2f07cf40",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-03-21.tif",
+      "sha256": "ae06cb541b50cabff73ecbc8b26b4b075a607500aa479d7037c2db4b690deec3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-04-01.tif",
+      "sha256": "1c81d2e3579620836ccec606193f6e2a59a40da65b50da5d87b1e009e384437d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-04-11.tif",
+      "sha256": "153528a2170e76fdc29704e27f9db64cb9235ddbe417563519c05043fd663ea0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-04-21.tif",
+      "sha256": "a97dc97cffc4d6374c6092c462ea074bc3e70c44a2f2224c49caeb11998b517f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-05-01.tif",
+      "sha256": "a70e748b1e51268b6a0215c4cc9bd82f4bc3aa34401b177ac8690735e1a1bb2b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-05-11.tif",
+      "sha256": "01248ffb41195b9b2d977a0a74efd5cbd11489ad6f610d3c8e22d77bc88d34ac",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-05-21.tif",
+      "sha256": "ce16cadf7f74af9dc2dec4b9521fe10bf8f42885b657f9970c3aea6798f90629",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-06-01.tif",
+      "sha256": "caee598c6ba04626a3d35be72f6551aa7a3c6e46d241f7c1f6472f745a7a8357",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-06-11.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-06-21.tif",
+      "sha256": "ae0781925d23f4713443b581af638853d190e34ae15de7a9d9a685bb923a598c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-07-01.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-07-11.tif",
+      "sha256": "09fcb2e4ac992ca6861dc2478182cc57d728d869e479bd1505b6cfde2c17899c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-07-21.tif",
+      "sha256": "f5a9767a04f48c3dca78e94baca21345f8c20a33c5826801479523eabe107097",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-08-01.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-08-11.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-08-21.tif",
+      "sha256": "0d38c45f51605e3e04dc568ffa9f636930ff1c8e218de293771bcebf02d0e269",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-09-01.tif",
+      "sha256": "f9af02834f52c248bfdc3ba47414f7ace99a1c160c8b5d6bb4ce3fbf2dac87d7",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-09-11.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-09-21.tif",
+      "sha256": "391bb3f50e781ccab5a80142044053dd53da8f7139ccb866dadcfa3e4af7a742",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-10-01.tif",
+      "sha256": "250e1a1d87d01a5cccad2efd57e5ac6dabd86e0b5cc2c50f931377a5416743d6",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-10-11.tif",
+      "sha256": "bb14ddf34c01c7a5771358126c570b045ddf5e0ca84cdb56ecb8568be277b45b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-10-21.tif",
+      "sha256": "167bca3f7f686b23236214dd979db6dfee07209fcc28fd6cb9065f36f859c20d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-11-01.tif",
+      "sha256": "86fdaa324edec84cb920bdf630ea95877cedf49e161efe03e5b77555cc7443a0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-11-11.tif",
+      "sha256": "9e3c29d596e73b3af10e1788b226c16d8812a04e3f907eff7495957220804789",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-11-21.tif",
+      "sha256": "ee2fb0d1238c8c754a44d6fa70b03cdacab6a715140f72207116f01069ac6efe",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-12-01.tif",
+      "sha256": "6a1e42b8de1cedff7b76690d2703d66a181290692f178f556e33a08f5f429748",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-12-11.tif",
+      "sha256": "1885b1c14ed8a5f92bc25f989c5bfb3dec93fdf660d3afc20ac1a9022cf87574",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2025-12-21.tif",
+      "sha256": "2a3a6c11223bc07f2910fd804f97be5f8fa47be2b07c99e0845616b73d97ef9b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-01-01.tif",
+      "sha256": "0495047b6e04a96fc9c58174cce87b20ea9962eb57415fdb39ec6fb31b54ec41",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-01-11.tif",
+      "sha256": "1c30905df742aa4bb6204e9c278ef164cc30699333a25cd5efd47b880d4f4b78",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-01-21.tif",
+      "sha256": "64158f4fcb18174e8a080475e870aefa1605fb530711fd6d9748366da5145882",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-02-01.tif",
+      "sha256": "379c8984fbaf5cefe88d929e90383406b2cc3c3db68c76cc916cc45e49ac54f3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-02-11.tif",
+      "sha256": "1d1f60ea52f1363c4faa0acf669021026fb9f48fcec0dec84ab75e83574eef84",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-02-21.tif",
+      "sha256": "ad0a7aa9d774008f8e408c63cf752388eed818944cc594aa9b197db1a5027bbf",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-03-01.tif",
+      "sha256": "a0d6a25ad2bd88a330a643a1b459bde93c2010513f9ab05c6562bbf649d8d888",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-03-11.tif",
+      "sha256": "388bf8f81b3af2a6feebb336faf03a95ae7480d89b0b2dd27d3d9ab1372b2550",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-03-21.tif",
+      "sha256": "107746c6fa162ca465145120847dbd74a451d30d4568b494d468482af140b79e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-04-01.tif",
+      "sha256": "56c3ad604062ff4f7977ed9686c98f950de2fff4fb20299b8e2984639c98a6e2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-04-11.tif",
+      "sha256": "cb8eb6f3dfffa1675998c806033ac6283ef283febd46742d24b88e25fefa741b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-04-21.tif",
+      "sha256": "9a06fa5222231d47e3c60ad3d320b4bd492eb45f6dfdb873229c702f35eceeba",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-05-01.tif",
+      "sha256": "8a6832fc1578efec7c781c2f90e0daa42a4508d2f2721d579c9bc3b972d39d91",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-05-11.tif",
+      "sha256": "21129c126a49ddf0ad702d4fe371216aa353334f1ff4d6f495715b851a184d90",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-05-21.tif",
+      "sha256": "61dda1ab9b886136e7f90c1f988c8caac39cbeaaca323d0d7ccc33bebfdaf6ff",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-06-01.tif",
+      "sha256": "ac9fe0b4ccfada9a3c2ae87641ab7536e040977a271dab54c02f82c5a8754cb9",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-06-11.tif",
+      "sha256": "e15a9b70c63f2dfc1c2e1c8949ddbd73ed6d8abad0ad76c52b8a8106e576ccc9",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-06-21.tif",
+      "sha256": "9c52f4047356dbc2f0b924c068767598c0b9c488573c85821a3ce80530d9eab2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-07-01.tif",
+      "sha256": "e637c8ec03342d9e0e55472d787271613a7c806a952082aef52c0e942d177205",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-07-11.tif",
+      "sha256": "140684faa2f687f39e05d41c0e7aee62645e0c9a544ca6dccfcdf14662e6baa5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-07-21.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-08-01.tif",
+      "sha256": "f41106c070139f2f9d933e04f9493e6e713d4755e5382b0e4e73350fda2acdeb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-08-11.tif",
+      "sha256": "c5190f0a54b93383e57f460dac0bccc8c4cadd166954ffccc3fababea4e80e12",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-08-21.tif",
+      "sha256": "c588f600c6652b39361a05775a4e0d24cebd686740a6ad0bfc8941a67d8de529",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-09-01.tif",
+      "sha256": "13d62b7e70ba38d09d3adf059f6c5c624b66000abd8d802c2be74165ae28bd6d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015736_2026-09-11.tif",
+      "sha256": "1e5a665c54790888eeae014d1dec85bdc2a468679a6f5111ffddac9dfdf3ff1f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-09-01.tif",
+      "sha256": "c32bef5bef49f120b20189089dbb18f5f25f9a3c96a14f45cd1cf4311de7a019",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-09-11.tif",
+      "sha256": "4deecbae2bc2be7fd4f9d1868ce7bcb2981cf977058179c6aefe436ccae708f4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-09-21.tif",
+      "sha256": "5b8f63beaf072aac9a711c116cb609011c8e44f3a05443b22db1d10531e8f390",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-10-01.tif",
+      "sha256": "5dcf9c34a95675162898bd7216f5212cc7d532f15c4cfae71a9e0ab8add00771",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-10-11.tif",
+      "sha256": "7a971beacc63827af9bd4b1788f159fcf1d375991657918f78562e0fcbeff13b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-10-21.tif",
+      "sha256": "023190d3728b52a9720254db5e7f4065bc5cfaa787866ecc65f0d651598685d7",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-11-01.tif",
+      "sha256": "ea35d90874847c1908ed24a83975821175a8f50fd1547421121024ac3ef7e0e1",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-11-11.tif",
+      "sha256": "f7ee570238e518dcfea38fcc396ec83056b71e5a828aca3716e4e16cccde5a2e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-11-21.tif",
+      "sha256": "c46d27df2fc7f39bd0a5573109fe5600e2cd02fe34ea25d2925355e334edfd44",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-12-01.tif",
+      "sha256": "63ec95fb8e79a8a982bfaedce754bded63509cff1e4200dafada8614217ebbd8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-12-11.tif",
+      "sha256": "f9e08c488ead45405b233c1938cc98484ce013b96432f4b8b6d47cde8035d23f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2024-12-21.tif",
+      "sha256": "606fad5f61e87fcca5cca938da024170e49eb594848b3eecaa8d13a95ba74aaa",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-01-01.tif",
+      "sha256": "d61749d72b833af18e5c7072a1bf539b12a609279a4a2ed13112b1c5dd1a6cf7",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-01-11.tif",
+      "sha256": "e0edc917175285831917a569a69221d8b2f71053f7ef6cbbae5daebb2aa100b9",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-01-21.tif",
+      "sha256": "2eb88842704a824d0c9f20a223bdac1c4f3accf35a507f8eec97a40376e2235a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-02-01.tif",
+      "sha256": "ab017115496144553894c44aae333b0b70e26797ab84f9417640bdafe0b5e499",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-02-11.tif",
+      "sha256": "ed9c2e97d746a37791d572778c25b50ebbfd5ce901636cad0bccfbefa34c6dfc",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-02-21.tif",
+      "sha256": "8e1e39e194e9e876879505b10dca39212b89a19707bfc04646f1a6404d27750f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-03-01.tif",
+      "sha256": "64c1e919128158aad7f4772576a59586cf8e93677afaf734fd9539ec2bc9889e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-03-11.tif",
+      "sha256": "7d0f89a3d20c49fdf05c6c8bd8456bf970eb4fe7ffcaaedb7ee7c31a08cbd0a3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-03-21.tif",
+      "sha256": "1dc0290797c1ac3d5c00e23df919c3d0b04e9a50b13a868596d66021ea38442e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-04-01.tif",
+      "sha256": "5ac0ae703d70a39683c2580445995292164b5e555610526ef981848a654f7cff",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-04-11.tif",
+      "sha256": "50e3db4739b5f09258b3abb9c9a3c7c1d4f6176c29460b9597a1ebb99a3452d9",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-04-21.tif",
+      "sha256": "1121e9085ad2a9d5c1b80503748de3ba4b6f99cc9104b5a3f7308def7190148b",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-05-01.tif",
+      "sha256": "eca935aefae7c7844a8ca0d4e4f314f77b1b101545d0d60ca90686a5826017f5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-05-11.tif",
+      "sha256": "4358a24d5b41170b5ead19c956e048a485d4c46be198c57ab00726d58ab6881f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-05-21.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-06-01.tif",
+      "sha256": "141e538e11b230f47206ba1f0745719bd9db2ac00f33d0068f33462d19f9e30f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-06-11.tif",
+      "sha256": "a9de5e000a4e6c30889f7dd1404347326a8a6acdaadfcebdca1147d4d06ad2e4",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-06-21.tif",
+      "sha256": "a63fb85fb2b95242976d197dc6d936d3a84c2ef218a8ae45bff44a3a7d1ab218",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-07-01.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-07-11.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-07-21.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-08-01.tif",
+      "sha256": "1d3c63c1f57edf5730a467bf4f8f5115bdf7c0fd71a09a0096003b06464f153c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-08-11.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-08-21.tif",
+      "sha256": "3522ea52e432a39dad92db9687ef33496a86a97787cf9c25f56cbb93481f65ed",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-09-01.tif",
+      "sha256": "dd397df95ac74c64430796715f616caacc5101a9de21082c395f9c8cdb389121",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-09-11.tif",
+      "sha256": "c5de7fd5d8943fb990523e31bc8a74e2f4234db92bf3091dc0da07d90415922d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-09-21.tif",
+      "sha256": "125d6727ff59a46f9cd51df31e37c6a869490105927da2fa91c16f317ca43d19",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-10-01.tif",
+      "sha256": "1328d398e071eeb8fae07a3c5fb321849bf6ba276692ee82f68a856ec1161cdb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-10-11.tif",
+      "sha256": "e9380f71aacfcacc5285531e1b81ae48fb0e542c1ae83d05cd346ad966823c0f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-10-21.tif",
+      "sha256": "505c4ba918356fcb2153bad1e214dc3d73a6f30a35a4344eb66ef06ace76d108",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-11-01.tif",
+      "sha256": "13b6733b95420b1a1f929b3b1021c013e9df0b370b03a732e3e8a0b45e677c58",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-11-11.tif",
+      "sha256": "7cc593bd345c92df9ea5938fa49c8298cc75d5ced25992f03e9b0c83a3fb3e8e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-11-21.tif",
+      "sha256": "4a66fa507fc2120fbbcba7b2a72a36614fe217e1be8b63f2854ba99bb038a56a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-12-01.tif",
+      "sha256": "7e7a80389e39a2d3f1b6d06b816388965df3a1213ff8ce65ef31e9ad0fd8fb41",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-12-11.tif",
+      "sha256": "f61ab046c05a50ca6fb5382006c50d5baa4050ef3a90f205c97d313ff80fb228",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2025-12-21.tif",
+      "sha256": "408960f43d893588e9d54e7330f707c9fcbe1b7987799899a3dcd422540e9bf0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-01-01.tif",
+      "sha256": "3a9738bcf789470f6d685e002e041a84e9154d5c2d22a216cd6253d715bde542",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-01-11.tif",
+      "sha256": "12feba9af234419d10cb59c93d97e603409bbb3232b9f8dcd26015439464609c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-01-21.tif",
+      "sha256": "52892c979badeb41abcc72d6cdb1f06895874871d7798fdf31366960e0ea3c0e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-02-01.tif",
+      "sha256": "dc1154d7912222fa8953a718dfddd05de70dd08224101f5d164871526222f2d3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-02-11.tif",
+      "sha256": "13c7a6fd72c6ff66fc16332df63e5c0d88d57c64883bf70e26792029ac4a2055",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-02-21.tif",
+      "sha256": "4752a5581ddb72da4dfc6e1cf9ef8140130c0915177fed294ce6cc0016032550",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-03-01.tif",
+      "sha256": "7b0479f00ec28a04c4eae2920ef2457ca15f8b6e379e3506b33f26bee4968a43",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-03-11.tif",
+      "sha256": "52ada90b4bc2d4e00cef85022a6ded3add0e5941eedaf89f1ef67604d0d3999f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-03-21.tif",
+      "sha256": "df93c9db2222ffbf91385028e80ec9b44140176b77fb6ea6f8818b288ee04232",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-04-01.tif",
+      "sha256": "3b4716ec6a69fc27b8e670e8fbd171d664d69c6982ac42bdb6a918bd86447674",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-04-11.tif",
+      "sha256": "68c080a4b44818f1b41c386b8829c3c2b288eba571f2c21670f578011bf3f20c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-04-21.tif",
+      "sha256": "6e703bf003fe1dae490054d9844aa8941bf1b4cb2d27ea700a26d2ff885d26b5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-05-01.tif",
+      "sha256": "8d6c00877ffeb9ef6253b9cf2e3492bc38ca48a06b8d4349939ae481d8bac5ba",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-05-11.tif",
+      "sha256": "4fa649db4dbdc9b204fbdebdfe1dc62091b36cbbd04cb2054ba2d7fdf80556f1",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-05-21.tif",
+      "sha256": "7c0eae687efe6cd1d9436c5db854e749cc42e1f0e6ed6dc9c0ac2dc1797a69db",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-06-01.tif",
+      "sha256": "700066feb90066909777499c945009036a5b5b9d53754a60b30af8a7dd074b52",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-06-11.tif",
+      "sha256": "f88f70dd3803c08f98c5c82c53dfbc8952de8b8552a221bd077be801ed1c2a71",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-06-21.tif",
+      "sha256": "5efe1ec4dd9635aecd0d51fa87a5ceb4723445505bf824ed7b1d729a04d8e510",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-07-01.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-07-11.tif",
+      "sha256": "b817c2be0d7f31e8d1ec31563b979d90a5892071638b9d22e757b75194a16b6c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-07-21.tif",
+      "sha256": "5be26c5675a93b6ae236e58d5d711739d97f8074c707fc7106335bf66ef45890",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-08-01.tif",
+      "sha256": "fddde145aa2709c7673732c4503f02500c5b6df5e95933b415dd887c7768b8d0",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-08-11.tif",
+      "sha256": "bc5830c12e55a2f54f376c8a46c2f98caca02c3e160fde400dc126eeb22e7216",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-08-21.tif",
+      "sha256": "e00f85af804297d92f021e8f86e3b633dee2576a2b2e7afaf6add50a454846b2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-09-01.tif",
+      "sha256": "7c40588206b82e44b2e0c45c5fb8e12c1ecdfb699cf6e9065be7da0860f39f23",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015761_2026-09-11.tif",
+      "sha256": "a259b71ccf8a4c8961465e0d4426f8f82772284ca8bdd73459f108b0efe20998",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-09-01.tif",
+      "sha256": "ad322d5df37a51ef757760f83aade3894824337f3753443fbcac897e38d2c6c2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-09-11.tif",
+      "sha256": "cd84c4cb2901d3fea5c89eb01f444d8407deef6ec9664bc097c45315d9189400",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-09-21.tif",
+      "sha256": "d57915292b9e07d17274f24fa89ceaf83707bb0cff34e7de94fcb1c64a3e74a8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-10-01.tif",
+      "sha256": "fe22f3bb18ec44e7cd112837c802f88996a5d70c871945da158e7d6381aed3d5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-10-11.tif",
+      "sha256": "ca768cd7c2992fba7be3c5637c0d6fef0cc4b50284e017fe9f6c9a8d29a70e8c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-10-21.tif",
+      "sha256": "e36e463ca6a22ec2da67304bda896727bc382263dc96705f416080215965aa67",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-11-01.tif",
+      "sha256": "208ddf05ff6c46239619e6d2cf2a7e6b8c05dce074e48c9bd286188121d4d3ee",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-11-11.tif",
+      "sha256": "8684f786033549bfec022ed48a736d1b12101df0f17238b8368131ff359ed387",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-11-21.tif",
+      "sha256": "11163ae96ec3e1c121ea0c2b8b8ee8decbd3b4bc0bd79de72b9964feb770e43a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-12-01.tif",
+      "sha256": "628896fb056712da08aacb71e834a6b803bc74b660ac669c17b3359c6fd15f4d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-12-11.tif",
+      "sha256": "7f7b85396ca01bc5ff29d5be5bbd92bed5b6ec8081cd7df77ecef6f848722fb5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2024-12-21.tif",
+      "sha256": "03cf6db372cc665e3145827c276c1abdae70fea081c86181ca14a5ee6c897a66",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-01-01.tif",
+      "sha256": "79771625f0f6100fcf0314603ea94776a22d181385d022f5776fcc5a5849e4c2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-01-11.tif",
+      "sha256": "1e224c593e41350565fd4f47d2d976b629b31b68dc71545a1df86442f66b32ae",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-01-21.tif",
+      "sha256": "21751982d7e1120f125c68ba4254df7ccddd45edfc7198157926aba90580c5f9",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-02-01.tif",
+      "sha256": "fac8c308a8182320c3dff1f69e9c6794d93eb0f3f2a7ad9b04315d1f9b433ea8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-02-11.tif",
+      "sha256": "55d27d17d2c79d17bd7acab884b1d8c4cfadb1837a6b8d231acdbb4877a35374",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-02-21.tif",
+      "sha256": "78eea8a83630b44b7c8fc5e453338c926d33a3731d98a17d76141da630e18ad2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-03-01.tif",
+      "sha256": "3b43223122995eacb69e6303b84bc2b1a07bb5b89bc94bdc0331058d68905c20",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-03-11.tif",
+      "sha256": "e524f1b44d388df2688d8df91edf7ff2c8c51687ea16528e73d5ec63493de466",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-03-21.tif",
+      "sha256": "bb4576de15222b9d6407e408c9aa18b48d61b876db8c17926d730ac8da0eeeef",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-04-01.tif",
+      "sha256": "bf92bfc43889f43f446005ab846780c1fd61f5bbfca716b640eaadae38f709bd",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-04-11.tif",
+      "sha256": "bf8b2ce65afd96fab429fdb3fa0081d93bbd658c212d1de34930e412dd2fc69d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-04-21.tif",
+      "sha256": "c1ce8091c60d9cdd4352569480b209923006b2711aebf290bb7e7cacc3e648f7",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-05-01.tif",
+      "sha256": "3d85b8721ee7f433925898510dd2684b49be2023d9dc1dda50c7918b86bc7dfe",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-05-11.tif",
+      "sha256": "bb128b0aeaafc97abd2895f369d7a9b52919a2ad55a4002c61d9fef5bf90a083",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-05-21.tif",
+      "sha256": "bcb4817b6302f8138d4b960405da0a689691e952545e7303a4793902aa14e272",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-06-01.tif",
+      "sha256": "b1cc2b13cd0ed54ad1f2713e0affe2a8cc9575be8e21ae55b624a1c769aa98d7",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-06-11.tif",
+      "sha256": "bcb4817b6302f8138d4b960405da0a689691e952545e7303a4793902aa14e272",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-06-21.tif",
+      "sha256": "9f481ac6503de1f213ade68095140cfc5bd00265ecc9f14b9fa2dc2ab60a5de8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-07-01.tif",
+      "sha256": "195cc992d425f6c38744eae02e3ee986336c94a1251e514ca888a76b1165bd59",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-07-11.tif",
+      "sha256": "99d0cf676ad22369cf25d2a923684f07714271c90be1b7af19f2e9b567086bef",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-07-21.tif",
+      "sha256": "5afc5fa057bbaaeecb353406ffaa54f9bcb486ec8458ab8913bb4ad0067d777a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-08-01.tif",
+      "sha256": "901a9dc25d41629ac8ee932f7e417330f123bb599c49c38c41fedec60b921bf5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-08-11.tif",
+      "sha256": "62a47ec40181f77536dbe4c595b2fc3e7ac07a929eecacb50dbd7691980b6ff6",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-08-21.tif",
+      "sha256": "b543e08c0833ce3d54636366049d00b4a3353fb10f66dc4882ba2ab4f9be86b6",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-09-01.tif",
+      "sha256": "006a7b268c61890a765d0886c257b02fb911bcabfd15c4a4c8ec1bd5e4d27985",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-09-11.tif",
+      "sha256": "a88d9cec9eb21b681027f61361e62c296efd4ed8a07942e7df7aee168f58cb1d",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-09-21.tif",
+      "sha256": "1738608b53bf0105b2e79f0aa566169d3574664fb4964a9ea9d2fcf1ecf41d56",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-10-01.tif",
+      "sha256": "58a849dd13e1c5aa5646a27176775606db0d875b71990bdffd227afe75e21290",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-10-11.tif",
+      "sha256": "d4043fda92af30db7039293ae725de7d243af87bd2adbd81fb4e3b8032b72979",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-10-21.tif",
+      "sha256": "a1d57e9eebaf0d5ed8f7ae93691ca3023fde79d76a43060b23d413bad073c764",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-11-01.tif",
+      "sha256": "9c17a012cef60a261e58eecc4596bbf56a05f9dff55e95d564e29ff2730ce952",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-11-11.tif",
+      "sha256": "a2c8e4c6a2443113aa649905972b75a17faafd641f5a4f2372852545b88d4ae7",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-11-21.tif",
+      "sha256": "c00e83e10e4af5c5aaafd68bb918480d5b521eb08091aa491964ecc4dd95e8fe",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-12-01.tif",
+      "sha256": "272d060e354276a08555deb842a13934b53d483f082c2c02c009c4642960b5e8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-12-11.tif",
+      "sha256": "bdee2361fda8002d300ac77e42328465db5cf5335d244bf35072f495acb9511c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2025-12-21.tif",
+      "sha256": "37a2041060959b0b430f926a06293b2213b12ee5cd2e47983b3ec2d0c55a3edb",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-01-01.tif",
+      "sha256": "d7ce5bfb3e1dbd209dbcb1312601c9cb918c110dc95f5d35f1e9035e08abf522",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-01-11.tif",
+      "sha256": "e4f7ddba1dea7d174c076c1e53eac6843f43cd3f4e1d1f7aea68b41c2fe0fed6",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-01-21.tif",
+      "sha256": "4f94d5d645215c97eef8fb7b3400a3a67537ee2acac0304348a92593089a7a2c",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-02-01.tif",
+      "sha256": "f127c448668dbc990e2fc030a1d606a9ed25340d8187fe6cd665e7a559d90758",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-02-11.tif",
+      "sha256": "555a202ee3360e8b03b6fa6cc89107f2e45a7657df9214ea9764b899b58b03c6",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-02-21.tif",
+      "sha256": "5d16f718ce9432107aeebe907653699aa020f165f4f1ae1b15334bb624742e34",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-03-01.tif",
+      "sha256": "a8067ae1fed10f49d5e92fdf7de126b830e0e17e9586a6b46f815aa85b62b136",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-03-11.tif",
+      "sha256": "0b45e9d1f4e19ef96651bd6cc358ae9d8b49666d883400ad18571ab719a66c50",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-03-21.tif",
+      "sha256": "aad5fca4b443e256f76b1ecf00ee168faa468079815db855026f53f282803292",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-04-01.tif",
+      "sha256": "bc9d71f6ad584002841e09557054f178c5b067611b29fd1982cbb3dd744f3a18",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-04-11.tif",
+      "sha256": "ea8183a61ae01ebaeb54b00a0d59d3dfa734af12b2f25bc46a648fcbb7a474f2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-04-21.tif",
+      "sha256": "3f1a026ee7ad75f0cc4ea9b5dcb39a3ed957770d6b69952e28b0acbf9cd444f2",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-05-01.tif",
+      "sha256": "bb775c549c2ca86c90b2bf3242a64676307eae37a145110e6d6f9d9912448720",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-05-11.tif",
+      "sha256": "c8f6d853f1ceefe830f6f2f43894ab623c8932a62543a569dcd2fa17d24c165a",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-05-21.tif",
+      "sha256": "cb6952a37be34480a23dedd0739e46591d3daeae6f4b3f2d42690748e937ab8f",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-06-01.tif",
+      "sha256": "4ce3b63d62b835a6d03d29351a1ad48810193fd34be20198ffe2383c7a325a78",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-06-11.tif",
+      "sha256": "d9c11a51c2265a0dbd22fb20eb5ddfb5a3f2285cd6e80eabc453120d3abf8fa9",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-06-21.tif",
+      "sha256": "a561ad3b671b41394e72260b4887cdb0fba875924e60001c62e5606cdcb2e146",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-07-01.tif",
+      "sha256": "ef61059126efc4d25f95d18b81cf1956d8c4c87601aebb75679e9167754a2416",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-07-11.tif",
+      "sha256": "b366b08c13ad2a473b1214f4372008830c5b7132ac30bc5b331f37335ef5cdc5",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-07-21.tif",
+      "sha256": "82afcba11538d994f8b07071c5bf084e0ba04cf4c6eb29b4bc3e7ff6d57228e3",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-08-01.tif",
+      "sha256": "bcb4817b6302f8138d4b960405da0a689691e952545e7303a4793902aa14e272",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-08-11.tif",
+      "sha256": "64bf3c03eafa90b6b393f6c49efbc5866a70d303e59719e673e52c22f473b7e8",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-08-21.tif",
+      "sha256": "ac66024b68a4206975b20988b41a42faa732eaeac80f455d609605303ebe9c4e",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-09-01.tif",
+      "sha256": "afb356e6b62c5b5f694e103744e2695cd69a418d190352a10c2d6dfc4cb58591",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    },
+    {
+      "file": "HYLA00015797_2026-09-11.tif",
+      "sha256": "3186b1a7e459601f9833c3dcdcb1e1daa586041b2751803bdeda5e1edfe6c147",
+      "hash_verified": true,
+      "bands": [
+        "CHLAMEAN",
+        "FCBPROB",
+        "TMEAN",
+        "NOBS",
+        "QFLAG",
+        "CHLAUNC",
+        "dataMask"
+      ]
+    }
+  ],
+  "counts": {
+    "krs": 63,
+    "bhadra": 59,
+    "tungabhadra": 66,
+    "supa": 59,
+    "kabini": 0,
+    "harangi": 0,
+    "hemavathi": 0,
+    "almatti": 0,
+    "basava-sagara": 0,
+    "linganamakki": 0,
+    "varahi": 0,
+    "vani-vilasa": 0
+  },
+  "quality_note": "Provisional Copernicus satellite estimate (10-day composite), not a field measurement. Interior water mask, dataMask, NOBS and finite-value screening applied. Provider quality flags and relative uncertainty are retained; full flag interpretation and local accuracy remain unverified. Excluded from forecast training.",
+  "unit_reference": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/lake-water-quality/lwq-nrt_global_300m_10daily_v2.html",
+  "unit_equivalence": "1 mg/m\u00b3 = 1 \u00b5g/L; CLMS CHLAMEAN is concentration, not raw reflectance",
+  "forecast_training_eligible": false,
+  "verified_provider_units": {
+    "CHLAMEAN": "mg/m\u00b3",
+    "CHLAUNC": "%",
+    "scale": 1,
+    "offset": 0,
+    "verified_date": "2026-10-22"
+  }
+}

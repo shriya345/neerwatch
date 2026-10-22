@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-22",
+  "tests_passed": 25,
+  "frontend_build": "passed",
+  "source_records_parsed": 23570,
+  "selected_acquisition_records": 342,
+  "genuine_matched_training_pool": 135,
+  "partitions": {
+    "train": 70,
+    "validation": 24,
+    "fixed_test": 41
+  },
+  "training_completed": [
+    "PyTorch MLP",
+    "Random Forest"
+  ],
+  "metrics_recomputed_from_saved_test_predictions": true,
+  "original_competition_split_used": false,
+  "abundance_units_resolved": false,
+  "numeric_density_available": false,
+  "source_provided_categories_used": true,
+  "browser_checked": [
+    "real test metrics",
+    "per-class expansion",
+    "confusion images",
+    "both reservoir category estimates",
+    "unit-discrepancy disclosure"
+  ],
+  "api_checked": [
+    "model metadata",
+    "reservoir predictions",
+    "both confusion images",
+    "41-row test-prediction CSV"
+  ],
+  "pdf_visual_review": "2 pages reviewed",
+  "operational_monitoring_uses_pilot": false,
+  "karnataka_field_validated": false,
+  "synthetic_data_used": false
+}

@@ -1,0 +1,160 @@
+{
+  "reservoir_id": "chakra",
+  "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+  "observed_at": "2026-10-12T05:17:39.024000Z",
+  "source": "Sentinel-2 L2A / Microsoft Planetary Computer",
+  "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+  "method": "Gilerson 2010 two-band; Sentinel-2 L2A BOA screening adaptation v1",
+  "algorithm_source": "https://doi.org/10.1364/OE.18.024109",
+  "unit": "\u00b5g/L",
+  "spectral_bands": {
+    "B02": {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "scale": 0.0001,
+      "offset": -0.1,
+      "processing_baseline": 5.13,
+      "native_crs": "EPSG:32643",
+      "native_resolution_m": [
+        10.0,
+        10.0
+      ],
+      "source_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/DR/2026/10/12/S2B_MSIL2A_20261012T051739_N0513_R062_T43PDR_20261012T091927.SAFE/GRANULE/L2A_T43PDR_A050138_20261012T053257/IMG_DATA/R10m/T43PDR_20261012T051739_B02_10m.tif",
+      "analysis_crs": "EPSG:32643",
+      "analysis_resolution_m": 60
+    },
+    "B03": {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "scale": 0.0001,
+      "offset": -0.1,
+      "processing_baseline": 5.13,
+      "native_crs": "EPSG:32643",
+      "native_resolution_m": [
+        10.0,
+        10.0
+      ],
+      "source_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/DR/2026/10/12/S2B_MSIL2A_20261012T051739_N0513_R062_T43PDR_20261012T091927.SAFE/GRANULE/L2A_T43PDR_A050138_20261012T053257/IMG_DATA/R10m/T43PDR_20261012T051739_B03_10m.tif",
+      "analysis_crs": "EPSG:32643",
+      "analysis_resolution_m": 60
+    },
+    "B04": {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "scale": 0.0001,
+      "offset": -0.1,
+      "processing_baseline": 5.13,
+      "native_crs": "EPSG:32643",
+      "native_resolution_m": [
+        10.0,
+        10.0
+      ],
+      "source_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/DR/2026/10/12/S2B_MSIL2A_20261012T051739_N0513_R062_T43PDR_20261012T091927.SAFE/GRANULE/L2A_T43PDR_A050138_20261012T053257/IMG_DATA/R10m/T43PDR_20261012T051739_B04_10m.tif",
+      "analysis_crs": "EPSG:32643",
+      "analysis_resolution_m": 60
+    },
+    "B05": {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "scale": 0.0001,
+      "offset": -0.1,
+      "processing_baseline": 5.13,
+      "native_crs": "EPSG:32643",
+      "native_resolution_m": [
+        20.0,
+        20.0
+      ],
+      "source_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/DR/2026/10/12/S2B_MSIL2A_20261012T051739_N0513_R062_T43PDR_20261012T091927.SAFE/GRANULE/L2A_T43PDR_A050138_20261012T053257/IMG_DATA/R20m/T43PDR_20261012T051739_B05_20m.tif",
+      "analysis_crs": "EPSG:32643",
+      "analysis_resolution_m": 60
+    },
+    "B08": {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "scale": 0.0001,
+      "offset": -0.1,
+      "processing_baseline": 5.13,
+      "native_crs": "EPSG:32643",
+      "native_resolution_m": [
+        10.0,
+        10.0
+      ],
+      "source_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/DR/2026/10/12/S2B_MSIL2A_20261012T051739_N0513_R062_T43PDR_20261012T091927.SAFE/GRANULE/L2A_T43PDR_A050138_20261012T053257/IMG_DATA/R10m/T43PDR_20261012T051739_B08_10m.tif",
+      "analysis_crs": "EPSG:32643",
+      "analysis_resolution_m": 60
+    },
+    "B11": {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "scale": 0.0001,
+      "offset": -0.1,
+      "processing_baseline": 5.13,
+      "native_crs": "EPSG:32643",
+      "native_resolution_m": [
+        20.0,
+        20.0
+      ],
+      "source_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/DR/2026/10/12/S2B_MSIL2A_20261012T051739_N0513_R062_T43PDR_20261012T091927.SAFE/GRANULE/L2A_T43PDR_A050138_20261012T053257/IMG_DATA/R20m/T43PDR_20261012T051739_B11_20m.tif",
+      "analysis_crs": "EPSG:32643",
+      "analysis_resolution_m": 60
+    }
+  },
+  "source_scenes": [
+    {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+      "observed_at": "2026-10-12T05:17:39.024000Z",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927"
+    }
+  ],
+  "mosaic_time_difference_seconds": 0,
+  "chlorophyll_a": 22.835533142089844,
+  "status": "available",
+  "quality_status": "experimental_screening",
+  "quality": {
+    "valid_pixels": 855,
+    "polygon_pixels": 2723,
+    "valid_fraction": 0.3139919206757253,
+    "resolution_m": 60,
+    "shoreline_buffer_m": 60,
+    "cloud_buffer_m": 60,
+    "minimum_valid_pixels": 25,
+    "minimum_valid_fraction": 0.1,
+    "screening_basis": "Project quality screening; not provider validation",
+    "data_footprint_fraction": 1.0,
+    "mosaic_tile_count": 1,
+    "scl_water_pixels": 1475,
+    "interior_cloud_free_pixels": 855,
+    "algorithm_valid_pixels": 855,
+    "algorithm_valid_fraction": 0.3139919206757253,
+    "footprint_fraction": 0.9999999999999938,
+    "algorithm_screening_range_ug_l": [
+      1,
+      100
+    ],
+    "aggregation": "Median of valid per-pixel estimates"
+  },
+  "atmospheric_correction": "Provider Sen2Cor L2A BOA; aquatic DSF and adjacency correction not performed",
+  "limitation": "Published aquatic-reflectance algorithm applied to BOA as an experimental approximation. Concentration/category may be biased; not locally calibrated.",
+  "validation": "Satellite-derived chlorophyll-a estimates have not yet been validated against Karnataka field measurements.",
+  "rgb_file": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927-rgb.png",
+  "boundary_source": "https://www.openstreetmap.org/relation/1851876",
+  "processed_at": "2026-10-22T08:20:45.881680+00:00",
+  "ndci_median": -0.003921636380255222,
+  "attempts": [
+    {
+      "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PDR_20261017T102804",
+      "observed_at": "2026-10-17T05:18:21.025000Z",
+      "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 2723 polygon pixels; fails unchanged minimum count/coverage gates.",
+      "quality": {
+        "valid_pixels": 0,
+        "polygon_pixels": 2723,
+        "valid_fraction": 0.0
+      }
+    }
+  ],
+  "epa_category": {
+    "name": "Eutrophic",
+    "range": ">7\u201330 \u00b5g/L",
+    "color": "#dbac55",
+    "rank": 2,
+    "source_url": "https://nationallakesassessment.epa.gov/webreport/#trophic-state",
+    "screening": true,
+    "label": "Satellite-derived screening classification"
+  },
+  "chlorophyll_map_file": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927-chlorophyll.png",
+  "chlorophyll_raster_file": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927-chlorophyll.tif"
+}

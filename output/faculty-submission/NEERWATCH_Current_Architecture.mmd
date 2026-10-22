@@ -1,0 +1,51 @@
+flowchart TB
+ subgraph A[Data acquisition]
+ S[Sentinel-2 L2A via Planetary Computer STAC
+B04/B05; B02/B03/B08/B11; SCL]
+ G[Verified Karnataka reservoir GeoJSON
+OpenStreetMap provenance and metadata]
+ end
+ subgraph P[Python satellite processing]
+ Q[Newest valid scene within 60 days
+Compatible same-pass mosaics if required]
+ R[UTM alignment; nearest-neighbour 60 m grid
+BOA scale/offset; reservoir ROI]
+ W[SCL 6 water; shoreline erosion and cloud dilation
+Finite 0 < reflectance <= 1; QC]
+ C[Gilerson screening adaptation
+C = 35.75 B05/B04 minus 19.30, raised to 1.124]
+ M[Retain 1 to 100 ug/L; median
+At least 25 pixels and 10 percent coverage]
+ end
+ subgraph B[File-based backend and services]
+ D[(JSON observations and jobs
+NPZ bands/masks; PNG; GeoTIFF)]
+ V[Publication gate
+Two compatible acquisitions and persisted assets]
+ T[EPA trophic category
+Absolute and percentage change between dated observations]
+ F[FastAPI reservoir, boundary, media, CSV
+Processing request and status polling]
+ PDF[ReportLab reservoir PDF]
+ end
+ subgraph U[React dashboard]
+ L[Leaflet reservoir map and selection]
+ I[True-colour images and chlorophyll heatmaps]
+ COMP[Concentration, dates, category and comparison table
+CSV, GeoTIFF and PDF downloads]
+ end
+ S --> Q --> R --> W --> C --> M --> D
+ G --> Q
+ G --> R
+ D --> V --> F
+ D --> T --> F
+ F --> L
+ F --> I
+ F --> COMP
+ F --> PDF --> COMP
+ COMP -. manual refresh .-> F
+ F -. queued processing; poll status .-> Q
+ classDef source fill:#eef2f7,stroke:#17394a,color:#17394a
+ classDef process fill:#edf5f2,stroke:#257363,color:#17394a
+ class S,G source
+ class Q,R,W,C,M,D,V,T,F,PDF,L,I,COMP process

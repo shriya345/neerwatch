@@ -1,0 +1,122 @@
+[
+  {
+    "reservoir_id": "varahi",
+    "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+    "observed_at": "2026-10-09T05:22:41.024000Z",
+    "source": "Sentinel-2 L2A / Microsoft Planetary Computer",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+    "method": "Gilerson 2010 two-band; Sentinel-2 L2A BOA screening adaptation v1",
+    "algorithm_source": "https://doi.org/10.1364/OE.18.024109",
+    "unit": "\u00b5g/L",
+    "chlorophyll_a": 24.79433822631836,
+    "status": "available",
+    "quality_status": "experimental_screening",
+    "quality": {
+      "valid_pixels": 1605,
+      "polygon_pixels": 12467,
+      "valid_fraction": 0.12873987326542072,
+      "resolution_m": 60,
+      "shoreline_buffer_m": 60,
+      "cloud_buffer_m": 60,
+      "minimum_valid_pixels": 25,
+      "minimum_valid_fraction": 0.1,
+      "screening_basis": "Project quality screening; not provider validation",
+      "algorithm_valid_pixels": 1605,
+      "algorithm_valid_fraction": 0.12873987326542072,
+      "footprint_fraction": 1.000000000000006,
+      "algorithm_screening_range_ug_l": [
+        1,
+        100
+      ],
+      "aggregation": "Median of valid per-pixel estimates"
+    },
+    "atmospheric_correction": "Provider Sen2Cor L2A BOA; aquatic DSF and adjacency correction not performed",
+    "limitation": "Published aquatic-reflectance algorithm applied to BOA as an experimental approximation. Concentration/category may be biased; not locally calibrated.",
+    "validation": "Satellite-derived chlorophyll-a estimates have not yet been validated against Karnataka field measurements.",
+    "rgb_file": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803-rgb.png",
+    "boundary_source": "https://www.openstreetmap.org/relation/11527523",
+    "processed_at": "2026-10-22T05:50:56.230588+00:00",
+    "ndci_median": 0.013100441545248032,
+    "attempts": [
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PER_20261017T102804",
+        "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 12467 polygon pixels; fails unchanged minimum count/coverage gates."
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PDR_20261017T102804",
+        "reason": "Incomplete reservoir footprint"
+      }
+    ],
+    "epa_category": {
+      "name": "Eutrophic",
+      "range": ">7\u201330 \u00b5g/L",
+      "color": "#dbac55",
+      "rank": 2,
+      "source_url": "https://nationallakesassessment.epa.gov/webreport/#trophic-state",
+      "screening": true,
+      "label": "Satellite-derived screening classification"
+    },
+    "chlorophyll_map_file": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803-chlorophyll.png",
+    "chlorophyll_raster_file": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803-chlorophyll.tif"
+  },
+  {
+    "reservoir_id": "varahi",
+    "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "observed_at": "2026-10-12T05:17:39.024000Z",
+    "source": "Sentinel-2 L2A / Microsoft Planetary Computer",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "method": "Gilerson 2010 two-band; Sentinel-2 L2A BOA screening adaptation v1",
+    "algorithm_source": "https://doi.org/10.1364/OE.18.024109",
+    "unit": "\u00b5g/L",
+    "chlorophyll_a": 22.86766242980957,
+    "status": "available",
+    "quality_status": "experimental_screening",
+    "quality": {
+      "valid_pixels": 6270,
+      "polygon_pixels": 12467,
+      "valid_fraction": 0.5029277292051014,
+      "resolution_m": 60,
+      "shoreline_buffer_m": 60,
+      "cloud_buffer_m": 60,
+      "minimum_valid_pixels": 25,
+      "minimum_valid_fraction": 0.1,
+      "screening_basis": "Project quality screening; not provider validation",
+      "algorithm_valid_pixels": 6269,
+      "algorithm_valid_fraction": 0.5028475174460576,
+      "footprint_fraction": 1.000000000000006,
+      "algorithm_screening_range_ug_l": [
+        1,
+        100
+      ],
+      "aggregation": "Median of valid per-pixel estimates"
+    },
+    "atmospheric_correction": "Provider Sen2Cor L2A BOA; aquatic DSF and adjacency correction not performed",
+    "limitation": "Published aquatic-reflectance algorithm applied to BOA as an experimental approximation. Concentration/category may be biased; not locally calibrated.",
+    "validation": "Satellite-derived chlorophyll-a estimates have not yet been validated against Karnataka field measurements.",
+    "rgb_file": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927-rgb.png",
+    "boundary_source": "https://www.openstreetmap.org/relation/11527523",
+    "processed_at": "2026-10-22T05:50:40.982834+00:00",
+    "ndci_median": -0.003636425593867898,
+    "attempts": [
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PER_20261017T102804",
+        "reason": "InsufficientWaterError: Only 0 cloud-free interior water pixels in 12467 polygon pixels; fails unchanged minimum count/coverage gates."
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PDR_20261017T102804",
+        "reason": "Incomplete reservoir footprint"
+      }
+    ],
+    "epa_category": {
+      "name": "Eutrophic",
+      "range": ">7\u201330 \u00b5g/L",
+      "color": "#dbac55",
+      "rank": 2,
+      "source_url": "https://nationallakesassessment.epa.gov/webreport/#trophic-state",
+      "screening": true,
+      "label": "Satellite-derived screening classification"
+    },
+    "chlorophyll_map_file": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927-chlorophyll.png",
+    "chlorophyll_raster_file": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927-chlorophyll.tif"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "reservoir": "KRS",
+    "boundary": true,
+    "accepted_satellite": 2,
+    "query_windows": 3,
+    "weather_days": 91,
+    "latest_satellite": "2026-09-27T05:16:51.025000Z"
+  },
+  {
+    "reservoir": "Bhadra",
+    "boundary": true,
+    "accepted_satellite": 2,
+    "query_windows": 3,
+    "weather_days": 91,
+    "latest_satellite": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "Tungabhadra",
+    "boundary": true,
+    "accepted_satellite": 3,
+    "query_windows": 3,
+    "weather_days": 91,
+    "latest_satellite": "2026-09-27T05:16:51.025000Z"
+  },
+  {
+    "reservoir": "Supa",
+    "boundary": true,
+    "accepted_satellite": 2,
+    "query_windows": 3,
+    "weather_days": 91,
+    "latest_satellite": "2026-10-02T05:32:41.024000Z"
+  },
+  {
+    "reservoir": "Kabini",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-09-27T05:16:51.025000Z"
+  },
+  {
+    "reservoir": "Harangi",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "Hemavathi",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "Almatti",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-09-27T05:16:51.025000Z"
+  },
+  {
+    "reservoir": "Basava Sagara",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-09-27T05:16:51.025000Z"
+  },
+  {
+    "reservoir": "Linganamakki",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "Varahi",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "Vani Vilasa Sagara",
+    "boundary": true,
+    "accepted_satellite": 1,
+    "query_windows": 1,
+    "weather_days": 31,
+    "latest_satellite": "2026-09-27T05:16:51.025000Z"
+  }
+]

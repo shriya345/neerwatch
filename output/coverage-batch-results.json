@@ -1,0 +1,920 @@
+[
+  {
+    "id": "hemavathi",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+    "chlorophyll_a": 24.262033462524414,
+    "elapsed_seconds": 25
+  },
+  {
+    "id": "almatti",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+    "chlorophyll_a": 20.984132766723633,
+    "elapsed_seconds": 67
+  },
+  {
+    "id": "basava-sagara",
+    "error": "No valid Sentinel-2 concentration in the 60-day search window (59 scenes). No scene covers at least 95% of the reservoir.",
+    "attempts": [
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43QFU_20261017T102804",
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43QEU_20261017T102804",
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PET_20261017T102804",
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QFU_20261012T091927",
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PET_20261012T091927",
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QFU_20261009T101803",
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QEU_20261009T101803",
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFT_20261009T101803",
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PET_20261009T101803",
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43QFU_20261007T100902",
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43QEU_20261007T100902",
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43PFT_20261007T100902",
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43PET_20261007T100902",
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43QFU_20261002T091946",
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43QEU_20261002T091946",
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43PFT_20261002T091946",
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43PET_20261002T091946",
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43QFU_20260927T101415",
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43QEU_20260927T101415",
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PFT_20260927T101415",
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PET_20260927T101415",
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260922T051649_R062_T43QFU_20260922T091200",
+        "observed_at": "2026-09-22T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260922T051649_R062_T43QEU_20260922T091200",
+        "observed_at": "2026-09-22T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260922T051649_R062_T43PFT_20260922T091200",
+        "observed_at": "2026-09-22T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260922T051649_R062_T43PET_20260922T091200",
+        "observed_at": "2026-09-22T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260919T052241_R062_T43QFU_20260919T102123",
+        "observed_at": "2026-09-19T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260919T052241_R062_T43QEU_20260919T102123",
+        "observed_at": "2026-09-19T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260919T052241_R062_T43PFT_20260919T102123",
+        "observed_at": "2026-09-19T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260919T052241_R062_T43PET_20260919T102123",
+        "observed_at": "2026-09-19T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260917T051651_R062_T43QFU_20260917T101515",
+        "observed_at": "2026-09-17T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260917T051651_R062_T43QEU_20260917T101515",
+        "observed_at": "2026-09-17T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260917T051651_R062_T43PFT_20260917T101515",
+        "observed_at": "2026-09-17T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260917T051651_R062_T43PET_20260917T101515",
+        "observed_at": "2026-09-17T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260912T051649_R062_T43QFU_20260912T091034",
+        "observed_at": "2026-09-12T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260912T051649_R062_T43QEU_20260912T091034",
+        "observed_at": "2026-09-12T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260912T051649_R062_T43PFT_20260912T091034",
+        "observed_at": "2026-09-12T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260912T051649_R062_T43PET_20260912T091034",
+        "observed_at": "2026-09-12T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260907T051651_R062_T43QFU_20260907T101310",
+        "observed_at": "2026-09-07T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260907T051651_R062_T43QEU_20260907T101310",
+        "observed_at": "2026-09-07T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260907T051651_R062_T43PET_20260907T101310",
+        "observed_at": "2026-09-07T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260902T051649_R062_T43QFU_20260902T090945",
+        "observed_at": "2026-09-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260902T051649_R062_T43QEU_20260902T090945",
+        "observed_at": "2026-09-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260902T051649_R062_T43PFT_20260902T090945",
+        "observed_at": "2026-09-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260902T051649_R062_T43PET_20260902T090945",
+        "observed_at": "2026-09-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260830T052241_R062_T43QFU_20260830T115854",
+        "observed_at": "2026-08-30T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260830T052241_R062_T43QEU_20260830T115854",
+        "observed_at": "2026-08-30T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260830T052241_R062_T43PFT_20260830T115854",
+        "observed_at": "2026-08-30T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260830T052241_R062_T43PET_20260830T115854",
+        "observed_at": "2026-08-30T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260828T051651_R062_T43QFU_20260828T101205",
+        "observed_at": "2026-08-28T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260828T051651_R062_T43QEU_20260828T101205",
+        "observed_at": "2026-08-28T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260828T051651_R062_T43PFT_20260828T101205",
+        "observed_at": "2026-08-28T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260828T051651_R062_T43PET_20260828T101205",
+        "observed_at": "2026-08-28T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260823T051649_R062_T43QFU_20260823T090719",
+        "observed_at": "2026-08-23T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.4412979088752828
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260823T051649_R062_T43QEU_20260823T090719",
+        "observed_at": "2026-08-23T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.09206442188326197
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260823T051649_R062_T43PFT_20260823T090719",
+        "observed_at": "2026-08-23T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8921051696792538
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260823T051649_R062_T43PET_20260823T090719",
+        "observed_at": "2026-08-23T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.0
+      }
+    ],
+    "elapsed_seconds": 2
+  },
+  {
+    "id": "linganamakki",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "chlorophyll_a": 23.77728271484375,
+    "elapsed_seconds": 186
+  },
+  {
+    "id": "malaprabha",
+    "error": "No valid Sentinel-2 concentration in the 60-day search window (59 scenes). No scene covers at least 95% of the reservoir.",
+    "attempts": [
+      {
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PET_20261020T101804",
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.851283149806951
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PET_20261017T102804",
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847097305612
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PDT_20261017T102804",
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7334264823029786
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261015T052759_R105_T43PET_20261015T090952",
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512831303882396
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PET_20261012T091927",
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.583184756709777
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PDT_20261012T091927",
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7175465433085672
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261010T052731_R105_T43PET_20261010T102100",
+        "observed_at": "2026-10-10T05:27:31.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+        "observed_at": "2026-10-10T05:27:31.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512831054728254
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PET_20261009T101803",
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847281480608
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PDT_20261009T101803",
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.72777022430341
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43PET_20261007T100902",
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43PDT_20261007T100902",
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7364661231044931
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261005T052659_R105_T43PET_20261005T091517",
+        "observed_at": "2026-10-05T05:26:59.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831846252892221
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261005T052659_R105_T43PET_20261005T091454",
+        "observed_at": "2026-10-05T05:26:59.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847683757323
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261005T052659_R105_T43PDT_20261005T091517",
+        "observed_at": "2026-10-05T05:26:59.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512831805795621
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261005T052659_R105_T43PDT_20261005T091454",
+        "observed_at": "2026-10-05T05:26:59.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8054389585538743
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261002T053241_R105_T43PET_20261002T101803",
+        "observed_at": "2026-10-02T05:32:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2A_MSIL2A_20261002T053241_R105_T43PDT_20261002T101803",
+        "observed_at": "2026-10-02T05:32:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512832772597547
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43PET_20261002T091946",
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847355491668
+      },
+      {
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43PDT_20261002T091946",
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7249097113860306
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260930T052651_R105_T43PET_20260930T102304",
+        "observed_at": "2026-09-30T05:26:51.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260930T052651_R105_T43PDT_20260930T102304",
+        "observed_at": "2026-09-30T05:26:51.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512831435255093
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PET_20260927T101415",
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847023728242
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PDT_20260927T101415",
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7352979047388942
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260925T052649_R105_T43PET_20260925T092202",
+        "observed_at": "2026-09-25T05:26:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260925T052649_R105_T43PDT_20260925T092202",
+        "observed_at": "2026-09-25T05:26:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512833400822952
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260922T051649_R062_T43PET_20260922T091200",
+        "observed_at": "2026-09-22T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847425375016
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260922T051649_R062_T43PDT_20260922T091200",
+        "observed_at": "2026-09-22T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7221767302101646
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260920T052651_R105_T43PET_20260920T102311",
+        "observed_at": "2026-09-20T05:26:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260920T052651_R105_T43PDT_20260920T102311",
+        "observed_at": "2026-09-20T05:26:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512832024956066
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260919T052241_R062_T43PET_20260919T102123",
+        "observed_at": "2026-09-19T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847478892227
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260919T052241_R062_T43PDT_20260919T102123",
+        "observed_at": "2026-09-19T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7201446071306196
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260917T051651_R062_T43PET_20260917T101515",
+        "observed_at": "2026-09-17T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847248712579
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260917T051651_R062_T43PDT_20260917T101515",
+        "observed_at": "2026-09-17T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7286429593924744
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260915T052639_R105_T43PDT_20260915T092127",
+        "observed_at": "2026-09-15T05:26:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512831733253869
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260912T053241_R105_T43PET_20260912T102503",
+        "observed_at": "2026-09-12T05:32:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260912T053241_R105_T43PDT_20260912T102503",
+        "observed_at": "2026-09-12T05:32:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.851283187179517
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260912T051649_R062_T43PET_20260912T091034",
+        "observed_at": "2026-09-12T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831846256638342
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260912T051649_R062_T43PDT_20260912T091034",
+        "observed_at": "2026-09-12T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7124953925712805
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260910T052641_R105_T43PET_20260910T102519",
+        "observed_at": "2026-09-10T05:26:41.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260910T052641_R105_T43PDT_20260910T102519",
+        "observed_at": "2026-09-10T05:26:41.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512832292126067
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260907T051651_R062_T43PET_20260907T101310",
+        "observed_at": "2026-09-07T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.583184743535756
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260907T051651_R062_T43PDT_20260907T101310",
+        "observed_at": "2026-09-07T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7214615901369086
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260905T052639_R105_T43PET_20260905T092108",
+        "observed_at": "2026-09-05T05:26:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260905T052639_R105_T43PDT_20260905T092108",
+        "observed_at": "2026-09-05T05:26:39.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512833134358663
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260902T051649_R062_T43PET_20260902T090945",
+        "observed_at": "2026-09-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831846384589988
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260902T051649_R062_T43PDT_20260902T090945",
+        "observed_at": "2026-09-02T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7090145667027913
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260831T052641_R105_T43PET_20260831T102215",
+        "observed_at": "2026-08-31T05:26:41.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260831T052641_R105_T43PDT_20260831T102215",
+        "observed_at": "2026-08-31T05:26:41.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512832070500722
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260830T052241_R062_T43PET_20260830T115854",
+        "observed_at": "2026-08-30T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831846291035366
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260830T052241_R062_T43PDT_20260830T115854",
+        "observed_at": "2026-08-30T05:22:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7115773136495621
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260828T051651_R062_T43PET_20260828T101205",
+        "observed_at": "2026-08-28T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831846355114246
+      },
+      {
+        "item_id": "S2C_MSIL2A_20260828T051651_R062_T43PDT_20260828T101205",
+        "observed_at": "2026-08-28T05:16:51.025000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.7099237445503311
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260823T053241_R105_T43PET_20260823T122218",
+        "observed_at": "2026-08-23T05:32:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831847020435771
+      },
+      {
+        "item_id": "S2A_MSIL2A_20260823T053241_R105_T43PDT_20260823T122218",
+        "observed_at": "2026-08-23T05:32:41.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.8512831220940239
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260823T051649_R062_T43PET_20260823T090719",
+        "observed_at": "2026-08-23T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.5831846835939487
+      },
+      {
+        "item_id": "S2B_MSIL2A_20260823T051649_R062_T43PDT_20260823T090719",
+        "observed_at": "2026-08-23T05:16:49.024000Z",
+        "stage": "footprint",
+        "reason": "Incomplete reservoir footprint",
+        "footprint_fraction": 0.6931313779312362
+      }
+    ],
+    "elapsed_seconds": 2
+  },
+  {
+    "id": "hidkal",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+    "chlorophyll_a": 20.39316749572754,
+    "elapsed_seconds": 24
+  },
+  {
+    "id": "yagachi",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+    "chlorophyll_a": 25.221759796142578,
+    "elapsed_seconds": 21
+  },
+  {
+    "id": "markonahalli",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+    "chlorophyll_a": 21.813880920410156,
+    "elapsed_seconds": 16
+  },
+  {
+    "id": "nugu",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+    "chlorophyll_a": 23.540790557861328
+  },
+  {
+    "id": "kadra",
+    "readiness": {
+      "ready": true,
+      "reasons": []
+    },
+    "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "chlorophyll_a": 24.6707763671875
+  }
+]
