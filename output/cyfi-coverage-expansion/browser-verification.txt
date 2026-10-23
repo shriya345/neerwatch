@@ -1,0 +1,1 @@
+Fresh browser verification was unavailable because local browser access was disabled. Current API and cached data were checked; earlier screenshots must not be described as visual verification of newly expanded estimates.

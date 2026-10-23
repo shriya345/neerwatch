@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="255.0" height="132" preserveAspectRatio="xMinYMin meet" viewBox="0 0 255 132" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="255.0" height="132"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-132)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="104" style="font-family: Helvetica; font-size: 7.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,208) scale(1,-1)">Chlorophyll</text>
+			<rect x="95" y="100" width="130" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="95" y="100" width="130.0" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(20%,36%,32%); fill-rule: evenodd;"/>
+			<text x="231" y="103" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,206) scale(1,-1)">46/46</text>
+			<text x="0" y="72" style="font-family: Helvetica; font-size: 7.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,144) scale(1,-1)">QC-approved FAI</text>
+			<rect x="95" y="68" width="130" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="95" y="68" width="127.17391304347825" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(20%,36%,32%); fill-rule: evenodd;"/>
+			<text x="231" y="71" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,142) scale(1,-1)">45/46</text>
+			<text x="0" y="40" style="font-family: Helvetica; font-size: 7.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,80) scale(1,-1)">Experimental CyFi</text>
+			<rect x="95" y="36" width="130" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="95" y="36" width="90.43478260869566" height="14" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(20%,36%,32%); fill-rule: evenodd;"/>
+			<text x="231" y="39" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,78) scale(1,-1)">32/46</text>
+			<text x="95" y="4" style="font-family: Helvetica; font-size: 7px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8) scale(1,-1)">Reservoirs with eligible displayed results</text>
+		</g>
+	</g>
+</svg>

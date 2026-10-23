@@ -53,3 +53,6 @@ research/pretrained-review/water/
 research/pretrained-review/taiwan/
 # Nonportable metadata snapshots of local protected paths
 output/cyfi-reference-bands/inputs-before-expansion.json
+
+# Local PDF render intermediates
+/tmp/
