@@ -1,0 +1,64 @@
+{
+  "reservoir_id": "malaprabha",
+  "attempts": [
+    {
+      "scene_id": "S2A_MSIL2A_20261022T053241_R105_T43PDT_20261022T102211",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261022T053241_R105_T43PDT_20261022T102211",
+      "acquisition_date": "2026-10-22T05:32:41.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 73.3596% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+      "acquisition_date": "2026-10-20T05:28:41.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 5.2103% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261017T051821_R062_T43PDT_20261017T102804",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PDT_20261017T102804",
+      "acquisition_date": "2026-10-17T05:18:21.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 100.0000% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+      "acquisition_date": "2026-10-15T05:27:59.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 7.1162% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDT_20261012T091927",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDT_20261012T091927",
+      "acquisition_date": "2026-10-12T05:17:39.024000Z",
+      "status": "rejected",
+      "reason": "Only 89.1334% of SCL water belongs to reservoir polygon; minimum 95%"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+      "acquisition_date": "2026-10-10T05:27:31.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 6.1409% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20261009T052241_R062_T43PDT_20261009T101803",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDT_20261009T101803",
+      "acquisition_date": "2026-10-09T05:22:41.024000Z",
+      "status": "rejected",
+      "reason": "Only 90.0660% of SCL water belongs to reservoir polygon; minimum 95%"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261007T051711_R062_T43PDT_20261007T100902",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261007T051711_R062_T43PDT_20261007T100902",
+      "acquisition_date": "2026-10-07T05:17:11.025000Z",
+      "status": "rejected",
+      "reason": "Only 90.6423% of SCL water belongs to reservoir polygon; minimum 95%"
+    }
+  ],
+  "finished": true,
+  "catalogue_count": 60,
+  "catalogue_has_more": false
+}

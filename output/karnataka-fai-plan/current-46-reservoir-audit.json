@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "krs",
+    "name": "KRS",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 7967,
+        "coverage": 0.29695478772969547,
+        "fai": -0.007900640368461609,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 17505,
+        "coverage": 0.6524656155652465,
+        "fai": -0.0013273023068904877,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "bhadra",
+    "name": "Bhadra",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 22327,
+        "coverage": 0.7152192715507576,
+        "fai": -0.004729513078927994,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 25065,
+        "coverage": 0.8029278918537976,
+        "fai": -0.0019520670175552368,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "tungabhadra",
+    "name": "Tungabhadra",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 40422,
+        "coverage": 0.8985262409140419,
+        "fai": -0.006883803755044937,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 32298,
+        "coverage": 0.7179407384355481,
+        "fai": -0.006352700293064117,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "supa",
+    "name": "Supa",
+    "observations": [
+      {
+        "date": "2026-10-10T05:27:31.025000Z",
+        "scene": "S2C_MSIL2A_20261010T052731_R105_T43PDS_20261010T102100",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261010T052731_R105_T43PDS_20261010T102100",
+        "scl_reproducible": true,
+        "valid_pixels": 18104,
+        "coverage": 0.6785607196401799,
+        "fai": -0.010062698274850845,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 18533,
+        "coverage": 0.694640179910045,
+        "fai": -0.01002761535346508,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "varahi",
+    "name": "Varahi",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "scl_reproducible": false,
+        "valid_pixels": 1605,
+        "coverage": 0.12873987326542072,
+        "fai": -0.00951554998755455,
+        "band_metadata": false
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "scl_reproducible": false,
+        "valid_pixels": 6269,
+        "coverage": 0.5028475174460576,
+        "fai": -0.003464760258793831,
+        "band_metadata": false
+      }
+    ]
+  },
+  {
+    "id": "vani-vilasa",
+    "name": "Vani Vilasa Sagara",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PFR_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFR_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 7915,
+        "coverage": 0.63543673731535,
+        "fai": -0.010791745036840439,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 7950,
+        "coverage": 0.6382466281310212,
+        "fai": -0.009244758635759354,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "kabini",
+    "name": "Kabini",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 3509,
+        "coverage": 0.21759890859481582,
+        "fai": -0.00915016233921051,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 10417,
+        "coverage": 0.6459754433833561,
+        "fai": -0.00834634155035019,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "harangi",
+    "name": "Harangi",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 2357,
+        "coverage": 0.5255295429208473,
+        "fai": -0.011595554649829865,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 585,
+        "coverage": 0.13043478260869565,
+        "fai": 0.035706035792827606,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "hemavathi",
+    "name": "Hemavathi",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PFQ_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFQ_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 2581,
+        "coverage": 0.184805957324932,
+        "fai": -0.007970791310071945,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 9897,
+        "coverage": 0.7086495775454675,
+        "fai": -0.009794918820261955,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "almatti",
+    "name": "Almatti",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43QEU_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QEU_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 36255,
+        "coverage": 0.6131612772290623,
+        "fai": -0.011339370161294937,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 43847,
+        "coverage": 0.7415606819104316,
+        "fai": -0.010458407923579216,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "linganamakki",
+    "name": "Linganamakki",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 29653,
+        "coverage": 0.3893053604484764,
+        "fai": -0.006902851164340973,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 35089,
+        "coverage": 0.460672977195447,
+        "fai": -0.004127617925405502,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "markonahalli",
+    "name": "Markonahalli",
+    "observations": [
+      {
+        "date": "2026-10-14T05:07:51.025000Z",
+        "scene": "S2C_MSIL2A_20261014T050751_R019_T43PFQ_20261014T100514",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PFQ_20261014T100514",
+        "scl_reproducible": true,
+        "valid_pixels": 594,
+        "coverage": 0.19298245614035087,
+        "fai": 0.004828412085771561,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-19T05:08:19.024000Z",
+        "scene": "S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+        "scl_reproducible": true,
+        "valid_pixels": 427,
+        "coverage": 0.1387264457439896,
+        "fai": -0.019923489540815353,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "yagachi",
+    "name": "Yagachi",
+    "observations": [
+      {
+        "date": "2026-09-27T05:16:51.025000Z",
+        "scene": "S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "scl_reproducible": true,
+        "valid_pixels": 1561,
+        "coverage": 0.5055051813471503,
+        "fai": -0.003676503896713257,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 506,
+        "coverage": 0.163860103626943,
+        "fai": -0.0027623847126960754,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "hidkal",
+    "name": "Hidkal",
+    "observations": [
+      {
+        "date": "2026-10-15T05:27:59.024000Z",
+        "scene": "S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "scl_reproducible": true,
+        "valid_pixels": 6594,
+        "coverage": 0.37658480868075384,
+        "fai": -0.014714764431118965,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 14343,
+        "coverage": 0.819131924614506,
+        "fai": -0.012635879218578339,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "nugu",
+    "name": "Nugu",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 854,
+        "coverage": 0.31145149525893506,
+        "fai": -0.010193489491939545,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 1336,
+        "coverage": 0.48723559445660103,
+        "fai": -0.010178100317716599,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "kadra",
+    "name": "Kadra",
+    "observations": [
+      {
+        "date": "2026-10-15T05:27:59.024000Z",
+        "scene": "S2B_MSIL2A_20261015T052759_R105_T43PDS_20261015T090952",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDS_20261015T090952",
+        "scl_reproducible": true,
+        "valid_pixels": 3737,
+        "coverage": 0.5173034330011074,
+        "fai": -6.042420864105225e-06,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 5347,
+        "coverage": 0.740171650055371,
+        "fai": -0.006036181002855301,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "basava-sagara",
+    "name": "Basava Sagara",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "MOSAIC_Sentinel2B_20261012T051739_62",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PET_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 25219,
+        "coverage": 0.7385205575729179,
+        "fai": -0.012941274791955948,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "MOSAIC_Sentinel2C_20261017T051821_62",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PET_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 9587,
+        "coverage": 0.2807485065011128,
+        "fai": 0.0028511062264442444,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "malaprabha",
+    "name": "Malaprabha (Renuka Sagara)",
+    "observations": [
+      {
+        "date": "2026-10-15T05:27:59.024000Z",
+        "scene": "MOSAIC_Sentinel2B_20261015T052759_105",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "scl_reproducible": true,
+        "valid_pixels": 16517,
+        "coverage": 0.8021076146076146,
+        "fai": -0.014540325850248337,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "MOSAIC_Sentinel2C_20261020T052841_105",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 14213,
+        "coverage": 0.6902195027195027,
+        "fai": -0.012991108000278473,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "gerusoppa",
+    "name": "Gerusoppa",
+    "observations": [
+      {
+        "date": "2026-10-15T05:27:59.024000Z",
+        "scene": "S2B_MSIL2A_20261015T052759_R105_T43PDR_20261015T090952",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDR_20261015T090952",
+        "scl_reproducible": true,
+        "valid_pixels": 752,
+        "coverage": 0.44470727380248376,
+        "fai": -0.007177939638495445,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 739,
+        "coverage": 0.43701951507983444,
+        "fai": -0.012303179129958153,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "kodasalli",
+    "name": "Kodasalli",
+    "observations": [
+      {
+        "date": "2026-10-02T05:32:41.024000Z",
+        "scene": "S2A_MSIL2A_20261002T053241_R105_T43PDS_20261002T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261002T053241_R105_T43PDS_20261002T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 2171,
+        "coverage": 0.5263030303030303,
+        "fai": -0.018170159310102463,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 2008,
+        "coverage": 0.48678787878787877,
+        "fai": -0.01319650374352932,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "karanja",
+    "name": "Karanja",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 9119,
+        "coverage": 0.894721350078493,
+        "fai": -0.013180311769247055,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 7741,
+        "coverage": 0.7595172684458399,
+        "fai": -0.01315746083855629,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "kanva",
+    "name": "Kanva",
+    "observations": [
+      {
+        "date": "2026-10-04T05:06:51.025000Z",
+        "scene": "S2C_MSIL2A_20261004T050651_R019_T43PGQ_20261004T102617",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGQ_20261004T102617",
+        "scl_reproducible": true,
+        "valid_pixels": 381,
+        "coverage": 0.3860182370820669,
+        "fai": -0.01529555395245552,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-09T05:07:19.024000Z",
+        "scene": "S2B_MSIL2A_20261009T050719_R019_T43PGQ_20261009T090953",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGQ_20261009T090953",
+        "scl_reproducible": true,
+        "valid_pixels": 154,
+        "coverage": 0.15602836879432624,
+        "fai": 0.0006717443466186523,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "manchanabele",
+    "name": "Manchanabele",
+    "observations": [
+      {
+        "date": "2026-10-14T05:07:51.025000Z",
+        "scene": "S2C_MSIL2A_20261014T050751_R019_T43PGQ_20261014T100514",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGQ_20261014T100514",
+        "scl_reproducible": true,
+        "valid_pixels": 387,
+        "coverage": 0.5315934065934066,
+        "fai": -0.002524442970752716,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-19T05:08:19.024000Z",
+        "scene": "S2B_MSIL2A_20261019T050819_R019_T43PGQ_20261019T085221",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261019T050819_R019_T43PGQ_20261019T085221",
+        "scl_reproducible": true,
+        "valid_pixels": 292,
+        "coverage": 0.4010989010989011,
+        "fai": -0.013880317099392414,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "suvarnavathy",
+    "name": "Suvarnavathy",
+    "observations": [
+      {
+        "date": "2026-09-29T05:06:49.024000Z",
+        "scene": "S2B_MSIL2A_20260929T050649_R019_T43PGP_20260929T091314",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260929T050649_R019_T43PGP_20260929T091314",
+        "scl_reproducible": true,
+        "valid_pixels": 171,
+        "coverage": 0.15702479338842976,
+        "fai": -0.024640001356601715,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-09T05:07:19.024000Z",
+        "scene": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "scl_reproducible": true,
+        "valid_pixels": 271,
+        "coverage": 0.24885215794306703,
+        "fai": 0.008239038288593292,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "taraka",
+    "name": "Taraka",
+    "observations": [
+      {
+        "date": "2026-10-07T05:17:11.025000Z",
+        "scene": "S2C_MSIL2A_20261007T051711_R062_T43PFP_20261007T100505",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261007T051711_R062_T43PFP_20261007T100505",
+        "scl_reproducible": true,
+        "valid_pixels": 546,
+        "coverage": 0.4486442070665571,
+        "fai": -0.01446586288511753,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 753,
+        "coverage": 0.61873459326212,
+        "fai": -0.009815238416194916,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "votehole",
+    "name": "Votehole",
+    "observations": [
+      {
+        "date": "2026-09-27T05:16:51.025000Z",
+        "scene": "S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "scl_reproducible": true,
+        "valid_pixels": 614,
+        "coverage": 0.46096096096096095,
+        "fai": -0.007015240378677845,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 579,
+        "coverage": 0.4346846846846847,
+        "fai": -0.006421592086553574,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "bennethora",
+    "name": "Bennethora",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 2497,
+        "coverage": 0.5304865094540047,
+        "fai": -0.016347616910934448,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 1777,
+        "coverage": 0.3775228383258976,
+        "fai": -0.007400311529636383,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "chandrampalli",
+    "name": "Chandrampalli",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 554,
+        "coverage": 0.6081229418221734,
+        "fai": -0.014416828751564026,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 557,
+        "coverage": 0.6114160263446762,
+        "fai": -0.011640943586826324,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "dharma",
+    "name": "Dharma",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PDS_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDS_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 756,
+        "coverage": 0.618657937806874,
+        "fai": -0.015116192400455475,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 465,
+        "coverage": 0.38052373158756136,
+        "fai": -0.015717141330242157,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "upper-tunga",
+    "name": "Upper Tunga",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 835,
+        "coverage": 0.2639064475347661,
+        "fai": -0.024853017181158066,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 1635,
+        "coverage": 0.5167509481668774,
+        "fai": -0.02317269891500473,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "chikkahole",
+    "name": "Chikkahole",
+    "observations": [
+      {
+        "date": "2026-10-09T05:07:19.024000Z",
+        "scene": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "scl_reproducible": true,
+        "valid_pixels": 79,
+        "coverage": 0.24085365853658536,
+        "fai": -0.006950154900550842,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-14T05:07:51.025000Z",
+        "scene": "S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+        "scl_reproducible": true,
+        "valid_pixels": 62,
+        "coverage": 0.18902439024390244,
+        "fai": -0.01439175009727478,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "chiklihole",
+    "name": "Chiklihole",
+    "observations": [
+      {
+        "date": "2026-10-07T05:17:11.025000Z",
+        "scene": "S2C_MSIL2A_20261007T051711_R062_T43PEP_20261007T100505",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261007T051711_R062_T43PEP_20261007T100505",
+        "scl_reproducible": true,
+        "valid_pixels": 27,
+        "coverage": 0.15606936416184972,
+        "fai": -0.012693330645561218,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 45,
+        "coverage": 0.26011560693641617,
+        "fai": -0.024847611784934998,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "hattikuni",
+    "name": "Hattikuni",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43QGU_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGU_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 120,
+        "coverage": 0.36036036036036034,
+        "fai": -0.008747933432459831,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGU_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGU_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 113,
+        "coverage": 0.33933933933933935,
+        "fai": -0.01448412612080574,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "narihalla",
+    "name": "Narihalla",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PFS_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFS_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 334,
+        "coverage": 0.5439739413680782,
+        "fai": -0.01935381069779396,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 326,
+        "coverage": 0.5309446254071661,
+        "fai": -0.030624128878116608,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "upper-mullamari",
+    "name": "Upper Mullamari",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 361,
+        "coverage": 0.48717948717948717,
+        "fai": -0.03096507489681244,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 351,
+        "coverage": 0.47368421052631576,
+        "fai": -0.015039995312690735,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "lower-mullamari",
+    "name": "Lower Mullamari",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 517,
+        "coverage": 0.21443384487764414,
+        "fai": -0.010920003056526184,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 1011,
+        "coverage": 0.41932807963500623,
+        "fai": -0.007857456803321838,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "gundal",
+    "name": "Gundal",
+    "observations": [
+      {
+        "date": "2026-10-04T05:06:51.025000Z",
+        "scene": "S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "scl_reproducible": true,
+        "valid_pixels": 87,
+        "coverage": 0.15289982425307558,
+        "fai": -0.05311175435781479,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-09T05:07:19.024000Z",
+        "scene": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "scl_reproducible": true,
+        "valid_pixels": 66,
+        "coverage": 0.11599297012302284,
+        "fai": -0.01984475553035736,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "gandorinala",
+    "name": "Gandorinala",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 641,
+        "coverage": 0.3495092693565976,
+        "fai": -0.023709844797849655,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 698,
+        "coverage": 0.38058887677208286,
+        "fai": -0.027922214940190315,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "maskinala",
+    "name": "Maskinala",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 102,
+        "coverage": 0.19615384615384615,
+        "fai": -0.0471322238445282,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 106,
+        "coverage": 0.20384615384615384,
+        "fai": -0.04071571305394173,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "chulkinala",
+    "name": "Chulkinala",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 880,
+        "coverage": 0.7376362112321878,
+        "fai": -0.041087619960308075,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 656,
+        "coverage": 0.5498742665549036,
+        "fai": -0.04337998852133751,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "harinala",
+    "name": "Harinala",
+    "observations": [
+      {
+        "date": "2026-10-10T05:27:31.025000Z",
+        "scene": "S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+        "scl_reproducible": true,
+        "valid_pixels": 149,
+        "coverage": 0.25734024179620035,
+        "fai": -0.03709714859724045,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-15T05:27:59.024000Z",
+        "scene": "S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "scl_reproducible": true,
+        "valid_pixels": 149,
+        "coverage": 0.25734024179620035,
+        "fai": -0.04521334171295166,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "hirehalla",
+    "name": "Hirehalla",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 1431,
+        "coverage": 0.7216338880484114,
+        "fai": -0.04022254794836044,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-17T05:18:21.025000Z",
+        "scene": "S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "scl_reproducible": true,
+        "valid_pixels": 1142,
+        "coverage": 0.5758951084215834,
+        "fai": -0.03492237627506256,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "uduthorehalla",
+    "name": "Uduthorehalla",
+    "observations": [
+      {
+        "date": "2026-09-09T05:06:49.024000Z",
+        "scene": "S2B_MSIL2A_20260909T050649_R019_T43PGP_20260909T085145",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260909T050649_R019_T43PGP_20260909T085145",
+        "scl_reproducible": true,
+        "valid_pixels": 76,
+        "coverage": 0.30039525691699603,
+        "fai": -0.035438258200883865,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-04T05:06:51.025000Z",
+        "scene": "S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "scl_reproducible": true,
+        "valid_pixels": 82,
+        "coverage": 0.3241106719367589,
+        "fai": -0.067189522087574,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "jambhadhahalla",
+    "name": "Jambhadhahalla",
+    "observations": [
+      {
+        "date": "2026-10-02T05:16:49.024000Z",
+        "scene": "S2B_MSIL2A_20261002T051649_R062_T43PER_20261002T091946",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261002T051649_R062_T43PER_20261002T091946",
+        "scl_reproducible": true,
+        "valid_pixels": 140,
+        "coverage": 0.3645833333333333,
+        "fai": -0.016612859442830086,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 236,
+        "coverage": 0.6145833333333334,
+        "fai": -0.0012622233480215073,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "tattihalla",
+    "name": "Tattihalla",
+    "observations": [
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 1503,
+        "coverage": 0.3890758477866943,
+        "fai": -0.0009730122983455658,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-20T05:28:41.025000Z",
+        "scene": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "scl_reproducible": true,
+        "valid_pixels": 1503,
+        "coverage": 0.3890758477866943,
+        "fai": -0.00986095517873764,
+        "band_metadata": true
+      }
+    ]
+  },
+  {
+    "id": "savehaklu",
+    "name": "Savehaklu",
+    "observations": [
+      {
+        "date": "2026-10-09T05:22:41.024000Z",
+        "scene": "S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "scl_reproducible": true,
+        "valid_pixels": 286,
+        "coverage": 0.1425012456402591,
+        "fai": -0.007347149774432182,
+        "band_metadata": true
+      },
+      {
+        "date": "2026-10-12T05:17:39.024000Z",
+        "scene": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "source": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "scl_reproducible": true,
+        "valid_pixels": 719,
+        "coverage": 0.3582461385151968,
+        "fai": -0.005589207634329796,
+        "band_metadata": true
+      }
+    ]
+  }
+]

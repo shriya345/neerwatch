@@ -18,3 +18,38 @@ data/cache
 
 # Upstream notebook includes historical signed download URLs
 reference/download_satellite_PlanetaryComputer.ipynb
+
+# Research runtimes, upstream clones, credentials and acquisition caches (kept locally)
+**/venv/
+**/.venv/
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+research/pretrained-review/cyfi/
+research/pretrained-review/forecasting/
+research/pretrained-review/taiwan-harmful-algal-bloom-detection/
+research/pretrained-review/surface_water_extent/
+research/pretrained-review/omp/
+research/pretrained-review/poc/sentinel_2000/
+research/pretrained-review/poc/coverage-cache/
+research/**/*.nc
+research/**/*.npy
+research/**/*.npz
+research/**/*.tif
+research/**/*.zip
+research/**/*.dylib
+research/**/*.so
+research/**/*.csv
+# Historical job state and large input collections are preserved on this computer
+/data/fai-history/
+/output/gloria-feasibility/
+/output/ml-feasibility/
+/output/cyfi-reference-bands/protected-before.json
+/output/cyfi-coverage-expansion/protected.json
+research/pretrained-review/water/
+research/pretrained-review/taiwan/
+# Nonportable metadata snapshots of local protected paths
+output/cyfi-reference-bands/inputs-before-expansion.json

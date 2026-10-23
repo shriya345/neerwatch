@@ -115,5 +115,7 @@ def summary(identifier):
     from backend.active import monitoring
     data=legacy_summary(identifier);active=monitoring(identifier)
     data['sentinel3_comparison']={'label':'Separate Sentinel-3 comparison source; not derived from displayed Sentinel-2 scene','latest':data['latest_chlorophyll'],'history':data['chlorophyll'],'change':data['change']}
+    from backend.fai import observed
+    data['fai']=observed(identifier)
     data.update(sentinel2=active,chlorophyll=active['history'],latest_chlorophyll=active['latest'] if active['chlorophyll_a'] is not None else None,change=active['change'],classification=active['classification'],trend=active['trend'])
     return data

@@ -1,0 +1,72 @@
+Found existing installation: opencv-python-headless 5.0.0.93
+Uninstalling opencv-python-headless-5.0.0.93:
+  Successfully uninstalled opencv-python-headless-5.0.0.93
+Collecting lightgbm==4.6.0
+  Downloading lightgbm-4.6.0-py3-none-macosx_12_0_arm64.whl.metadata (17 kB)
+Collecting numpy==2.4.3
+  Downloading numpy-2.4.3-cp312-cp312-macosx_14_0_arm64.whl.metadata (6.6 kB)
+Collecting opencv-python==4.13.0.92
+  Downloading opencv_python-4.13.0.92-cp37-abi3-macosx_13_0_arm64.whl.metadata (19 kB)
+Collecting pandas==3.0.1
+  Downloading pandas-3.0.1-cp312-cp312-macosx_11_0_arm64.whl.metadata (79 kB)
+Collecting scipy==1.17.1
+  Downloading scipy-1.17.1-cp312-cp312-macosx_14_0_arm64.whl.metadata (62 kB)
+Collecting rioxarray==0.22.0
+  Downloading rioxarray-0.22.0-py3-none-any.whl.metadata (5.4 kB)
+Requirement already satisfied: python-dateutil>=2.8.2 in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from pandas==3.0.1) (2.9.0.post0)
+Requirement already satisfied: packaging in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from rioxarray==0.22.0) (26.3)
+Requirement already satisfied: rasterio>=1.4.3 in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rioxarray==0.22.0) (1.5.2)
+Requirement already satisfied: xarray>=2026.2 in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rioxarray==0.22.0) (2026.9.0)
+Requirement already satisfied: pyproj>=3.3 in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rioxarray==0.22.0) (3.8.0)
+Requirement already satisfied: certifi in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from pyproj>=3.3->rioxarray==0.22.0) (2026.10.19)
+Requirement already satisfied: six>=1.5 in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from python-dateutil>=2.8.2->pandas==3.0.1) (1.17.0)
+Requirement already satisfied: affine in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rasterio>=1.4.3->rioxarray==0.22.0) (3.0.1)
+Requirement already satisfied: attrs in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rasterio>=1.4.3->rioxarray==0.22.0) (26.1.0)
+Requirement already satisfied: click!=8.2.*,>=4.0 in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rasterio>=1.4.3->rioxarray==0.22.0) (8.5.0)
+Requirement already satisfied: pyparsing>=3.0 in ./research/pretrained-review/venv/lib/python3.12/site-packages (from rasterio>=1.4.3->rioxarray==0.22.0) (3.3.3)
+Downloading lightgbm-4.6.0-py3-none-macosx_12_0_arm64.whl (1.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 4.5 MB/s eta 0:00:00
+Downloading numpy-2.4.3-cp312-cp312-macosx_14_0_arm64.whl (5.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.2/5.2 MB 5.0 MB/s eta 0:00:00
+Downloading opencv_python-4.13.0.92-cp37-abi3-macosx_13_0_arm64.whl (46.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 46.2/46.2 MB 3.0 MB/s eta 0:00:00
+Downloading pandas-3.0.1-cp312-cp312-macosx_11_0_arm64.whl (9.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.9/9.9 MB 6.1 MB/s eta 0:00:00
+Downloading scipy-1.17.1-cp312-cp312-macosx_14_0_arm64.whl (20.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 20.3/20.3 MB 7.0 MB/s eta 0:00:00
+Downloading rioxarray-0.22.0-py3-none-any.whl (72 kB)
+Installing collected packages: numpy, scipy, pandas, opencv-python, lightgbm, rioxarray
+  Attempting uninstall: numpy
+    Found existing installation: numpy 2.3.5
+    Not uninstalling numpy at /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages, outside environment /Users/shriyahr/Documents/ChatGPT/Major/NEERWATCH/research/pretrained-review/venv
+    Can't uninstall 'numpy'. No files were found to uninstall.
+  Attempting uninstall: scipy
+    Found existing installation: scipy 1.18.1
+    Uninstalling scipy-1.18.1:
+      Successfully uninstalled scipy-1.18.1
+  Attempting uninstall: pandas
+    Found existing installation: pandas 2.2.3
+    Not uninstalling pandas at /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages, outside environment /Users/shriyahr/Documents/ChatGPT/Major/NEERWATCH/research/pretrained-review/venv
+    Can't uninstall 'pandas'. No files were found to uninstall.
+  Attempting uninstall: lightgbm
+    Found existing installation: lightgbm 4.7.0
+    Uninstalling lightgbm-4.7.0:
+      Successfully uninstalled lightgbm-4.7.0
+  Attempting uninstall: rioxarray
+    Found existing installation: rioxarray 0.23.0
+    Uninstalling rioxarray-0.23.0:
+      Successfully uninstalled rioxarray-0.23.0
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+cyfi 1.2.0 requires geopandas, which is not installed.
+cyfi 1.2.0 requires gitpython, which is not installed.
+cyfi 1.2.0 requires gradio>=5.0, which is not installed.
+cyfi 1.2.0 requires matplotlib, which is not installed.
+cyfi 1.2.0 requires odc-stac, which is not installed.
+cyfi 1.2.0 requires plotly, which is not installed.
+cyfi 1.2.0 requires scikit-learn>=1.4, which is not installed.
+cyfi 1.2.0 requires seaborn, which is not installed.
+cyfi 1.2.0 requires typer>=0.16.0, which is not installed.
+Successfully installed lightgbm-4.6.0 numpy-2.4.3 opencv-python-4.13.0.92 pandas-3.0.1 rioxarray-0.22.0 scipy-1.17.1
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.2
+[notice] To update, run: /Users/shriyahr/Documents/ChatGPT/Major/NEERWATCH/research/pretrained-review/venv/bin/python3.12 -m pip install --upgrade pip

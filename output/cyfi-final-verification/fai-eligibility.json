@@ -1,0 +1,20 @@
+{
+  "eligible": false,
+  "reasons": [
+    "All five years 2022\u20132026 required",
+    "train: fewer than 300 independent targets",
+    "train: incomplete seasonal coverage",
+    "validation: fewer than 100 independent targets",
+    "validation: fewer than 20 reservoirs",
+    "validation: incomplete seasonal coverage",
+    "test: fewer than 100 independent targets",
+    "test: fewer than 20 reservoirs",
+    "test: incomplete seasonal coverage"
+  ],
+  "counts": {
+    "train": 38,
+    "validation": 0,
+    "test": 0
+  },
+  "note": "Conservative experiment gates, not a guarantee of scientific validity"
+}

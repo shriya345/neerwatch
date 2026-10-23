@@ -1,0 +1,170 @@
+{
+  "decision": "CONDITIONAL GO",
+  "feature_order": [
+    "B01_mean",
+    "B02_mean",
+    "B03_mean",
+    "B04_mean",
+    "B05_mean",
+    "B06_mean",
+    "B07_mean",
+    "B08_mean",
+    "B09_mean",
+    "B11_mean",
+    "B12_mean",
+    "B8A_mean",
+    "WVP_mean",
+    "AOT_mean",
+    "percent_water",
+    "green95th",
+    "green5th",
+    "green_red_ratio",
+    "green_blue_ratio",
+    "red_blue_ratio",
+    "green95th_blue_ratio",
+    "green5th_blue_ratio",
+    "NDVI_B04",
+    "NDVI_B05",
+    "NDVI_B06",
+    "NDVI_B07",
+    "AOT_range",
+    "month",
+    "days_before_sample",
+    "land_cover"
+  ],
+  "preprocessing": "Unmodified upstream raw-DN features; no clipping or radiometric change applied",
+  "reservoirs": {
+    "krs": {
+      "out_of_training_range": [
+        {
+          "feature": "B01_mean",
+          "raw_value": 1605.084574468085,
+          "training_min": 15.594890510948906,
+          "training_max": 1252.3636363636363
+        },
+        {
+          "feature": "B02_mean",
+          "raw_value": 1671.8755775377576,
+          "training_min": 67.03757931902916,
+          "training_max": 1538.282643312102
+        },
+        {
+          "feature": "B05_mean",
+          "raw_value": 1595.608431195423,
+          "training_min": 21.277387524961824,
+          "training_max": 1583.475
+        },
+        {
+          "feature": "B06_mean",
+          "raw_value": 1557.8782595603734,
+          "training_min": 7.833147694364001,
+          "training_max": 1419.2490450725745
+        },
+        {
+          "feature": "B07_mean",
+          "raw_value": 1568.2340560072266,
+          "training_min": 14.38888888888889,
+          "training_max": 1434.6892177589853
+        },
+        {
+          "feature": "B11_mean",
+          "raw_value": 1472.7769045468233,
+          "training_min": 30.183052125553775,
+          "training_max": 1118.3977850750114
+        },
+        {
+          "feature": "B12_mean",
+          "raw_value": 1411.8427582053598,
+          "training_min": 28.586890547263682,
+          "training_max": 960.9520601978276
+        },
+        {
+          "feature": "B8A_mean",
+          "raw_value": 1529.716591388136,
+          "training_min": 7.446579344838685,
+          "training_max": 1300.0372836218376
+        },
+        {
+          "feature": "green5th",
+          "raw_value": 1587.0,
+          "training_min": 1.0,
+          "training_max": 979.1
+        }
+      ],
+      "acquisition_date": "2026-10-12T05:17:39.024000Z",
+      "model_output": 16652.0,
+      "baseline": "05.13",
+      "spatial_inside_fraction": 0.9949412827461608
+    },
+    "bhadra": {
+      "out_of_training_range": [
+        {
+          "feature": "B01_mean",
+          "raw_value": 1465.8384210526315,
+          "training_min": 15.594890510948906,
+          "training_max": 1252.3636363636363
+        },
+        {
+          "feature": "B11_mean",
+          "raw_value": 1225.0720965309201,
+          "training_min": 30.183052125553775,
+          "training_max": 1118.3977850750114
+        },
+        {
+          "feature": "B12_mean",
+          "raw_value": 1180.7322171945702,
+          "training_min": 28.586890547263682,
+          "training_max": 960.9520601978276
+        },
+        {
+          "feature": "green5th",
+          "raw_value": 1418.0,
+          "training_min": 1.0,
+          "training_max": 979.1
+        }
+      ],
+      "acquisition_date": "2026-10-12T05:17:39.024000Z",
+      "model_output": 16710.0,
+      "baseline": "05.13",
+      "spatial_inside_fraction": 0.9999396681749623
+    },
+    "supa": {
+      "out_of_training_range": [
+        {
+          "feature": "B01_mean",
+          "raw_value": 1527.9970852562546,
+          "training_min": 15.594890510948906,
+          "training_max": 1252.3636363636363
+        },
+        {
+          "feature": "B11_mean",
+          "raw_value": 1147.3180283026768,
+          "training_min": 30.183052125553775,
+          "training_max": 1118.3977850750114
+        },
+        {
+          "feature": "B12_mean",
+          "raw_value": 1110.3062494766516,
+          "training_min": 28.586890547263682,
+          "training_max": 960.9520601978276
+        },
+        {
+          "feature": "AOT_mean",
+          "raw_value": 379.3070505639477,
+          "training_min": 58.52459016393443,
+          "training_max": 345.57674138104335
+        },
+        {
+          "feature": "green5th",
+          "raw_value": 1569.0,
+          "training_min": 1.0,
+          "training_max": 979.1
+        }
+      ],
+      "acquisition_date": "2026-10-20T05:28:41.025000Z",
+      "model_output": 7105.0,
+      "baseline": "05.13",
+      "spatial_inside_fraction": 0.999497585619784
+    }
+  }
+}

@@ -1,0 +1,10 @@
+venv/
+omp/
+cyfi/
+forecasting/
+taiwan/
+water/
+poc/*.tar.gz
+poc/*.nc*
+poc/sentinel_2000/
+**/__pycache__/

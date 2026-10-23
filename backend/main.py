@@ -85,6 +85,16 @@ def image(identifier:str):
 def pdf(identifier:str):
     data=detail(identifier)
     return Response(report(data),media_type='application/pdf',headers={'Content-Disposition':f'attachment; filename="{identifier}-monitoring-report.pdf"'})
+@app.get('/api/reservoirs/{identifier}/cyfi')
+def cyfi_result(identifier:str):
+    from backend.cyfi import available
+    try:return available(identifier)
+    except KeyError:raise HTTPException(404,'Unknown Karnataka reservoir.')
+@app.post('/api/reservoirs/{identifier}/cyfi',status_code=202)
+def cyfi_compute(identifier:str):
+    from backend.cyfi import start
+    try:return start(identifier)
+    except KeyError:raise HTTPException(404,'Unknown Karnataka reservoir.')
 # One production server can serve the built React app and API.
 build=ROOT/'frontend/dist'
 if build.exists():app.mount('/',StaticFiles(directory=build,html=True),name='dashboard')

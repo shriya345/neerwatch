@@ -1,0 +1,82 @@
+{
+  "XGBoost.pkl": {
+    "RandomForestClassifier": false,
+    "XGBClassifier": true,
+    "estimators_": false,
+    "tree_": true,
+    "_Booster": true,
+    "n_classes_": true,
+    "support_vectors_": false,
+    "_fit_X": false
+  },
+  "SVM.pkl": {
+    "RandomForestClassifier": false,
+    "XGBClassifier": false,
+    "estimators_": false,
+    "tree_": false,
+    "_Booster": false,
+    "n_classes_": false,
+    "support_vectors_": true,
+    "_fit_X": false
+  },
+  "kNN.pkl": {
+    "RandomForestClassifier": false,
+    "XGBClassifier": false,
+    "estimators_": false,
+    "tree_": false,
+    "_Booster": false,
+    "n_classes_": false,
+    "support_vectors_": false,
+    "_fit_X": true
+  },
+  "kNN_SMOTE.pkl": {
+    "RandomForestClassifier": false,
+    "XGBClassifier": false,
+    "estimators_": false,
+    "tree_": false,
+    "_Booster": false,
+    "n_classes_": false,
+    "support_vectors_": false,
+    "_fit_X": true
+  },
+  "XGBoost_SMOTE.pkl": {
+    "RandomForestClassifier": false,
+    "XGBClassifier": true,
+    "estimators_": false,
+    "tree_": true,
+    "_Booster": true,
+    "n_classes_": true,
+    "support_vectors_": false,
+    "_fit_X": false
+  },
+  "SVM_SMOTE.pkl": {
+    "RandomForestClassifier": false,
+    "XGBClassifier": false,
+    "estimators_": false,
+    "tree_": false,
+    "_Booster": false,
+    "n_classes_": false,
+    "support_vectors_": true,
+    "_fit_X": false
+  },
+  "Random_Forest_SMOTE.pkl": {
+    "RandomForestClassifier": true,
+    "XGBClassifier": false,
+    "estimators_": true,
+    "tree_": true,
+    "_Booster": false,
+    "n_classes_": true,
+    "support_vectors_": false,
+    "_fit_X": false
+  },
+  "Random_Forest.pkl": {
+    "RandomForestClassifier": true,
+    "XGBClassifier": false,
+    "estimators_": true,
+    "tree_": true,
+    "_Booster": false,
+    "n_classes_": true,
+    "support_vectors_": false,
+    "_fit_X": false
+  }
+}

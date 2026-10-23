@@ -1,0 +1,3086 @@
+[
+  {
+    "reservoir_id": "krs",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 16652.0,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "cloud_fraction": 0.00019605920988138416,
+    "inside_fraction": 0.9949412827461608,
+    "features": {
+      "B01_mean": 1605.084574468085,
+      "B02_mean": 1671.8755775377576,
+      "B03_mean": 1669.9511687091936,
+      "B04_mean": 1574.3362670989047,
+      "B05_mean": 1595.608431195423,
+      "B06_mean": 1557.8782595603734,
+      "B07_mean": 1568.2340560072266,
+      "B08_mean": 1554.6135079454048,
+      "B09_mean": 1495.0558510638298,
+      "B11_mean": 1472.7769045468233,
+      "B12_mean": 1411.8427582053598,
+      "B8A_mean": 1529.716591388136,
+      "WVP_mean": 2508.9132822322877,
+      "AOT_mean": 131.0702513141351,
+      "percent_water": 0.8138907950200961,
+      "green95th": 1740.0,
+      "green5th": 1587.0,
+      "green_red_ratio": 1.0607334681976694,
+      "green_blue_ratio": 0.998848952126331,
+      "red_blue_ratio": 0.941658750358383,
+      "green95th_blue_ratio": 1.0407473040323802,
+      "green5th_blue_ratio": 0.949233316953671,
+      "NDVI_B04": -0.006303315991456164,
+      "NDVI_B05": -0.01301334446969122,
+      "NDVI_B06": -0.0010489189558836591,
+      "NDVI_B07": -0.0043615795465156,
+      "AOT_range": 11.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      10.593696191753475,
+      9.634233537326386,
+      10.17523518747545,
+      8.588531702335798,
+      9.609881959846598
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "lower",
+      "label": "Lower count band",
+      "range": "0 \u2264 count < 20,000 cells/mL",
+      "color": "#166534",
+      "background": "#dcfce7",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "bhadra",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 16710.0,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "cloud_fraction": 0.011806638449543327,
+    "inside_fraction": 0.9999396681749623,
+    "features": {
+      "B01_mean": 1465.8384210526315,
+      "B02_mean": 1487.4615015159247,
+      "B03_mean": 1501.064111608081,
+      "B04_mean": 1340.4230255455827,
+      "B05_mean": 1344.6925791855203,
+      "B06_mean": 1318.5315837104072,
+      "B07_mean": 1330.0310708898944,
+      "B08_mean": 1304.0500630384533,
+      "B09_mean": 1300.6852631578947,
+      "B11_mean": 1225.0720965309201,
+      "B12_mean": 1180.7322171945702,
+      "B8A_mean": 1296.7392760180996,
+      "WVP_mean": 2444.79772911476,
+      "AOT_mean": 221.61130789781768,
+      "percent_water": 0.8205242444493949,
+      "green95th": 1574.0,
+      "green5th": 1418.0,
+      "green_red_ratio": 1.1198435740068802,
+      "green_blue_ratio": 1.0091448485075367,
+      "red_blue_ratio": 0.9011480459692638,
+      "green95th_blue_ratio": 1.0581786475790338,
+      "green5th_blue_ratio": 0.9533019836512514,
+      "NDVI_B04": -0.0137543326359222,
+      "NDVI_B05": -0.015344078922270143,
+      "NDVI_B06": -0.0055218569419587605,
+      "NDVI_B07": -0.00986340455378995,
+      "AOT_range": 11.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      10.098536889183348,
+      9.322993944125633,
+      10.107051127052701,
+      9.216459551369006,
+      9.87394052674539
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "lower",
+      "label": "Lower count band",
+      "range": "0 \u2264 count < 20,000 cells/mL",
+      "color": "#166534",
+      "background": "#dcfce7",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "tungabhadra",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": "2026-10-17T05:18:21.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+    "operational_use": false,
+    "status": "withheld",
+    "reason": "Selected scene withheld: upstream cloud fraction 58.62% (maximum 5%), or spectral/spatial quality failed. Earlier acquisitions have not been tested in this CyFi snapshot.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "supa",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 7105.0,
+    "acquisition_date": "2026-10-20T05:28:41.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+    "cloud_fraction": 0.004480087126556273,
+    "inside_fraction": 0.999497585619784,
+    "features": {
+      "B01_mean": 1528.0,
+      "B02_mean": 1529.9634703831782,
+      "B03_mean": 1624.6001363772361,
+      "B04_mean": 1304.8040342613015,
+      "B05_mean": 1316.0340525302147,
+      "B06_mean": 1286.8172607251515,
+      "B07_mean": 1267.5027493231362,
+      "B08_mean": 1203.2749879974117,
+      "B09_mean": 1229.5760077707625,
+      "B11_mean": 1147.3180283026768,
+      "B12_mean": 1110.3062494766516,
+      "B8A_mean": 1227.7781003154046,
+      "WVP_mean": 3818.8877740591015,
+      "AOT_mean": 379.3070505639477,
+      "percent_water": 0.8867849805697878,
+      "green95th": 1697.0,
+      "green5th": 1569.0,
+      "green_red_ratio": 1.2450912885910743,
+      "green_blue_ratio": 1.0618555068967472,
+      "red_blue_ratio": 0.8528334561703713,
+      "green95th_blue_ratio": 1.1091768090221052,
+      "green5th_blue_ratio": 1.0255146808224416,
+      "NDVI_B04": -0.04048080039059346,
+      "NDVI_B05": -0.044757932718404225,
+      "NDVI_B06": -0.033549870600415574,
+      "NDVI_B07": -0.025994957116368032,
+      "AOT_range": 6.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      8.276973658850231,
+      9.174679391245656,
+      8.120399307464714,
+      9.664099343677027,
+      9.107368682870641
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "lower",
+      "label": "Lower count band",
+      "range": "0 \u2264 count < 20,000 cells/mL",
+      "color": "#166534",
+      "background": "#dcfce7",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "varahi",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "vani-vilasa",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+    "operational_use": false,
+    "status": "withheld",
+    "reason": "Selected scene withheld: upstream cloud fraction 20.39% (maximum 5%), or spectral/spatial quality failed. Earlier acquisitions have not been tested in this CyFi snapshot.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "kabini",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 92348.0,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "cloud_fraction": 0.0006862072345848446,
+    "inside_fraction": 1.0,
+    "features": {
+      "B01_mean": 1719.8273469387755,
+      "B02_mean": 1773.7670326609252,
+      "B03_mean": 1894.912172984517,
+      "B04_mean": 1737.9289328907357,
+      "B05_mean": 1751.5383977900553,
+      "B06_mean": 1665.2728360957642,
+      "B07_mean": 1694.3868784530387,
+      "B08_mean": 1601.5576034726896,
+      "B09_mean": 1647.9771428571428,
+      "B11_mean": 1557.9025782688766,
+      "B12_mean": 1532.9988950276243,
+      "B8A_mean": 1662.4141344383056,
+      "WVP_mean": 2509.133963183918,
+      "AOT_mean": 132.92261890944545,
+      "percent_water": 0.532300754827958,
+      "green95th": 1977.0,
+      "green5th": 1799.0,
+      "green_red_ratio": 1.0903277672192657,
+      "green_blue_ratio": 1.068298225242046,
+      "red_blue_ratio": 0.9797954866054609,
+      "green95th_blue_ratio": 1.1145770349752153,
+      "green5th_blue_ratio": 1.0142256377948469,
+      "NDVI_B04": -0.0408360171341039,
+      "NDVI_B05": -0.04472904869436615,
+      "NDVI_B06": -0.019503685239167585,
+      "NDVI_B07": -0.028164696186299687,
+      "AOT_range": 6.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      11.403419985111404,
+      11.317270364826589,
+      10.45473593217599,
+      12.309865016265146,
+      11.68138293497625
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "moderate",
+      "label": "Moderate count band",
+      "range": "20,000 \u2264 count < 100,000 cells/mL",
+      "color": "#854d0e",
+      "background": "#fef9c3",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "harangi",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": "2026-10-17T05:18:21.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+    "operational_use": false,
+    "status": "withheld",
+    "reason": "Upstream cloud fraction 40.64% exceeds 5%; estimate withheld.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "hemavathi",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 56982.0,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+    "cloud_fraction": 0.006255849465543569,
+    "inside_fraction": 0.9910974731977119,
+    "features": {
+      "B01_mean": 1526.767880794702,
+      "B02_mean": 1566.6637825175221,
+      "B03_mean": 1634.1056807662517,
+      "B04_mean": 1499.0006801050386,
+      "B05_mean": 1523.764897526234,
+      "B06_mean": 1462.3653445467287,
+      "B07_mean": 1479.6147289464711,
+      "B08_mean": 1418.774620746982,
+      "B09_mean": 1537.7271523178808,
+      "B11_mean": 1450.000151532371,
+      "B12_mean": 1413.794143273857,
+      "B8A_mean": 1456.9462060082585,
+      "WVP_mean": 2287.340099748739,
+      "AOT_mean": 228.905824343982,
+      "percent_water": 0.6501403871730457,
+      "green95th": 1775.0,
+      "green5th": 1498.0,
+      "green_red_ratio": 1.0901300462730583,
+      "green_blue_ratio": 1.0430480994080014,
+      "red_blue_ratio": 0.9568107061849904,
+      "green95th_blue_ratio": 1.1329808091610414,
+      "green5th_blue_ratio": 0.9561719730271775,
+      "NDVI_B04": -0.02749562632003558,
+      "NDVI_B05": -0.03568015862735601,
+      "NDVI_B06": -0.01512967933694361,
+      "NDVI_B07": -0.020991005989558942,
+      "AOT_range": 6.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      10.847322460538843,
+      10.114392955411041,
+      10.37971626897983,
+      12.237533289082993,
+      11.173575884477483
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "moderate",
+      "label": "Moderate count band",
+      "range": "20,000 \u2264 count < 100,000 cells/mL",
+      "color": "#854d0e",
+      "background": "#fef9c3",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "almatti",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+    "operational_use": false,
+    "status": "withheld",
+    "reason": "ValueError: Upstream cloud/water/no-data QC did not produce all spectral features",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "linganamakki",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 20834.0,
+    "acquisition_date": "2026-10-12T05:17:39.024000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+    "cloud_fraction": 0.02475186257765897,
+    "inside_fraction": 0.9996808680389341,
+    "features": {
+      "B01_mean": 1550.4760319573902,
+      "B02_mean": 1581.7265509352712,
+      "B03_mean": 1648.3842013187996,
+      "B04_mean": 1453.4869561874002,
+      "B05_mean": 1447.296712940801,
+      "B06_mean": 1384.494893888623,
+      "B07_mean": 1402.2334450295198,
+      "B08_mean": 1377.2743333910068,
+      "B09_mean": 1552.1890812250333,
+      "B11_mean": 1278.479655337482,
+      "B12_mean": 1202.655736397,
+      "B8A_mean": 1344.8839157491623,
+      "WVP_mean": 2918.9061460676317,
+      "AOT_mean": 251.14314551012168,
+      "percent_water": 0.3102398455483775,
+      "green95th": 1803.0,
+      "green5th": 1567.0,
+      "green_red_ratio": 1.1340894352726967,
+      "green_blue_ratio": 1.0421423351236747,
+      "red_blue_ratio": 0.9189242953075275,
+      "green95th_blue_ratio": 1.1398936174738232,
+      "green5th_blue_ratio": 0.9906895721472442,
+      "NDVI_B04": -0.026923012928350424,
+      "NDVI_B05": -0.024790447257727936,
+      "NDVI_B06": -0.0026144691693622997,
+      "NDVI_B07": -0.008979687638325696,
+      "AOT_range": 14.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      9.728147202450327,
+      9.483294752455905,
+      10.010343311319701,
+      10.172878645662344,
+      10.327227251964807
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "moderate",
+      "label": "Moderate count band",
+      "range": "20,000 \u2264 count < 100,000 cells/mL",
+      "color": "#854d0e",
+      "background": "#fef9c3",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "markonahalli",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "yagachi",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "hidkal",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 48623.0,
+    "acquisition_date": "2026-10-20T05:28:41.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+    "cloud_fraction": 0.007117875966701148,
+    "inside_fraction": 0.9925982946470867,
+    "features": {
+      "B01_mean": 1658.332814526589,
+      "B02_mean": 1668.327181345073,
+      "B03_mean": 1818.8739708535327,
+      "B04_mean": 1392.214975612291,
+      "B05_mean": 1373.5128493604927,
+      "B06_mean": 1317.9293285172903,
+      "B07_mean": 1297.924265750829,
+      "B08_mean": 1232.0004528615655,
+      "B09_mean": 1185.2848249027238,
+      "B11_mean": 1164.8830234486027,
+      "B12_mean": 1125.40750828991,
+      "B8A_mean": 1259.4252427759357,
+      "WVP_mean": 3399.821565119266,
+      "AOT_mean": 351.25150891988807,
+      "percent_water": 0.8318802029456677,
+      "green95th": 1918.0,
+      "green5th": 1745.0,
+      "green_red_ratio": 1.3064605701814107,
+      "green_blue_ratio": 1.0902381686229452,
+      "red_blue_ratio": 0.8344975680908291,
+      "green95th_blue_ratio": 1.149654589007913,
+      "green5th_blue_ratio": 1.0459579029295143,
+      "NDVI_B04": -0.06105235149993011,
+      "NDVI_B05": -0.05431267473408843,
+      "NDVI_B06": -0.03369852624304792,
+      "NDVI_B07": -0.02605761839641661,
+      "AOT_range": 6.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      11.143602979860628,
+      11.158940258152615,
+      9.972998597028395,
+      10.324246466468583,
+      11.35952673339273
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "moderate",
+      "label": "Moderate count band",
+      "range": "20,000 \u2264 count < 100,000 cells/mL",
+      "color": "#854d0e",
+      "background": "#fef9c3",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "nugu",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": "2026-10-17T05:18:21.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+    "operational_use": false,
+    "status": "withheld",
+    "reason": "Upstream cloud fraction 13.56% exceeds 5%; estimate withheld.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "kadra",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "basava-sagara",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "malaprabha",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "gerusoppa",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": 18648.0,
+    "acquisition_date": "2026-10-20T05:28:41.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+    "operational_use": false,
+    "status": "complete",
+    "scene_id": "S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+    "cloud_fraction": 0.0358902007376055,
+    "inside_fraction": 0.9666174298375184,
+    "features": {
+      "B01_mean": 1473.5950196592398,
+      "B02_mean": 1494.6876029427913,
+      "B03_mean": 1560.5927308663665,
+      "B04_mean": 1300.1293876505251,
+      "B05_mean": 1319.8124076809454,
+      "B06_mean": 1299.3685376661742,
+      "B07_mean": 1282.7435745937962,
+      "B08_mean": 1213.9081658797263,
+      "B09_mean": 1252.4613368283094,
+      "B11_mean": 1180.0004431314624,
+      "B12_mean": 1126.4444608567208,
+      "B8A_mean": 1233.8499261447562,
+      "WVP_mean": 4368.594341349145,
+      "AOT_mean": 431.1624757512536,
+      "percent_water": 0.16757010965075123,
+      "green95th": 1696.0,
+      "green5th": 1474.0,
+      "green_red_ratio": 1.2003364785765875,
+      "green_blue_ratio": 1.0440929113172672,
+      "red_blue_ratio": 0.8698335258088624,
+      "green95th_blue_ratio": 1.134685265777851,
+      "green5th_blue_ratio": 0.9861592463187219,
+      "NDVI_B04": -0.03429591640336701,
+      "NDVI_B05": -0.04179791682884369,
+      "NDVI_B06": -0.03400356660525069,
+      "NDVI_B07": -0.027571089550925663,
+      "AOT_range": 20.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    },
+    "model_sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc",
+    "fold_log_predictions": [
+      9.901672085213736,
+      9.44236665141152,
+      9.645147281324487,
+      9.589288130394456,
+      10.589151600362515
+    ],
+    "runtime_versions": {
+      "lightgbm": "4.6.0",
+      "numpy": "2.4.3",
+      "opencv-python": "4.13.0.92",
+      "pandas": "3.0.1",
+      "scipy": "1.17.1",
+      "rioxarray": "0.22.0"
+    },
+    "quality_status": "Upstream spectral QC passed; geographic and radiometric transfer unvalidated",
+    "cache_key": "a41f4a816c99ff3cc8ad9aeb10ddafd854c6bb4ea403623b0efdff4ec07d245d",
+    "reference_band": {
+      "id": "lower",
+      "label": "Lower count band",
+      "range": "0 \u2264 count < 20,000 cells/mL",
+      "color": "#166534",
+      "background": "#dcfce7",
+      "assessed": true
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "kodasalli",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "karanja",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "kanva",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "manchanabele",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "suvarnavathy",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "taraka",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "votehole",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "bennethora",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "chandrampalli",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "dharma",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "upper-tunga",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "chikkahole",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "chiklihole",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "hattikuni",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "narihalla",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "upper-mullamari",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "lower-mullamari",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "gundal",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "gandorinala",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "maskinala",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "chulkinala",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "harinala",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "hirehalla",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "uduthorehalla",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "jambhadhahalla",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "tattihalla",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  },
+  {
+    "reservoir_id": "savehaklu",
+    "experimental": true,
+    "decision": "CONDITIONAL GO",
+    "units": "cells/mL",
+    "model": "CyFi \u2014 pretrained LightGBM regression ensemble",
+    "repository": "https://github.com/drivendataorg/cyfi",
+    "license": "MIT \u00b7 \u00a9 DrivenData Inc.",
+    "model_version": "CyFi 1.2.0 / model_v0 / b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "disclaimer": "Experimental model estimate, not a laboratory measurement. Karnataka-specific field validation has not been established. Radiometric transfer and out-of-range inputs remain unresolved. Not for toxicity assessment, operational alerts or future FAI forecasting.",
+    "density_cells_per_ml": null,
+    "acquisition_date": null,
+    "source_url": null,
+    "operational_use": false,
+    "status": "unavailable",
+    "reason": "No reviewed CyFi input snapshot is available. Existing chlorophyll-a and FAI remain independent.",
+    "reference_band": {
+      "id": "not_assessed",
+      "label": "Not assessed",
+      "assessed": false,
+      "color": "#475569",
+      "background": "#f1f5f9",
+      "range": null
+    },
+    "reference_bands": [
+      {
+        "id": "lower",
+        "label": "Lower count band",
+        "range": "0 \u2264 count < 20,000 cells/mL",
+        "color": "#166534",
+        "background": "#dcfce7"
+      },
+      {
+        "id": "moderate",
+        "label": "Moderate count band",
+        "range": "20,000 \u2264 count < 100,000 cells/mL",
+        "color": "#854d0e",
+        "background": "#fef9c3"
+      },
+      {
+        "id": "high",
+        "label": "High count band",
+        "range": "100,000 \u2264 count \u2264 10,000,000 cells/mL",
+        "color": "#991b1b",
+        "background": "#fee2e2"
+      },
+      {
+        "id": "very_high",
+        "label": "Very high count band",
+        "range": "count > 10,000,000 cells/mL",
+        "color": "#ffffff",
+        "background": "#7f1d1d"
+      }
+    ],
+    "reference_explanation": "Historical WHO-derived recreational reference values, adapted for this experimental display. The 10,000,000 split is a project display extension, not a cutoff stated on the cited EPA page. Colours indicate count bands only, not validated public-health safety or Karnataka legal limits. Cell counts do not establish cyanotoxin concentrations.",
+    "reference_source_url": "https://www.epa.gov/habs/world-health-organization-who-1999-guideline-values-cyanobacteria-freshwater",
+    "current_who_url": "https://www.who.int/publications/i/item/9789240031302"
+  }
+]

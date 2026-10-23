@@ -1,0 +1,18 @@
+Processing ./research/pretrained-review/cyfi
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: cyfi
+  Building wheel for cyfi (pyproject.toml): started
+  Building wheel for cyfi (pyproject.toml): finished with status 'done'
+  Created wheel for cyfi: filename=cyfi-1.2.0-py3-none-any.whl size=945142 sha256=60b259457f62874f27879bdb71877d18cce28e8634aab90a9e73a0a5ada651d6
+  Stored in directory: /private/var/folders/z3/76b4p0xd6bj4rsrsjyn9vb1c0000gn/T/pip-ephem-wheel-cache-mabhdz0z/wheels/ff/0f/9a/6af39e50d0b5aed47827e7a3e8b826ec0d3f172bcf9e02703b
+Successfully built cyfi
+Installing collected packages: cyfi
+Successfully installed cyfi-1.2.0
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.2
+[notice] To update, run: /Users/shriyahr/Documents/ChatGPT/Major/NEERWATCH/research/pretrained-review/venv/bin/python3.12 -m pip install --upgrade pip

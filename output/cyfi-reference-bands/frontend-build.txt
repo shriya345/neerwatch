@@ -1,0 +1,14 @@
+
+> karnataka-bloom@1.0.0 build
+> vite build
+
+vite v8.3.5 building client environment for production...
+transforming...
+✓ 17 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.57 kB │ gzip:   0.37 kB
+dist/assets/index-DKtpgHCO.css   31.25 kB │ gzip:  10.65 kB
+dist/assets/index-Ds0ItUBo.js   400.63 kB │ gzip: 121.28 kB
+
+✓ built in 91ms

@@ -1,0 +1,61 @@
+{
+  "backend_tests_passed": 76,
+  "frontend_build": "passed",
+  "browser_visual_verification": false,
+  "preserved_files": {
+    "data/reservoirs.json": true,
+    "research/fai-history/acquire.py": true,
+    "backend/config.py": true,
+    "backend/chlorophyll_review.py": true,
+    "backend/monitoring.py": true,
+    "backend/__init__.py": true,
+    "backend/epa.py": true,
+    "backend/weather_quality.py": true,
+    "backend/reports.py": true,
+    "backend/fai.py": true,
+    "backend/readiness.py": true,
+    "backend/main.py": false,
+    "backend/active.py": true,
+    "frontend/src/main.jsx": false,
+    "frontend/src/style.css": true
+  },
+  "live_results": [
+    {
+      "reservoir": "krs",
+      "status": "complete",
+      "density": 16652.0,
+      "date": "2026-10-12T05:17:39.024000Z"
+    },
+    {
+      "reservoir": "bhadra",
+      "status": "complete",
+      "density": 16710.0,
+      "date": "2026-10-12T05:17:39.024000Z"
+    },
+    {
+      "reservoir": "supa",
+      "status": "complete",
+      "density": 7105.0,
+      "date": "2026-10-20T05:28:41.025000Z"
+    },
+    {
+      "reservoir": "tungabhadra",
+      "status": "withheld",
+      "density": null,
+      "date": "2026-10-17T05:18:21.025000Z"
+    },
+    {
+      "reservoir": "vani-vilasa",
+      "status": "withheld",
+      "density": null,
+      "date": "2026-10-12T05:17:39.024000Z"
+    },
+    {
+      "reservoir": "varahi",
+      "status": "unavailable",
+      "density": null,
+      "date": null
+    }
+  ],
+  "acquisition_process": "  PID  ELAPSED COMMAND\n 2340 01:14:02 .venv/bin/python research/fai-history/acquire.py\n"
+}

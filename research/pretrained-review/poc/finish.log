@@ -1,0 +1,49 @@
+Exact ancillary file extracted
+krs SCL cached
+krs AOT cached
+krs B01 cached
+krs B02 cached
+krs B03 cached
+krs B04 cached
+krs B05 cached
+krs B06 cached
+krs B07 cached
+krs B08 cached
+krs B09 cached
+krs B11 cached
+krs B12 cached
+krs B8A cached
+krs WVP cached
+krs EXPERIMENTAL_UPSTREAM_INFERENCE_ONLY 
+bhadra SCL cached
+bhadra AOT cached
+bhadra B01 cached
+bhadra B02 cached
+bhadra B03 cached
+bhadra B04 cached
+bhadra B05 cached
+bhadra B06 cached
+bhadra B07 cached
+bhadra B08 cached
+bhadra B09 cached
+bhadra B11 cached
+bhadra B12 cached
+bhadra B8A cached
+bhadra WVP cached
+bhadra EXPERIMENTAL_UPSTREAM_INFERENCE_ONLY 
+tungabhadra SCL cached
+tungabhadra AOT cached
+tungabhadra B01 cached
+tungabhadra B02 cached
+tungabhadra B03 cached
+tungabhadra B04 cached
+tungabhadra B05 cached
+tungabhadra B06 cached
+tungabhadra B07 cached
+tungabhadra B08 cached
+tungabhadra B09 cached
+tungabhadra B11 cached
+tungabhadra B12 cached
+tungabhadra B8A cached
+tungabhadra WVP cached
+tungabhadra BLOCKED ValueError: Upstream cloud/water/no-data QC did not produce all spectral features

@@ -1,0 +1,144 @@
+{
+  "reservoir_id": "chikkahole",
+  "attempts": [
+    {
+      "scene_id": "S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+      "acquisition_date": "2026-10-14T05:07:51.025000Z",
+      "status": "approved"
+    }
+  ],
+  "finished": true,
+  "approved": {
+    "reservoir_id": "chikkahole",
+    "latitude": 11.83014604496436,
+    "longitude": 76.98167321068478,
+    "locally_validated": false,
+    "registry_point_inside_polygon": true,
+    "scene_id": "S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+    "acquisition_date": "2026-10-14T05:07:51.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+    "processing_baseline": "05.13",
+    "cache_base": "research/pretrained-review/poc",
+    "band_files": {
+      "SCL": {
+        "sha256": "8ebfd833254c5740e63aad7bf79e61a060373f53a50b57f8eade6b4a05ecce03",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_SCL_20m.tif"
+      },
+      "AOT": {
+        "sha256": "13fa2cb860d27c15fdfe07efbddffbec56083fb2c2a803c0c3e555ed631120a8",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R10m/T43PGP_20261014T050751_AOT_10m.tif"
+      },
+      "B01": {
+        "sha256": "7be5195914de873d3d704c8d66194c71b88c692bc52bf5dfb674c367fe6d2cd5",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R60m/T43PGP_20261014T050751_B01_60m.tif"
+      },
+      "B02": {
+        "sha256": "223e639f33f237f43e91d8e8ec4ffbcf230dec93eb066801d81bdae473736fcf",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R10m/T43PGP_20261014T050751_B02_10m.tif"
+      },
+      "B03": {
+        "sha256": "70a530e9840bbab2dfade37e80d05ec6176a8d5b073855d8cfba2e242f14dc7b",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R10m/T43PGP_20261014T050751_B03_10m.tif"
+      },
+      "B04": {
+        "sha256": "b725b4eff8e9348a2135b3089142f48f80ab7824772167d5aa104b21c53bf346",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R10m/T43PGP_20261014T050751_B04_10m.tif"
+      },
+      "B05": {
+        "sha256": "ee3cc8a8f1fd1d669cd18f4a246088370bc0035442aea63c4e58b4c3943fea0f",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_B05_20m.tif"
+      },
+      "B06": {
+        "sha256": "03c7455244a5d8cb4d94d7dbed19b97d64e3c28efe6afc6d4cdd959daf51c268",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_B06_20m.tif"
+      },
+      "B07": {
+        "sha256": "5e7d01138fa5db492028fe04548998393d9a50907ddaa525f2b41079bb0e9e61",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_B07_20m.tif"
+      },
+      "B08": {
+        "sha256": "cc254d169192a919f60fc57d87cc0f44b2461819d837014d48a1aa9caab9cddd",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R10m/T43PGP_20261014T050751_B08_10m.tif"
+      },
+      "B09": {
+        "sha256": "60baaa7c3839556f86c6a69c89c8ea1e41bf309dcdb57e8a055f058bd46193a1",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R60m/T43PGP_20261014T050751_B09_60m.tif"
+      },
+      "B11": {
+        "sha256": "ab6a11713e99d83fcf43f75cecabd6957d7cfe9a0f4629dd84a1e7abe953b1fd",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_B11_20m.tif"
+      },
+      "B12": {
+        "sha256": "9dd6a3a3ea8bb4440ba4c77a37eab0d15d54a7d9294d62ee866e3b67b49cbf6f",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_B12_20m.tif"
+      },
+      "B8A": {
+        "sha256": "c71d3f69ae60e1c7556ed17ae01b54ae29eb0bd2a8bed137453015c5b13e1338",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R20m/T43PGP_20261014T050751_B8A_20m.tif"
+      },
+      "WVP": {
+        "sha256": "2280f698b84de8366c6b92b09c46fd56cf1a88be211d9fae1ba6f0a0e507e6d8",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/GP/2026/10/14/S2C_MSIL2A_20261014T050751_N0513_R019_T43PGP_20261014T100514.SAFE/GRANULE/L2A_T43PGP_A011000_20261014T051742/IMG_DATA/R10m/T43PGP_20261014T050751_WVP_10m.tif"
+      }
+    },
+    "sample_bbox": [
+      76.96331959566336,
+      11.812066277040222,
+      77.00002682570619,
+      11.848225789891583
+    ],
+    "cloud_fraction": 0.006911087148318792,
+    "water_pixels": 917,
+    "inside_fraction": 1.0,
+    "land_cover": 210,
+    "status": "eligible",
+    "limitations": [
+      "Experimental; no Karnataka field validation",
+      "Raw-DN radiometric transfer and out-of-training-range inputs remain unresolved",
+      "4 km box, not whole-reservoir mean; no toxin or FAI forecast"
+    ]
+  },
+  "inference": {
+    "density_cells_per_ml": 141013.0,
+    "fold_log_predictions": [
+      11.842176572071978,
+      12.091178650096964,
+      11.179174767305941,
+      11.203659746569553,
+      12.966891051795665
+    ],
+    "features": {
+      "B01_mean": 1645.8823529411766,
+      "B02_mean": 1656.471186440678,
+      "B03_mean": 1870.7061277705345,
+      "B04_mean": 1705.8983050847457,
+      "B05_mean": 1750.5779716466739,
+      "B06_mean": 1614.5856052344602,
+      "B07_mean": 1619.0032715376226,
+      "B08_mean": 1687.4292046936114,
+      "B09_mean": 1998.5378151260504,
+      "B11_mean": 1417.782988004362,
+      "B12_mean": 1295.496183206107,
+      "B8A_mean": 1560.1723009814614,
+      "WVP_mean": 2973.949674054759,
+      "AOT_mean": 347.8331160365059,
+      "percent_water": 0.02247328693265366,
+      "green95th": 2129.2999999999997,
+      "green5th": 1792.0,
+      "green_red_ratio": 1.0966105788337726,
+      "green_blue_ratio": 1.1293321266820169,
+      "red_blue_ratio": 1.02983880374658,
+      "green95th_blue_ratio": 1.2854434278300408,
+      "green5th_blue_ratio": 1.081817791138606,
+      "NDVI_B04": -0.00544276977035462,
+      "NDVI_B05": -0.01836784035462181,
+      "NDVI_B06": 0.022060349105683733,
+      "NDVI_B07": 0.0206947922414501,
+      "AOT_range": 6.0,
+      "month": 10.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "reservoir_id": "narihalla",
+  "attempts": [
+    {
+      "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+      "acquisition_date": "2026-10-12T05:17:39.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 8.4280% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20261009T052241_R062_T43PFS_20261009T101803",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFS_20261009T101803",
+      "acquisition_date": "2026-10-09T05:22:41.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 12.9298% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261022T051849_R062_T43PFS_20261022T090939",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261022T051849_R062_T43PFS_20261022T090939",
+      "acquisition_date": "2026-10-22T05:18:49.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 100.0000% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+      "acquisition_date": "2026-10-17T05:18:21.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 100.0000% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261007T051711_R062_T43PFS_20261007T100902",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261007T051711_R062_T43PFS_20261007T100902",
+      "acquisition_date": "2026-10-07T05:17:11.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 99.6659% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261002T051649_R062_T43PFS_20261002T091946",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261002T051649_R062_T43PFS_20261002T091946",
+      "acquisition_date": "2026-10-02T05:16:49.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 28.2471% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20260927T051651_R062_T43PFS_20260927T101415",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PFS_20260927T101415",
+      "acquisition_date": "2026-09-27T05:16:51.025000Z",
+      "status": "approved"
+    }
+  ],
+  "finished": true,
+  "approved": {
+    "reservoir_id": "narihalla",
+    "latitude": 15.114150611076111,
+    "longitude": 76.59428390784514,
+    "locally_validated": false,
+    "registry_point_inside_polygon": true,
+    "scene_id": "S2C_MSIL2A_20260927T051651_R062_T43PFS_20260927T101415",
+    "acquisition_date": "2026-09-27T05:16:51.025000Z",
+    "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PFS_20260927T101415",
+    "processing_baseline": "05.13",
+    "cache_base": "research/pretrained-review/poc",
+    "band_files": {
+      "SCL": {
+        "sha256": "6b0bd29300ada363a92b933d4ac9b39c002c7d6c59b580a64865742d730f1609",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_SCL_20m.tif"
+      },
+      "AOT": {
+        "sha256": "8148a1a9ec329bc6924d2fa49bd23f80e0ff475eb0dc81284d01c12de5d0bd08",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R10m/T43PFS_20260927T051651_AOT_10m.tif"
+      },
+      "B01": {
+        "sha256": "6189da1013e828bedfd8b03cbcb0cb8acc602612cd2edc980210e2418f7b6d46",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R60m/T43PFS_20260927T051651_B01_60m.tif"
+      },
+      "B02": {
+        "sha256": "3e455b0e760217307a7334759770e8a36e9c786b55c6507f7cfd922bc2bafeb9",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R10m/T43PFS_20260927T051651_B02_10m.tif"
+      },
+      "B03": {
+        "sha256": "4088adb7806c6fddf08fe91ef2879d59e3cbaea88ae741ddf6de72fba0c5320b",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R10m/T43PFS_20260927T051651_B03_10m.tif"
+      },
+      "B04": {
+        "sha256": "a735620fd2db0ac350c3d6a7af40b770261dbe2d35fde675af995c710c7952b2",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R10m/T43PFS_20260927T051651_B04_10m.tif"
+      },
+      "B05": {
+        "sha256": "6d85cecc01d9761e351cd4186e167f93f7fadce417ca1824b2f43ed6f5e404c5",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_B05_20m.tif"
+      },
+      "B06": {
+        "sha256": "0c07f3d90f01f736350af727e4da4e6c085698316d99b9d9bd3f2bfc634692b2",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_B06_20m.tif"
+      },
+      "B07": {
+        "sha256": "e085738d62e765d4b861c715fef4fb2722daa6d1e004d7794824e2c6f2b3bed6",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_B07_20m.tif"
+      },
+      "B08": {
+        "sha256": "b519ce43606e3346733ab560e3afc755c0fea13682fd5c7516eda748a56ccf5e",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R10m/T43PFS_20260927T051651_B08_10m.tif"
+      },
+      "B09": {
+        "sha256": "e875e8fdeda2feff5d3f6183f3559a73a4f45e466c95b67cbdffcf1c01bc5abe",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R60m/T43PFS_20260927T051651_B09_60m.tif"
+      },
+      "B11": {
+        "sha256": "1b72b68d1b029451894b5a966775101884fef557aa75b0f79d5711789ece9fd1",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_B11_20m.tif"
+      },
+      "B12": {
+        "sha256": "6e9026ab22763b0424953a675503f44db524fe075a381e308669cbeec4e4ecf8",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_B12_20m.tif"
+      },
+      "B8A": {
+        "sha256": "feaa49da31b06624bc21bc526147aed677d61a7e11c2fd203139c605f5965f9f",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R20m/T43PFS_20260927T051651_B8A_20m.tif"
+      },
+      "WVP": {
+        "sha256": "f087a782b5e1c338c50ff57ad663bfce0b980534be41b3347bd71322e089ec52",
+        "source_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/P/FS/2026/09/27/S2C_MSIL2A_20260927T051651_N0513_R062_T43PFS_20260927T101415.SAFE/GRANULE/L2A_T43PFS_A010757_20260927T053403/IMG_DATA/R10m/T43PFS_20260927T051651_WVP_10m.tif"
+      }
+    },
+    "sample_bbox": [
+      76.57567808339506,
+      15.096075553886951,
+      76.61288973229522,
+      15.132225639425698
+    ],
+    "cloud_fraction": 0.030580890601375407,
+    "water_pixels": 3953,
+    "inside_fraction": 0.9936756893498608,
+    "land_cover": 210,
+    "status": "eligible",
+    "limitations": [
+      "Experimental; no Karnataka field validation",
+      "Raw-DN radiometric transfer and out-of-training-range inputs remain unresolved",
+      "4 km box, not whole-reservoir mean; no toxin or FAI forecast"
+    ]
+  },
+  "inference": {
+    "density_cells_per_ml": 37714.0,
+    "fold_log_predictions": [
+      11.400774566730213,
+      10.955233063293374,
+      10.293377618203518,
+      8.731252060872606,
+      11.308392117587383
+    ],
+    "features": {
+      "B01_mean": 1394.9148936170213,
+      "B02_mean": 1440.2332507739939,
+      "B03_mean": 1708.1721362229102,
+      "B04_mean": 1681.318080495356,
+      "B05_mean": 1685.9511763217808,
+      "B06_mean": 1418.6397672653682,
+      "B07_mean": 1420.5550215026562,
+      "B08_mean": 1423.1131269349846,
+      "B09_mean": 1555.4617021276595,
+      "B11_mean": 1348.4611687326083,
+      "B12_mean": 1249.6534277763724,
+      "B8A_mean": 1352.0981533012903,
+      "WVP_mean": 2916.1330030959753,
+      "AOT_mean": 305.9308359133127,
+      "percent_water": 0.09640052675218261,
+      "green95th": 1810.0,
+      "green5th": 1611.0,
+      "green_red_ratio": 1.0159720257808935,
+      "green_blue_ratio": 1.186038535983615,
+      "red_blue_ratio": 1.1673929063863795,
+      "green95th_blue_ratio": 1.2567408779288287,
+      "green5th_blue_ratio": 1.118568814554333,
+      "NDVI_B04": -0.08317303116344388,
+      "NDVI_B05": -0.08453927733545802,
+      "NDVI_B06": 0.0015741550501262797,
+      "NDVI_B07": 0.0008995794511866095,
+      "AOT_range": 26.0,
+      "month": 9.0,
+      "days_before_sample": 0.0,
+      "land_cover": 210.0
+    }
+  },
+  "catalogue_count": 29,
+  "catalogue_has_more": false
+}

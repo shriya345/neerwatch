@@ -1,0 +1,65 @@
+[
+  {
+    "reservoir_id": "krs",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+    "scl_water_pixels": 33210,
+    "water_pixels_inside_polygon": 33042,
+    "water_pixels_outside_polygon": 168,
+    "inside_fraction": 0.9949412827461608,
+    "crs": "EPSG:32643",
+    "transform": [
+      20.0,
+      0.0,
+      659980.0,
+      0.0,
+      -20.0,
+      1380060.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "note": "Diagnostic only. Upstream model retains its own unmodified box mask; no local validation."
+  },
+  {
+    "reservoir_id": "bhadra",
+    "scene_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+    "scl_water_pixels": 33150,
+    "water_pixels_inside_polygon": 33148,
+    "water_pixels_outside_polygon": 2,
+    "inside_fraction": 0.9999396681749623,
+    "crs": "EPSG:32643",
+    "transform": [
+      20.0,
+      0.0,
+      559340.0,
+      0.0,
+      -20.0,
+      1507180.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "note": "Diagnostic only. Upstream model retains its own unmodified box mask; no local validation."
+  },
+  {
+    "reservoir_id": "tungabhadra",
+    "scene_id": "S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+    "scl_water_pixels": 16437,
+    "water_pixels_inside_polygon": 16273,
+    "water_pixels_outside_polygon": 164,
+    "inside_fraction": 0.9900225101904241,
+    "crs": "EPSG:32643",
+    "transform": [
+      20.0,
+      0.0,
+      635760.0,
+      0.0,
+      -20.0,
+      1683640.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "note": "Diagnostic only. Upstream model retains its own unmodified box mask; no local validation."
+  }
+]

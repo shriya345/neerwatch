@@ -1,0 +1,22 @@
+{
+  "snapshot_utc": "2026-10-23T06:46:37.576282+00:00",
+  "years_with_valid_observations": [
+    2022
+  ],
+  "seasons_with_valid_observations": [
+    "winter"
+  ],
+  "five_year_gate_passes": false,
+  "totals": {
+    "planned_acquisitions": 18945,
+    "processed_acquisitions": 211,
+    "valid_acquisitions": 172,
+    "valid_dates": 172,
+    "quality_rejections": 32,
+    "retryable_errors": 7,
+    "unprocessed": 18734
+  },
+  "forecast_pairs": 77,
+  "scope": "Exactly current 46 registry records; cutoff remains 2026-10-22",
+  "ml_status": "NOT EVALUATED: full year/season and chronological sample gates required"
+}

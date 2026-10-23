@@ -1,0 +1,1294 @@
+{
+  "version": "fai-scl-60m-v1",
+  "registry_sha256": "5766882e35cf490873676a4f012f8bc8c06de05e1113e8f74f49d771bbf7e707",
+  "observations": {
+    "krs": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "fai": -0.007900640368461609,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 7967,
+        "valid_fraction": 0.29695478772969547,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "array_sha256": "766ba2676ce83b7884a52e9fbb6c03157c246534911d7ec3e09f4cc15e19ad30"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "fai": -0.0013273023068904877,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 17505,
+        "valid_fraction": 0.6524656155652465,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "array_sha256": "439801887dadc74a603a0bed3d613efc5cafc451a0740dbd1c970315e7cdc8c7"
+      }
+    ],
+    "bhadra": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "fai": -0.004729513078927994,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 22327,
+        "valid_fraction": 0.7152192715507576,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "array_sha256": "f8e2008ede854acdf2eb1b87b58f9ecdea9d49bc9f1212a39ef00c3c437b95f2"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "fai": -0.0019520670175552368,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 25065,
+        "valid_fraction": 0.8029278918537976,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "array_sha256": "b887b6b6b27295792b59ae4cdd705d82b727a00823b8dc298917bac024c38616"
+      }
+    ],
+    "tungabhadra": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "fai": -0.006883803755044937,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 40422,
+        "valid_fraction": 0.8985262409140419,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "array_sha256": "eae11a87bf904495da8d80acbdb9a1b7648d7a7a4bcf217342eda203d0cfc2d8"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+        "fai": -0.006352700293064117,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 32298,
+        "valid_fraction": 0.7179407384355481,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFS_20261017T102804",
+        "array_sha256": "7312f17f9f577c0cc02738b1b3fd51e1cd036734529c9b3ade84e8bcde3661db"
+      }
+    ],
+    "supa": [
+      {
+        "observed_at": "2026-10-10T05:27:31.025000Z",
+        "item_id": "S2C_MSIL2A_20261010T052731_R105_T43PDS_20261010T102100",
+        "fai": -0.010062698274850845,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 18104,
+        "valid_fraction": 0.6785607196401799,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261010T052731_R105_T43PDS_20261010T102100",
+        "array_sha256": "9115d39caf85564be013aa450d06074397e20bec79a52c9e42ab95ee3f0578c1"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "fai": -0.01002761535346508,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 18533,
+        "valid_fraction": 0.694640179910045,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "array_sha256": "752460d19ed6b75d6d78f6ce3994b18d7847b8d3d802ccfb32c13844ce72ce85"
+      }
+    ],
+    "varahi": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "fai": -0.00951554998755455,
+        "units": "dimensionless",
+        "qc": "legacy_mask_incomplete",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1605,
+        "valid_fraction": 0.12873987326542072,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "array_sha256": "19ac600152f92d4af5c32689672679da8f3063e469fa65c2429338b1dc58b02b"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "fai": -0.003464760258793831,
+        "units": "dimensionless",
+        "qc": "legacy_mask_incomplete",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 6269,
+        "valid_fraction": 0.5028475174460576,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "array_sha256": "43cf9a1a7e00ac97418810ad1a58d7c46797e5aa9e5fd2923e1ce2d9a9721184"
+      }
+    ],
+    "vani-vilasa": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFR_20261009T101803",
+        "fai": -0.010791745036840439,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 7915,
+        "valid_fraction": 0.63543673731535,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFR_20261009T101803",
+        "array_sha256": "a6bc062430d857c0959484ee42f93d001b602fa06fe8793f1ead17caed8e3683"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+        "fai": -0.009244758635759354,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 7950,
+        "valid_fraction": 0.6382466281310212,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFR_20261012T091927",
+        "array_sha256": "726760391982d4338c6ad4a2686e18fcedabb18013e7022d58a5e771c22bbd9d"
+      }
+    ],
+    "kabini": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "fai": -0.00915016233921051,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 3509,
+        "valid_fraction": 0.21759890859481582,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "array_sha256": "5f14a47fa5688f2cac9f52d103d60b07d2f7c5b2336040a5f5dbfce9ba5323b6"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "fai": -0.00834634155035019,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 10417,
+        "valid_fraction": 0.6459754433833561,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "array_sha256": "54af97bf0b30a986a5394d452a3029a33d763ed551bfb98b3f2720aa42f2243f"
+      }
+    ],
+    "harangi": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "fai": -0.011595554649829865,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 2357,
+        "valid_fraction": 0.5255295429208473,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "array_sha256": "f03f737991655d5c365c71700221a5d7112b15bb19476d1440b47ed639f049c3"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+        "fai": 0.035706035792827606,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 585,
+        "valid_fraction": 0.13043478260869565,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PEP_20261017T102804",
+        "array_sha256": "00c0f9ca38aa26eac0eb564597c233d149fdbc5ce7dd6955a392b1a2a6203c19"
+      }
+    ],
+    "hemavathi": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFQ_20261009T101803",
+        "fai": -0.007970791310071945,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 2581,
+        "valid_fraction": 0.184805957324932,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFQ_20261009T101803",
+        "array_sha256": "d31aece21ae8bf17a0176897558b09145c7621e40abfabc8281efddf0ef10dd9"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+        "fai": -0.009794918820261955,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 9897,
+        "valid_fraction": 0.7086495775454675,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFQ_20261012T091927",
+        "array_sha256": "4d741a77e90193a49f120e51b2d1c540eaff147375fddafb1a35d2a83cc455fc"
+      }
+    ],
+    "almatti": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QEU_20261009T101803",
+        "fai": -0.011339370161294937,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 36255,
+        "valid_fraction": 0.6131612772290623,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QEU_20261009T101803",
+        "array_sha256": "147cb11ece5e172932f56dcc60eb97493f21ba9e7a36c925eadcfbc91ede21af"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+        "fai": -0.010458407923579216,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 43847,
+        "valid_fraction": 0.7415606819104316,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QEU_20261012T091927",
+        "array_sha256": "a8d40414fc65f1dd865a93224fe8921b7e28c5c6afb948dfd839c71cc7c10ec7"
+      }
+    ],
+    "linganamakki": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "fai": -0.006902851164340973,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 29653,
+        "valid_fraction": 0.3893053604484764,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "array_sha256": "7c5123df88e9a6e5843d67195baaf535edc523fae45bfb12bd7c626d1be332b8"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "fai": -0.004127617925405502,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 35089,
+        "valid_fraction": 0.460672977195447,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "array_sha256": "901683d0f3eeaeaf7d584a8377c64142b90d9c70b81eb2bf51690590afc1e2c7"
+      }
+    ],
+    "markonahalli": [
+      {
+        "observed_at": "2026-10-14T05:07:51.025000Z",
+        "item_id": "S2C_MSIL2A_20261014T050751_R019_T43PFQ_20261014T100514",
+        "fai": 0.004828412085771561,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 594,
+        "valid_fraction": 0.19298245614035087,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PFQ_20261014T100514",
+        "array_sha256": "8aa0b8baf746a57ecb19886f951448816c942184ecc7549e26d81168fb68b386"
+      },
+      {
+        "observed_at": "2026-10-19T05:08:19.024000Z",
+        "item_id": "S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+        "fai": -0.019923489540815353,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 427,
+        "valid_fraction": 0.1387264457439896,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261019T050819_R019_T43PFQ_20261019T085221",
+        "array_sha256": "b0d10d37ed7933853b60cff1d4415e71819041ea1d921fe783bd5858c3e2fcfb"
+      }
+    ],
+    "yagachi": [
+      {
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "fai": -0.003676503896713257,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1561,
+        "valid_fraction": 0.5055051813471503,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "array_sha256": "ce46cedbe57e451a242961bde2ccb453d13207d56ae6c19afe853c99af90224d"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "fai": -0.0027623847126960754,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 506,
+        "valid_fraction": 0.163860103626943,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "array_sha256": "512306a621084bb49856628b88c350e5458f24b1c18390c5133f229ad0fd004e"
+      }
+    ],
+    "hidkal": [
+      {
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "item_id": "S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "fai": -0.014714764431118965,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 6594,
+        "valid_fraction": 0.37658480868075384,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "array_sha256": "c3129fe45957b73120dbb91327c90ee97a53ae2c2b37371662d90b2ef3966e18"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "fai": -0.012635879218578339,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 14343,
+        "valid_fraction": 0.819131924614506,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "array_sha256": "cdb4fa0d0ba7bbf13417ac9f00398e7679a95f7fedf8e94e394ad78c49a3cc4f"
+      }
+    ],
+    "nugu": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "fai": -0.010193489491939545,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 854,
+        "valid_fraction": 0.31145149525893506,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFP_20261009T101803",
+        "array_sha256": "4a05083b018e409e7ccdfdd2857903feb3724ba317023c3eb863638f14678743"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+        "fai": -0.010178100317716599,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1336,
+        "valid_fraction": 0.48723559445660103,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFP_20261017T102804",
+        "array_sha256": "60c065ae791c7393fc37d3e9359b2dc464807239cf4ee015587606fffd6dab47"
+      }
+    ],
+    "kadra": [
+      {
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "item_id": "S2B_MSIL2A_20261015T052759_R105_T43PDS_20261015T090952",
+        "fai": -6.042420864105225e-06,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 3737,
+        "valid_fraction": 0.5173034330011074,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDS_20261015T090952",
+        "array_sha256": "f2e9747b5e4609040338eeaac07f357386dc60ca9df28e133905927663a568e3"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "fai": -0.006036181002855301,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 5347,
+        "valid_fraction": 0.740171650055371,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "array_sha256": "247a1ed0e97ae24cb945b4ff3630439385d0a90c00b202080883b3c37b877a07"
+      }
+    ],
+    "basava-sagara": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "MOSAIC_Sentinel2B_20261012T051739_62",
+        "fai": -0.012941274791955948,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 25219,
+        "valid_fraction": 0.7385205575729179,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PET_20261012T091927",
+        "array_sha256": "67c61a0003af6db919f7174e8720cc2d6b508c539cd60bcbeaac0f617136959a"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "MOSAIC_Sentinel2C_20261017T051821_62",
+        "fai": 0.0028511062264442444,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 9587,
+        "valid_fraction": 0.2807485065011128,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PET_20261017T102804",
+        "array_sha256": "1d9a49783289a6cb6c5e6b303a8978cb506700e91429dc7c27a38a194b722e11"
+      }
+    ],
+    "malaprabha": [
+      {
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "item_id": "MOSAIC_Sentinel2B_20261015T052759_105",
+        "fai": -0.014540325850248337,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 16517,
+        "valid_fraction": 0.8021076146076146,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "array_sha256": "09bc28ccaef53333e9f0cfb0accf188ddb2556e42e8526a03d8d6dd034767040"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "MOSAIC_Sentinel2C_20261020T052841_105",
+        "fai": -0.012991108000278473,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 14213,
+        "valid_fraction": 0.6902195027195027,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDT_20261020T101804",
+        "array_sha256": "b0d2c73219077377f457e648cbd2845265d5d696859b0a8731172bce602e0768"
+      }
+    ],
+    "gerusoppa": [
+      {
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "item_id": "S2B_MSIL2A_20261015T052759_R105_T43PDR_20261015T090952",
+        "fai": -0.007177939638495445,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 752,
+        "valid_fraction": 0.44470727380248376,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDR_20261015T090952",
+        "array_sha256": "afd5587370f71e7be786f1437f6d0243a417ca6b3ed797734fca04d07b06cf23"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+        "fai": -0.012303179129958153,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 739,
+        "valid_fraction": 0.43701951507983444,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDR_20261020T101804",
+        "array_sha256": "861abcbd8f76e8c95a08fba9a3d95829834f340fb99effa67c578c680480e81e"
+      }
+    ],
+    "kodasalli": [
+      {
+        "observed_at": "2026-10-02T05:32:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261002T053241_R105_T43PDS_20261002T101803",
+        "fai": -0.018170159310102463,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 2171,
+        "valid_fraction": 0.5263030303030303,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261002T053241_R105_T43PDS_20261002T101803",
+        "array_sha256": "fbcd624876f00a65af6bb1def8667c5e9fe5625b716f5ab01a21bd0ae557d08e"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "fai": -0.01319650374352932,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 2008,
+        "valid_fraction": 0.48678787878787877,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "array_sha256": "e1f505fb0a9d5990d89b42f16e1625da173f67f757e060315446255958097b18"
+      }
+    ],
+    "karanja": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.013180311769247055,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 9119,
+        "valid_fraction": 0.894721350078493,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "890b01f0a20d6a51225a6803e00fa514df762c769da546d5749726897b83b7a9"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "fai": -0.01315746083855629,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 7741,
+        "valid_fraction": 0.7595172684458399,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "array_sha256": "78ce042a05eacb0ee7275f7935629aac6c5e01d8a3500dd83bce0a42b8ba61a3"
+      }
+    ],
+    "kanva": [
+      {
+        "observed_at": "2026-10-04T05:06:51.025000Z",
+        "item_id": "S2C_MSIL2A_20261004T050651_R019_T43PGQ_20261004T102617",
+        "fai": -0.01529555395245552,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 381,
+        "valid_fraction": 0.3860182370820669,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGQ_20261004T102617",
+        "array_sha256": "af5cd59e331a81fe81b1254c880c573eea9ac7c468e25a5586f3c0f74614a01c"
+      },
+      {
+        "observed_at": "2026-10-09T05:07:19.024000Z",
+        "item_id": "S2B_MSIL2A_20261009T050719_R019_T43PGQ_20261009T090953",
+        "fai": 0.0006717443466186523,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 154,
+        "valid_fraction": 0.15602836879432624,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGQ_20261009T090953",
+        "array_sha256": "374a58b0f706fa49efdda8112f8f644e3d7cc935fd803b77a4f33929504ec9de"
+      }
+    ],
+    "manchanabele": [
+      {
+        "observed_at": "2026-10-14T05:07:51.025000Z",
+        "item_id": "S2C_MSIL2A_20261014T050751_R019_T43PGQ_20261014T100514",
+        "fai": -0.002524442970752716,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 387,
+        "valid_fraction": 0.5315934065934066,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGQ_20261014T100514",
+        "array_sha256": "e17462da48c5ef55f3caa31c4c1f4e1855f2b667c6c369d092f8c7ecfdbecce7"
+      },
+      {
+        "observed_at": "2026-10-19T05:08:19.024000Z",
+        "item_id": "S2B_MSIL2A_20261019T050819_R019_T43PGQ_20261019T085221",
+        "fai": -0.013880317099392414,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 292,
+        "valid_fraction": 0.4010989010989011,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261019T050819_R019_T43PGQ_20261019T085221",
+        "array_sha256": "77493fbad79f3bcfc5cf43fb7ca43eff761cf854f2e44c235735760c6828267b"
+      }
+    ],
+    "suvarnavathy": [
+      {
+        "observed_at": "2026-09-29T05:06:49.024000Z",
+        "item_id": "S2B_MSIL2A_20260929T050649_R019_T43PGP_20260929T091314",
+        "fai": -0.024640001356601715,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 171,
+        "valid_fraction": 0.15702479338842976,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260929T050649_R019_T43PGP_20260929T091314",
+        "array_sha256": "efa15c1c38ba921b097c909edea6cdcf7695c1279985605e60fae3e102e46437"
+      },
+      {
+        "observed_at": "2026-10-09T05:07:19.024000Z",
+        "item_id": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "fai": 0.008239038288593292,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 271,
+        "valid_fraction": 0.24885215794306703,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "array_sha256": "f7f20089189a625217e7fc16d68e24c05cf0ec938dbaf9863a04717ca4d5c84f"
+      }
+    ],
+    "taraka": [
+      {
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43PFP_20261007T100505",
+        "fai": -0.01446586288511753,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 546,
+        "valid_fraction": 0.4486442070665571,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261007T051711_R062_T43PFP_20261007T100505",
+        "array_sha256": "bcf95ddcd9b96e160d19a22f6cf6a5f5274d6ee59cbce4f5b43b67f465c8eb74"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "fai": -0.009815238416194916,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 753,
+        "valid_fraction": 0.61873459326212,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFP_20261012T091927",
+        "array_sha256": "ad4de1d48bcec9acfad79891b0bd55d8010c7da08cd0aa14be36ea61798a6cbb"
+      }
+    ],
+    "votehole": [
+      {
+        "observed_at": "2026-09-27T05:16:51.025000Z",
+        "item_id": "S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "fai": -0.007015240378677845,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 614,
+        "valid_fraction": 0.46096096096096095,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260927T051651_R062_T43PEQ_20260927T101415",
+        "array_sha256": "132ee9cd07e76cc94aa8e10a7359fb4b0ee66799f5d92fe670166ea1594264e1"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "fai": -0.006421592086553574,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 579,
+        "valid_fraction": 0.4346846846846847,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEQ_20261012T091927",
+        "array_sha256": "726ed3c0d151b3f803c3b50bf7b004b02e495a4c8af5f02316f9185c7559e696"
+      }
+    ],
+    "bennethora": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.016347616910934448,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 2497,
+        "valid_fraction": 0.5304865094540047,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "25051a03a5adcf03f39bcb93b10dd2db5e19660e5462df569d94d244e6d36a82"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "fai": -0.007400311529636383,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1777,
+        "valid_fraction": 0.3775228383258976,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "array_sha256": "02fb9f984aaf6860aa882ebafe749f06fef2259fd34c65c271628073892c49e0"
+      }
+    ],
+    "chandrampalli": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "fai": -0.014416828751564026,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 554,
+        "valid_fraction": 0.6081229418221734,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "array_sha256": "2246c363f3d412fb6622edba2728f76cc13923e181daee37b400dff986f8e4b9"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.011640943586826324,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 557,
+        "valid_fraction": 0.6114160263446762,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "d49abbc7fdf2bfa814ad223fa3308bc12981c6a77d8da8b63cda728ed2db7d7e"
+      }
+    ],
+    "dharma": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PDS_20261009T101803",
+        "fai": -0.015116192400455475,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 756,
+        "valid_fraction": 0.618657937806874,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDS_20261009T101803",
+        "array_sha256": "c1a2556414a416e788482095fe3fef48dc05077a9410f8d41a34625740965581"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "fai": -0.015717141330242157,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 465,
+        "valid_fraction": 0.38052373158756136,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "array_sha256": "3d555f0425af8afd780ff988d5cf36b4e98a5eda49b51d8987bbdf8fb0c454a5"
+      }
+    ],
+    "upper-tunga": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "fai": -0.024853017181158066,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 835,
+        "valid_fraction": 0.2639064475347661,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PER_20261009T101803",
+        "array_sha256": "600ba2873aa29b8eb9af34ea46edffed0dd2ca5c9771ec4328cfd50d00ee0810"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "fai": -0.02317269891500473,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1635,
+        "valid_fraction": 0.5167509481668774,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "array_sha256": "59371173b0ec07545fe1c7b9b5f8131dd5406367bb4e9d5828c44b73a5354ad2"
+      }
+    ],
+    "chikkahole": [
+      {
+        "observed_at": "2026-10-09T05:07:19.024000Z",
+        "item_id": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "fai": -0.006950154900550842,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 79,
+        "valid_fraction": 0.24085365853658536,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "array_sha256": "2e8d020b0740726bdd168e8513e0fe1850b597d5308a96078f6416d7b5318c1a"
+      },
+      {
+        "observed_at": "2026-10-14T05:07:51.025000Z",
+        "item_id": "S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+        "fai": -0.01439175009727478,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 62,
+        "valid_fraction": 0.18902439024390244,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+        "array_sha256": "135f5268aede33ee6399b0bc99269bbc4d0f24799fe6997cf04dc6d61a4c1a6d"
+      }
+    ],
+    "chiklihole": [
+      {
+        "observed_at": "2026-10-07T05:17:11.025000Z",
+        "item_id": "S2C_MSIL2A_20261007T051711_R062_T43PEP_20261007T100505",
+        "fai": -0.012693330645561218,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 27,
+        "valid_fraction": 0.15606936416184972,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261007T051711_R062_T43PEP_20261007T100505",
+        "array_sha256": "93c8081956469bc16b2ca08d31d4039890914b70fa8d36f65a10ac0f2425972a"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "fai": -0.024847611784934998,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 45,
+        "valid_fraction": 0.26011560693641617,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PEP_20261012T091927",
+        "array_sha256": "e500f7587a06c46d43a1ecaacd1226360da8ad0e8ec2319fe6a9a17eb1785636"
+      }
+    ],
+    "hattikuni": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QGU_20261009T101803",
+        "fai": -0.008747933432459831,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 120,
+        "valid_fraction": 0.36036036036036034,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGU_20261009T101803",
+        "array_sha256": "c33130647c4b4d7f19595ddd36fdacaaa9ec6746e9ed172e900e03052421f276"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGU_20261012T091927",
+        "fai": -0.01448412612080574,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 113,
+        "valid_fraction": 0.33933933933933935,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGU_20261012T091927",
+        "array_sha256": "602520c0e27ddfc5921fee8eb1dd07acf9a59dbdab19cdb4271184ae8ab3467f"
+      }
+    ],
+    "narihalla": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PFS_20261009T101803",
+        "fai": -0.01935381069779396,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 334,
+        "valid_fraction": 0.5439739413680782,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PFS_20261009T101803",
+        "array_sha256": "316a4f490b9398611d9fd090b4d91393f61697455dd33ed6f3d40a743a0f72cf"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "fai": -0.030624128878116608,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 326,
+        "valid_fraction": 0.5309446254071661,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFS_20261012T091927",
+        "array_sha256": "75b0bc5ae99c23f81e69cd529182d3f99722af68a76393046b9b884838c2005e"
+      }
+    ],
+    "upper-mullamari": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.03096507489681244,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 361,
+        "valid_fraction": 0.48717948717948717,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "4eef83c1821fa03937fd267e9b98ab47844e6529f6dfd505164c5d58f32500fa"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "fai": -0.015039995312690735,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 351,
+        "valid_fraction": 0.47368421052631576,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "array_sha256": "af9eed8991c7d033a84faea11427689e050c7a8a30ed1c9a7b38fa0b3e42d114"
+      }
+    ],
+    "lower-mullamari": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "fai": -0.010920003056526184,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 517,
+        "valid_fraction": 0.21443384487764414,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "array_sha256": "29c260864225fbaa8c957907aa9e36550b08e42aa5035c216be01ec7b3b4937e"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.007857456803321838,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1011,
+        "valid_fraction": 0.41932807963500623,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "19518c0e5481f95357abc41990c6d602195c7e37522bbbf585db1ee152e30262"
+      }
+    ],
+    "gundal": [
+      {
+        "observed_at": "2026-10-04T05:06:51.025000Z",
+        "item_id": "S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "fai": -0.05311175435781479,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 87,
+        "valid_fraction": 0.15289982425307558,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "array_sha256": "a1ac02f26ff10c9573ba268a4a82304465d0923aff2d98545db5316e78ac30a9"
+      },
+      {
+        "observed_at": "2026-10-09T05:07:19.024000Z",
+        "item_id": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "fai": -0.01984475553035736,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 66,
+        "valid_fraction": 0.11599297012302284,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+        "array_sha256": "9472d00f0f0280013926a5e2f42b13261faefee19f3434d59078deea808fcc9a"
+      }
+    ],
+    "gandorinala": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "fai": -0.023709844797849655,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 641,
+        "valid_fraction": 0.3495092693565976,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43QGV_20261009T101803",
+        "array_sha256": "bdc7d23cfc6f6df1edcaa8fdb288bfa7aec4e42b6b395ccb7f07b073cbdc911f"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.027922214940190315,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 698,
+        "valid_fraction": 0.38058887677208286,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "2cf5d5b44a3e94fb180dc454f8808dbdb53649ec4762bd3aa5b78933ccf1418f"
+      }
+    ],
+    "maskinala": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "fai": -0.0471322238445282,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 102,
+        "valid_fraction": 0.19615384615384615,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "array_sha256": "179aba21411811169c85504a1821c0fd6736a87fda1dee7c20683fae9c1ce016"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "fai": -0.04071571305394173,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 106,
+        "valid_fraction": 0.20384615384615384,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "array_sha256": "39847cf98b03f509d46c53036c9916b65c8a99a607eb7aa03da90a01b09c81df"
+      }
+    ],
+    "chulkinala": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "fai": -0.041087619960308075,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 880,
+        "valid_fraction": 0.7376362112321878,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43QGV_20261012T091927",
+        "array_sha256": "7d762a19ad9849e63a0f8a5823ceb605023cd0ce9f15ae8b7022867a43b009d5"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "fai": -0.04337998852133751,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 656,
+        "valid_fraction": 0.5498742665549036,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43QGV_20261017T102804",
+        "array_sha256": "1c6d071ab1f7c8ce7b68f1d503ecbcafaef2f48af523ce411663ddd68fce7824"
+      }
+    ],
+    "harinala": [
+      {
+        "observed_at": "2026-10-10T05:27:31.025000Z",
+        "item_id": "S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+        "fai": -0.03709714859724045,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 149,
+        "valid_fraction": 0.25734024179620035,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261010T052731_R105_T43PDT_20261010T102100",
+        "array_sha256": "1875d4d6444d9479399d0c0893a8d143d80b1b0b0465606fe0548e75c8e0b0da"
+      },
+      {
+        "observed_at": "2026-10-15T05:27:59.024000Z",
+        "item_id": "S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "fai": -0.04521334171295166,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 149,
+        "valid_fraction": 0.25734024179620035,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261015T052759_R105_T43PDT_20261015T090952",
+        "array_sha256": "3d03449cdf5e0c9861d2521b0f6c05a8ee3ca469493cb70011d242699d308353"
+      }
+    ],
+    "hirehalla": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "fai": -0.04022254794836044,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1431,
+        "valid_fraction": 0.7216338880484114,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PFT_20261012T091927",
+        "array_sha256": "45370520c109cf5a6cc0719c6aea15a866bd4a6a7caf37489d200279bdfb59e2"
+      },
+      {
+        "observed_at": "2026-10-17T05:18:21.025000Z",
+        "item_id": "S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "fai": -0.03492237627506256,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1142,
+        "valid_fraction": 0.5758951084215834,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261017T051821_R062_T43PFT_20261017T102804",
+        "array_sha256": "25febc1bcf6284f9f51f43658fef0b844f2c398fb7001658337ad9bf673e0fe0"
+      }
+    ],
+    "uduthorehalla": [
+      {
+        "observed_at": "2026-09-09T05:06:49.024000Z",
+        "item_id": "S2B_MSIL2A_20260909T050649_R019_T43PGP_20260909T085145",
+        "fai": -0.035438258200883865,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 76,
+        "valid_fraction": 0.30039525691699603,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260909T050649_R019_T43PGP_20260909T085145",
+        "array_sha256": "e1c406a597837a81cfd5f10044c20a4236160675e58007ec7943845d58a8db3a"
+      },
+      {
+        "observed_at": "2026-10-04T05:06:51.025000Z",
+        "item_id": "S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "fai": -0.067189522087574,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 82,
+        "valid_fraction": 0.3241106719367589,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+        "array_sha256": "56027b910c3de06dd2a00b3d972e2f09a5f2d8662efb8bde43d67bba15865a7c"
+      }
+    ],
+    "jambhadhahalla": [
+      {
+        "observed_at": "2026-10-02T05:16:49.024000Z",
+        "item_id": "S2B_MSIL2A_20261002T051649_R062_T43PER_20261002T091946",
+        "fai": -0.016612859442830086,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 140,
+        "valid_fraction": 0.3645833333333333,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261002T051649_R062_T43PER_20261002T091946",
+        "array_sha256": "a973f83ec7b0abfeae93aa8a637424a399167cf5cd338bf82be00ec4686668c4"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "fai": -0.0012622233480215073,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 236,
+        "valid_fraction": 0.6145833333333334,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PER_20261012T091927",
+        "array_sha256": "248a3c96ca2d305848495063302c5a66f3dfe757fe6cd5931aa67d02017f5487"
+      }
+    ],
+    "tattihalla": [
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "fai": -0.0009730122983455658,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1503,
+        "valid_fraction": 0.3890758477866943,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDS_20261012T091927",
+        "array_sha256": "bf985ae9b384bb013f2c0a41e0774e124781bc3f4cf969efa40f7d241f48c1b1"
+      },
+      {
+        "observed_at": "2026-10-20T05:28:41.025000Z",
+        "item_id": "S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "fai": -0.00986095517873764,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 1503,
+        "valid_fraction": 0.3890758477866943,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261020T052841_R105_T43PDS_20261020T101804",
+        "array_sha256": "883d0e4af2b9484ff7c8a1144e86b0e3f8b2133ad3305ea644959c71b9306921"
+      }
+    ],
+    "savehaklu": [
+      {
+        "observed_at": "2026-10-09T05:22:41.024000Z",
+        "item_id": "S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "fai": -0.007347149774432182,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 286,
+        "valid_fraction": 0.1425012456402591,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261009T052241_R062_T43PDR_20261009T101803",
+        "array_sha256": "866366e2a1f93c7a49302bac41850222cc7b2965262878286cc4d7a44fa51199"
+      },
+      {
+        "observed_at": "2026-10-12T05:17:39.024000Z",
+        "item_id": "S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "fai": -0.005589207634329796,
+        "units": "dimensionless",
+        "qc": "approved",
+        "method": "fai-scl-60m-v1",
+        "valid_pixels": 719,
+        "valid_fraction": 0.3582461385151968,
+        "source": "Copernicus Sentinel-2 L2A",
+        "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261012T051739_R062_T43PDR_20261012T091927",
+        "array_sha256": "387fece9ef0ad0c7d243595d6ce597864abaa47ae4903994c8ac732b8ec33e7d"
+      }
+    ]
+  }
+}

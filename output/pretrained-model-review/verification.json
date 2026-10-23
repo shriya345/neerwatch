@@ -1,0 +1,32 @@
+{
+  "inventory_unchanged": true,
+  "all_46_preserved": true,
+  "models_loaded": 5,
+  "tree_counts": [
+    276,
+    170,
+    73,
+    207,
+    132
+  ],
+  "checks": [
+    {
+      "reservoir_id": "krs",
+      "independently_rerun_from_saved_features": true,
+      "density_cells_per_ml": 16652.0,
+      "land_cover": 210
+    },
+    {
+      "reservoir_id": "bhadra",
+      "independently_rerun_from_saved_features": true,
+      "density_cells_per_ml": 16710.0,
+      "land_cover": 210
+    },
+    {
+      "reservoir_id": "tungabhadra",
+      "no_prediction_when_qc_failed": true
+    }
+  ],
+  "accuracy_evaluated": false,
+  "production_approved": false
+}

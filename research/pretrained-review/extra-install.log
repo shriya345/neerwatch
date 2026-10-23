@@ -1,0 +1,28 @@
+Collecting tqdm
+  Downloading tqdm-4.70.1-py3-none-any.whl.metadata (57 kB)
+Collecting netCDF4
+  Using cached netcdf4-1.7.5-cp311-abi3-macosx_15_0_arm64.whl.metadata (1.7 kB)
+Collecting cftime (from netCDF4)
+  Using cached cftime-1.6.6.1-cp311-abi3-macosx_11_0_arm64.whl.metadata (8.8 kB)
+Requirement already satisfied: certifi in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from netCDF4) (2026.10.19)
+Requirement already satisfied: packaging in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from netCDF4) (26.3)
+Requirement already satisfied: numpy>=1.23.2 in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from netCDF4) (2.3.5)
+Downloading tqdm-4.70.1-py3-none-any.whl (80 kB)
+Using cached netcdf4-1.7.5-cp311-abi3-macosx_15_0_arm64.whl (10.3 MB)
+Using cached cftime-1.6.6.1-cp311-abi3-macosx_11_0_arm64.whl (543 kB)
+Installing collected packages: tqdm, cftime, netCDF4
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+cyfi 1.2.0 requires geopandas, which is not installed.
+cyfi 1.2.0 requires gitpython, which is not installed.
+cyfi 1.2.0 requires gradio>=5.0, which is not installed.
+cyfi 1.2.0 requires matplotlib, which is not installed.
+cyfi 1.2.0 requires odc-stac, which is not installed.
+cyfi 1.2.0 requires opencv-python, which is not installed.
+cyfi 1.2.0 requires plotly, which is not installed.
+cyfi 1.2.0 requires scikit-learn>=1.4, which is not installed.
+cyfi 1.2.0 requires seaborn, which is not installed.
+cyfi 1.2.0 requires typer>=0.16.0, which is not installed.
+Successfully installed cftime-1.6.6.1 netCDF4-1.7.5 tqdm-4.70.1
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.2
+[notice] To update, run: /Users/shriyahr/Documents/ChatGPT/Major/NEERWATCH/research/pretrained-review/venv/bin/python3.12 -m pip install --upgrade pip

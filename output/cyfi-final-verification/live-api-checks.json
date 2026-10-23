@@ -1,0 +1,44 @@
+[
+  {
+    "reservoir": "krs",
+    "http_status": 200,
+    "state": "complete",
+    "density": 16652.0,
+    "date": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "bhadra",
+    "http_status": 200,
+    "state": "complete",
+    "density": 16710.0,
+    "date": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "supa",
+    "http_status": 200,
+    "state": "complete",
+    "density": 7105.0,
+    "date": "2026-10-20T05:28:41.025000Z"
+  },
+  {
+    "reservoir": "tungabhadra",
+    "http_status": 200,
+    "state": "withheld",
+    "density": null,
+    "date": "2026-10-17T05:18:21.025000Z"
+  },
+  {
+    "reservoir": "vani-vilasa",
+    "http_status": 200,
+    "state": "withheld",
+    "density": null,
+    "date": "2026-10-12T05:17:39.024000Z"
+  },
+  {
+    "reservoir": "varahi",
+    "http_status": 200,
+    "state": "unavailable",
+    "density": null,
+    "date": null
+  }
+]

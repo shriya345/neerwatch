@@ -1,0 +1,176 @@
+{
+  "cyfi": {
+    "commit": "b89ad178e26e3a929f33b977ccff2cb9e0bceaba",
+    "tracked_files": [
+      ".github/ISSUE_TEMPLATE/bug_report.md",
+      ".github/MAINTAINING.md",
+      ".github/codecov.yml",
+      ".github/workflows/release.yml",
+      ".github/workflows/tests.yml",
+      ".gitignore",
+      "CHANGELOG.md",
+      "LICENSE",
+      "Makefile",
+      "README.md",
+      "cyfi/__init__.py",
+      "cyfi/__main__.py",
+      "cyfi/assets/model_v0.zip",
+      "cyfi/cli.py",
+      "cyfi/config.py",
+      "cyfi/data/features.py",
+      "cyfi/data/satellite_data.py",
+      "cyfi/data/utils.py",
+      "cyfi/evaluate.py",
+      "cyfi/experiment.py",
+      "cyfi/pipeline.py",
+      "cyfi/version.py",
+      "cyfi/visualize.py",
+      "docs/docs/about.md",
+      "docs/docs/changelog.md",
+      "docs/docs/explorer.md",
+      "docs/docs/images/explorer_screenshot_1.jpg",
+      "docs/docs/images/explorer_screenshot_2.jpg",
+      "docs/docs/images/explorer_screenshot_3.png",
+      "docs/docs/images/lake_st_clair.jpg",
+      "docs/docs/images/linux.png",
+      "docs/docs/images/mac.png",
+      "docs/docs/images/windows.png",
+      "docs/docs/index.md",
+      "docs/docs/installation.md",
+      "docs/docs/style.css",
+      "docs/mkdocs.yml",
+      "pyproject.toml",
+      "tests/__init__.py",
+      "tests/assets/evaluate_data.csv",
+      "tests/assets/experiment/config_artifact.yaml",
+      "tests/assets/experiment/features_test.csv",
+      "tests/assets/experiment/features_train.csv",
+      "tests/assets/experiment/metrics/actual_density_boxplot.png",
+      "tests/assets/experiment/metrics/crosstab.png",
+      "tests/assets/experiment/metrics/density_kde.png",
+      "tests/assets/experiment/metrics/density_scatterplot.png",
+      "tests/assets/experiment/metrics/feature_importance_model_0.csv",
+      "tests/assets/experiment/metrics/feature_importance_model_1.csv",
+      "tests/assets/experiment/metrics/results.json",
+      "tests/assets/experiment/model.zip",
+      "tests/assets/experiment/preds.csv",
+      "tests/assets/experiment/sentinel_metadata_test.csv",
+      "tests/assets/experiment/sentinel_metadata_train.csv",
+      "tests/assets/experiment_config.yaml",
+      "tests/assets/feature_cache/sentinel_500/3a2c48812b551d720f8d56772efa6df1/S2B_MSIL2A_20190730T154819_R054_T18TVL_20201005T200628/B02.npy",
+      "tests/assets/predict_data.csv",
+      "tests/assets/satellite_metadata.csv",
+      "tests/assets/train_data.csv",
+      "tests/conftest.py",
+      "tests/test_cli.py",
+      "tests/test_config.py",
+      "tests/test_evaluate.py",
+      "tests/test_experiment.py",
+      "tests/test_features.py",
+      "tests/test_pipeline.py",
+      "tests/test_utils.py",
+      "uv.lock"
+    ],
+    "artifacts": {
+      "cyfi/assets/model_v0.zip": {
+        "bytes": 2414752,
+        "sha256": "adf0d18bb7d22da0c9aefacc27b818e5cec791508950d5b8c115cfd7f741c7dc"
+      },
+      "tests/assets/experiment/model.zip": {
+        "bytes": 7233,
+        "sha256": "616b7b4de3211f96bda998e60a90acf7bbcfb54da89fb5d7087d0e573f5d9382"
+      }
+    }
+  },
+  "forecasting": {
+    "commit": "dc0c5a5759c79093b2166ada2c08197717ea8cf5",
+    "tracked_files": [
+      "baseline.py",
+      "charts.py",
+      "data/CyanoLakes_chl_stats.csv",
+      "forecast.py",
+      "helper.py",
+      "main.py",
+      "models.py",
+      "readme.md",
+      "settings.py"
+    ],
+    "artifacts": {}
+  },
+  "taiwan": {
+    "commit": "741edca77a2ab0771a51c284ce15c85288dac943",
+    "tracked_files": [
+      ".gitattributes",
+      ".gitignore",
+      "LICENSE",
+      "README.md",
+      "data/README.md",
+      "data/final_data.csv",
+      "data/sample_data.csv",
+      "docs/zahra_thesis.pdf",
+      "gee/export_high_low_hab_geotiff.js",
+      "gee/sample_station_features.js",
+      "models/Random_Forest.pkl",
+      "models/Random_Forest_SMOTE.pkl",
+      "models/SVM.pkl",
+      "models/SVM_SMOTE.pkl",
+      "models/XGBoost.pkl",
+      "models/XGBoost_SMOTE.pkl",
+      "models/kNN.pkl",
+      "models/kNN_SMOTE.pkl",
+      "notebooks/01_sentinel2_feature_extraction.ipynb",
+      "notebooks/02_in_situ_data_preparation.ipynb",
+      "notebooks/03_dataset_preparation.ipynb",
+      "notebooks/04_machine_learning_models.ipynb",
+      "notebooks/05_results_visualization.ipynb"
+    ],
+    "artifacts": {
+      "models/XGBoost.pkl": {
+        "bytes": 1132228,
+        "sha256": "9493a68a9a46ac5a2d16bc7e8483f620dc18922bb26e306ccf03f458c4ed18fd"
+      },
+      "models/SVM.pkl": {
+        "bytes": 66725,
+        "sha256": "a904cf39564cfad0c773e080f6a4ea5a4e52c88923f858a6615f046c4c9f1dc3"
+      },
+      "models/kNN.pkl": {
+        "bytes": 121150,
+        "sha256": "a2e88d0b275c69c0ab25446da04230155336848e308e71e53bf5dd8574190bb0"
+      },
+      "models/kNN_SMOTE.pkl": {
+        "bytes": 257422,
+        "sha256": "98e35768551749d7d83acd5fcbb0751d1a267688558e78027a53ecf9ebae064f"
+      },
+      "models/XGBoost_SMOTE.pkl": {
+        "bytes": 1399877,
+        "sha256": "d8d6d05b707d83c7cc9aafa33eacc907615ab77d3a2c8d230556665eee965fe4"
+      },
+      "models/SVM_SMOTE.pkl": {
+        "bytes": 113141,
+        "sha256": "a79ee2e7c558d67b4df6ce25d2f4af625afe1293a9cf013af6b8822db006b618"
+      },
+      "models/Random_Forest_SMOTE.pkl": {
+        "bytes": 5070881,
+        "sha256": "b353af309d271c27771ffd15b51986ca7d1d7f270df58bbb9affa9e432c8f4e5"
+      },
+      "models/Random_Forest.pkl": {
+        "bytes": 2844657,
+        "sha256": "ca58515b5ae807ebd6ccd80c9d7ed3a326860a2fb0bbdd2fdf0069b1c3debd09"
+      }
+    }
+  },
+  "water": {
+    "commit": "f84e95f44bd21f136ac562c3085056f4d15b4430",
+    "tracked_files": [
+      "app_water_extent.js",
+      "hls_water_extent.js",
+      "jrc_surface_extent.js",
+      "readme.md"
+    ],
+    "artifacts": {}
+  },
+  "inventory": {
+    "count": 46,
+    "sha256": "5766882e35cf490873676a4f012f8bc8c06de05e1113e8f74f49d771bbf7e707"
+  }
+}

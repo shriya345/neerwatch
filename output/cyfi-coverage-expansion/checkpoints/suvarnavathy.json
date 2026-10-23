@@ -1,0 +1,64 @@
+{
+  "reservoir_id": "suvarnavathy",
+  "attempts": [
+    {
+      "scene_id": "S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261009T050719_R019_T43PGP_20261009T090953",
+      "acquisition_date": "2026-10-09T05:07:19.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 24.3054% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20260929T050649_R019_T43PGP_20260929T091314",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260929T050649_R019_T43PGP_20260929T091314",
+      "acquisition_date": "2026-09-29T05:06:49.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 19.6341% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2B_MSIL2A_20261019T050819_R019_T43PGP_20261019T085221",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261019T050819_R019_T43PGP_20261019T085221",
+      "acquisition_date": "2026-10-19T05:08:19.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 75.2506% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20261016T051231_R019_T43PGP_20261016T100912",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20261016T051231_R019_T43PGP_20261016T100912",
+      "acquisition_date": "2026-10-16T05:12:31.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 99.9830% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261014T050751_R019_T43PGP_20261014T100514",
+      "acquisition_date": "2026-10-14T05:07:51.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 56.7789% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261004T050651_R019_T43PGP_20261004T102617",
+      "acquisition_date": "2026-10-04T05:06:51.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 66.6748% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2A_MSIL2A_20260926T051241_R019_T43PGP_20260926T101256",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2A_MSIL2A_20260926T051241_R019_T43PGP_20260926T101256",
+      "acquisition_date": "2026-09-26T05:12:41.024000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 100.0000% exceeds original 5% limit"
+    },
+    {
+      "scene_id": "S2C_MSIL2A_20260924T050651_R019_T43PGP_20260924T100421",
+      "source_url": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260924T050651_R019_T43PGP_20260924T100421",
+      "acquisition_date": "2026-09-24T05:06:51.025000Z",
+      "status": "rejected",
+      "reason": "Cloud fraction 100.0000% exceeds original 5% limit"
+    }
+  ],
+  "finished": true,
+  "catalogue_count": 31,
+  "catalogue_has_more": false
+}

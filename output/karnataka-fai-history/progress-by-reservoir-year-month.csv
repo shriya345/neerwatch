@@ -1,0 +1,2669 @@
+reservoir_id,name,year,month,season,planned_acquisitions,processed_acquisitions,valid_acquisitions,valid_dates,quality_rejections,retryable_errors,unprocessed
+krs,KRS,2022,2022-01,winter,7,4,4,4,0,0,3
+krs,KRS,2022,2022-02,winter,5,0,0,0,0,0,5
+krs,KRS,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+krs,KRS,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-01,winter,7,0,0,0,0,0,7
+krs,KRS,2023,2023-02,winter,5,0,0,0,0,0,5
+krs,KRS,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+krs,KRS,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-01,winter,7,0,0,0,0,0,7
+krs,KRS,2024,2024-02,winter,5,0,0,0,0,0,5
+krs,KRS,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+krs,KRS,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+krs,KRS,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+krs,KRS,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+krs,KRS,2025,2025-01,winter,6,0,0,0,0,0,6
+krs,KRS,2025,2025-02,winter,5,0,0,0,0,0,5
+krs,KRS,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+krs,KRS,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+krs,KRS,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+krs,KRS,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+krs,KRS,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+krs,KRS,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+krs,KRS,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+krs,KRS,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+krs,KRS,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+krs,KRS,2026,2026-01,winter,6,0,0,0,0,0,6
+krs,KRS,2026,2026-02,winter,5,0,0,0,0,0,5
+krs,KRS,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+krs,KRS,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+krs,KRS,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+krs,KRS,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+krs,KRS,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+krs,KRS,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+krs,KRS,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+krs,KRS,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+bhadra,Bhadra,2022,2022-01,winter,7,5,5,5,0,0,2
+bhadra,Bhadra,2022,2022-02,winter,5,0,0,0,0,0,5
+bhadra,Bhadra,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-01,winter,7,0,0,0,0,0,7
+bhadra,Bhadra,2023,2023-02,winter,5,0,0,0,0,0,5
+bhadra,Bhadra,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-01,winter,7,0,0,0,0,0,7
+bhadra,Bhadra,2024,2024-02,winter,5,0,0,0,0,0,5
+bhadra,Bhadra,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+bhadra,Bhadra,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2025,2025-01,winter,6,0,0,0,0,0,6
+bhadra,Bhadra,2025,2025-02,winter,5,0,0,0,0,0,5
+bhadra,Bhadra,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2026,2026-01,winter,6,0,0,0,0,0,6
+bhadra,Bhadra,2026,2026-02,winter,5,0,0,0,0,0,5
+bhadra,Bhadra,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+bhadra,Bhadra,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+bhadra,Bhadra,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+bhadra,Bhadra,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2022,2022-01,winter,7,4,4,4,0,0,3
+tungabhadra,Tungabhadra,2022,2022-02,winter,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-01,winter,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2023,2023-02,winter,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-01,winter,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2024,2024-02,winter,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2025,2025-01,winter,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2025,2025-02,winter,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2026,2026-01,winter,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2026,2026-02,winter,5,0,0,0,0,0,5
+tungabhadra,Tungabhadra,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+tungabhadra,Tungabhadra,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+tungabhadra,Tungabhadra,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+tungabhadra,Tungabhadra,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+supa,Supa,2022,2022-01,winter,6,4,4,4,0,0,2
+supa,Supa,2022,2022-02,winter,6,0,0,0,0,0,6
+supa,Supa,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-10,post-monsoon,7,0,0,0,0,0,7
+supa,Supa,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-01,winter,6,0,0,0,0,0,6
+supa,Supa,2023,2023-02,winter,6,0,0,0,0,0,6
+supa,Supa,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+supa,Supa,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-10,post-monsoon,7,0,0,0,0,0,7
+supa,Supa,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-01,winter,6,0,0,0,0,0,6
+supa,Supa,2024,2024-02,winter,6,0,0,0,0,0,6
+supa,Supa,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-08,southwest-monsoon,7,0,0,0,0,0,7
+supa,Supa,2024,2024-09,southwest-monsoon,4,0,0,0,0,0,4
+supa,Supa,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+supa,Supa,2025,2025-01,winter,5,0,0,0,0,0,5
+supa,Supa,2025,2025-02,winter,5,0,0,0,0,0,5
+supa,Supa,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+supa,Supa,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+supa,Supa,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+supa,Supa,2025,2025-06,southwest-monsoon,7,0,0,0,0,0,7
+supa,Supa,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+supa,Supa,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+supa,Supa,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+supa,Supa,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+supa,Supa,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+supa,Supa,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+supa,Supa,2026,2026-01,winter,7,0,0,0,0,0,7
+supa,Supa,2026,2026-02,winter,6,0,0,0,0,0,6
+supa,Supa,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+supa,Supa,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+supa,Supa,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+supa,Supa,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+supa,Supa,2026,2026-07,southwest-monsoon,7,0,0,0,0,0,7
+supa,Supa,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+supa,Supa,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+supa,Supa,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+varahi,Varahi,2022,2022-01,winter,7,4,4,4,0,0,3
+varahi,Varahi,2022,2022-02,winter,5,0,0,0,0,0,5
+varahi,Varahi,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-01,winter,7,0,0,0,0,0,7
+varahi,Varahi,2023,2023-02,winter,5,0,0,0,0,0,5
+varahi,Varahi,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-10,post-monsoon,5,0,0,0,0,0,5
+varahi,Varahi,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-01,winter,7,0,0,0,0,0,7
+varahi,Varahi,2024,2024-02,winter,5,0,0,0,0,0,5
+varahi,Varahi,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+varahi,Varahi,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2025,2025-01,winter,6,0,0,0,0,0,6
+varahi,Varahi,2025,2025-02,winter,5,0,0,0,0,0,5
+varahi,Varahi,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2026,2026-01,winter,6,0,0,0,0,0,6
+varahi,Varahi,2026,2026-02,winter,5,0,0,0,0,0,5
+varahi,Varahi,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+varahi,Varahi,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+varahi,Varahi,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+varahi,Varahi,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2022,2022-01,winter,7,4,3,3,1,0,3
+vani-vilasa,Vani Vilasa Sagara,2022,2022-02,winter,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-01,winter,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2023,2023-02,winter,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-01,winter,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-02,winter,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2025,2025-01,winter,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2025,2025-02,winter,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2026,2026-01,winter,6,0,0,0,0,0,6
+vani-vilasa,Vani Vilasa Sagara,2026,2026-02,winter,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+vani-vilasa,Vani Vilasa Sagara,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+vani-vilasa,Vani Vilasa Sagara,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+vani-vilasa,Vani Vilasa Sagara,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+kabini,Kabini,2022,2022-01,winter,7,4,4,4,0,0,3
+kabini,Kabini,2022,2022-02,winter,5,0,0,0,0,0,5
+kabini,Kabini,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-01,winter,7,0,0,0,0,0,7
+kabini,Kabini,2023,2023-02,winter,5,0,0,0,0,0,5
+kabini,Kabini,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-01,winter,7,0,0,0,0,0,7
+kabini,Kabini,2024,2024-02,winter,5,0,0,0,0,0,5
+kabini,Kabini,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+kabini,Kabini,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2025,2025-01,winter,6,0,0,0,0,0,6
+kabini,Kabini,2025,2025-02,winter,5,0,0,0,0,0,5
+kabini,Kabini,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2026,2026-01,winter,6,0,0,0,0,0,6
+kabini,Kabini,2026,2026-02,winter,5,0,0,0,0,0,5
+kabini,Kabini,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+kabini,Kabini,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+kabini,Kabini,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+kabini,Kabini,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+harangi,Harangi,2022,2022-01,winter,7,4,3,3,1,0,3
+harangi,Harangi,2022,2022-02,winter,5,0,0,0,0,0,5
+harangi,Harangi,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-01,winter,7,0,0,0,0,0,7
+harangi,Harangi,2023,2023-02,winter,5,0,0,0,0,0,5
+harangi,Harangi,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-01,winter,7,0,0,0,0,0,7
+harangi,Harangi,2024,2024-02,winter,5,0,0,0,0,0,5
+harangi,Harangi,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+harangi,Harangi,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2025,2025-01,winter,6,0,0,0,0,0,6
+harangi,Harangi,2025,2025-02,winter,5,0,0,0,0,0,5
+harangi,Harangi,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+harangi,Harangi,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2026,2026-01,winter,6,0,0,0,0,0,6
+harangi,Harangi,2026,2026-02,winter,5,0,0,0,0,0,5
+harangi,Harangi,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+harangi,Harangi,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+harangi,Harangi,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+harangi,Harangi,2026,2026-09,southwest-monsoon,5,0,0,0,0,0,5
+harangi,Harangi,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2022,2022-01,winter,7,4,3,3,1,0,3
+hemavathi,Hemavathi,2022,2022-02,winter,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-01,winter,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2023,2023-02,winter,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-01,winter,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2024,2024-02,winter,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2025,2025-01,winter,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2025,2025-02,winter,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2026,2026-01,winter,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2026,2026-02,winter,5,0,0,0,0,0,5
+hemavathi,Hemavathi,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+hemavathi,Hemavathi,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+hemavathi,Hemavathi,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+hemavathi,Hemavathi,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+almatti,Almatti,2022,2022-01,winter,7,4,4,4,0,0,3
+almatti,Almatti,2022,2022-02,winter,5,0,0,0,0,0,5
+almatti,Almatti,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-01,winter,7,0,0,0,0,0,7
+almatti,Almatti,2023,2023-02,winter,5,0,0,0,0,0,5
+almatti,Almatti,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-01,winter,7,0,0,0,0,0,7
+almatti,Almatti,2024,2024-02,winter,5,0,0,0,0,0,5
+almatti,Almatti,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+almatti,Almatti,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2025,2025-01,winter,6,0,0,0,0,0,6
+almatti,Almatti,2025,2025-02,winter,5,0,0,0,0,0,5
+almatti,Almatti,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2026,2026-01,winter,6,0,0,0,0,0,6
+almatti,Almatti,2026,2026-02,winter,5,0,0,0,0,0,5
+almatti,Almatti,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+almatti,Almatti,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+almatti,Almatti,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+almatti,Almatti,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+linganamakki,Linganamakki,2022,2022-01,winter,13,8,2,2,4,2,5
+linganamakki,Linganamakki,2022,2022-02,winter,11,0,0,0,0,0,11
+linganamakki,Linganamakki,2022,2022-03,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-04,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-05,pre-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2022,2022-06,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-07,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-08,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-09,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-10,post-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2022,2022-11,post-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2022,2022-12,post-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-01,winter,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2023,2023-02,winter,11,0,0,0,0,0,11
+linganamakki,Linganamakki,2023,2023-03,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-04,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-05,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-06,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-07,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-08,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-09,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-10,post-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2023,2023-11,post-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2023,2023-12,post-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-01,winter,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-02,winter,11,0,0,0,0,0,11
+linganamakki,Linganamakki,2024,2024-03,pre-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2024,2024-04,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-05,pre-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-06,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-07,southwest-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-08,southwest-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2024,2024-09,southwest-monsoon,9,0,0,0,0,0,9
+linganamakki,Linganamakki,2024,2024-10,post-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-11,post-monsoon,12,0,0,0,0,0,12
+linganamakki,Linganamakki,2024,2024-12,post-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2025,2025-01,winter,11,0,0,0,0,0,11
+linganamakki,Linganamakki,2025,2025-02,winter,10,0,0,0,0,0,10
+linganamakki,Linganamakki,2025,2025-03,pre-monsoon,15,0,0,0,0,0,15
+linganamakki,Linganamakki,2025,2025-04,pre-monsoon,14,0,0,0,0,0,14
+linganamakki,Linganamakki,2025,2025-05,pre-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2025,2025-06,southwest-monsoon,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2025,2025-07,southwest-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2025,2025-08,southwest-monsoon,15,0,0,0,0,0,15
+linganamakki,Linganamakki,2025,2025-09,southwest-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2025,2025-10,post-monsoon,14,0,0,0,0,0,14
+linganamakki,Linganamakki,2025,2025-11,post-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2025,2025-12,post-monsoon,15,0,0,0,0,0,15
+linganamakki,Linganamakki,2026,2026-01,winter,13,0,0,0,0,0,13
+linganamakki,Linganamakki,2026,2026-02,winter,11,0,0,0,0,0,11
+linganamakki,Linganamakki,2026,2026-03,pre-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2026,2026-04,pre-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2026,2026-05,pre-monsoon,11,0,0,0,0,0,11
+linganamakki,Linganamakki,2026,2026-06,southwest-monsoon,14,0,0,0,0,0,14
+linganamakki,Linganamakki,2026,2026-07,southwest-monsoon,15,0,0,0,0,0,15
+linganamakki,Linganamakki,2026,2026-08,southwest-monsoon,16,0,0,0,0,0,16
+linganamakki,Linganamakki,2026,2026-09,southwest-monsoon,14,0,0,0,0,0,14
+linganamakki,Linganamakki,2026,2026-10,post-monsoon,10,0,0,0,0,0,10
+markonahalli,Markonahalli,2022,2022-01,winter,13,8,8,8,0,0,5
+markonahalli,Markonahalli,2022,2022-02,winter,11,0,0,0,0,0,11
+markonahalli,Markonahalli,2022,2022-03,pre-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-04,pre-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-05,pre-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2022,2022-06,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-07,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-08,southwest-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2022,2022-09,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-10,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-11,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2022,2022-12,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-01,winter,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2023,2023-02,winter,11,0,0,0,0,0,11
+markonahalli,Markonahalli,2023,2023-03,pre-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-04,pre-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-05,pre-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2023,2023-06,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-07,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-08,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-09,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-10,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-11,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2023,2023-12,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-01,winter,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2024,2024-02,winter,11,0,0,0,0,0,11
+markonahalli,Markonahalli,2024,2024-03,pre-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2024,2024-04,pre-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-05,pre-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-06,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-07,southwest-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2024,2024-08,southwest-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-09,southwest-monsoon,8,0,0,0,0,0,8
+markonahalli,Markonahalli,2024,2024-10,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-11,post-monsoon,12,0,0,0,0,0,12
+markonahalli,Markonahalli,2024,2024-12,post-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2025,2025-01,winter,11,0,0,0,0,0,11
+markonahalli,Markonahalli,2025,2025-02,winter,11,0,0,0,0,0,11
+markonahalli,Markonahalli,2025,2025-03,pre-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2025,2025-04,pre-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2025,2025-05,pre-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2025,2025-06,southwest-monsoon,14,0,0,0,0,0,14
+markonahalli,Markonahalli,2025,2025-07,southwest-monsoon,16,0,0,0,0,0,16
+markonahalli,Markonahalli,2025,2025-08,southwest-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2025,2025-09,southwest-monsoon,14,0,0,0,0,0,14
+markonahalli,Markonahalli,2025,2025-10,post-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2025,2025-11,post-monsoon,16,0,0,0,0,0,16
+markonahalli,Markonahalli,2025,2025-12,post-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2026,2026-01,winter,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2026,2026-02,winter,11,0,0,0,0,0,11
+markonahalli,Markonahalli,2026,2026-03,pre-monsoon,16,0,0,0,0,0,16
+markonahalli,Markonahalli,2026,2026-04,pre-monsoon,16,0,0,0,0,0,16
+markonahalli,Markonahalli,2026,2026-05,pre-monsoon,13,0,0,0,0,0,13
+markonahalli,Markonahalli,2026,2026-06,southwest-monsoon,16,0,0,0,0,0,16
+markonahalli,Markonahalli,2026,2026-07,southwest-monsoon,16,0,0,0,0,0,16
+markonahalli,Markonahalli,2026,2026-08,southwest-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2026,2026-09,southwest-monsoon,15,0,0,0,0,0,15
+markonahalli,Markonahalli,2026,2026-10,post-monsoon,10,0,0,0,0,0,10
+yagachi,Yagachi,2022,2022-01,winter,7,4,2,2,2,0,3
+yagachi,Yagachi,2022,2022-02,winter,5,0,0,0,0,0,5
+yagachi,Yagachi,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-01,winter,7,0,0,0,0,0,7
+yagachi,Yagachi,2023,2023-02,winter,5,0,0,0,0,0,5
+yagachi,Yagachi,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-01,winter,7,0,0,0,0,0,7
+yagachi,Yagachi,2024,2024-02,winter,5,0,0,0,0,0,5
+yagachi,Yagachi,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+yagachi,Yagachi,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2025,2025-01,winter,6,0,0,0,0,0,6
+yagachi,Yagachi,2025,2025-02,winter,5,0,0,0,0,0,5
+yagachi,Yagachi,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2026,2026-01,winter,6,0,0,0,0,0,6
+yagachi,Yagachi,2026,2026-02,winter,5,0,0,0,0,0,5
+yagachi,Yagachi,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+yagachi,Yagachi,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+yagachi,Yagachi,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+yagachi,Yagachi,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+hidkal,Hidkal,2022,2022-01,winter,6,4,4,4,0,0,2
+hidkal,Hidkal,2022,2022-02,winter,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-10,post-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2022,2022-12,post-monsoon,4,0,0,0,0,0,4
+hidkal,Hidkal,2023,2023-01,winter,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-02,winter,5,0,0,0,0,0,5
+hidkal,Hidkal,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+hidkal,Hidkal,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-10,post-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-01,winter,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-02,winter,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-08,southwest-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2024,2024-09,southwest-monsoon,4,0,0,0,0,0,4
+hidkal,Hidkal,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+hidkal,Hidkal,2025,2025-01,winter,5,0,0,0,0,0,5
+hidkal,Hidkal,2025,2025-02,winter,4,0,0,0,0,0,4
+hidkal,Hidkal,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2025,2025-06,southwest-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2026,2026-01,winter,7,0,0,0,0,0,7
+hidkal,Hidkal,2026,2026-02,winter,6,0,0,0,0,0,6
+hidkal,Hidkal,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+hidkal,Hidkal,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2026,2026-07,southwest-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+hidkal,Hidkal,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+hidkal,Hidkal,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+nugu,Nugu,2022,2022-01,winter,7,4,3,3,1,0,3
+nugu,Nugu,2022,2022-02,winter,5,0,0,0,0,0,5
+nugu,Nugu,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-01,winter,7,0,0,0,0,0,7
+nugu,Nugu,2023,2023-02,winter,5,0,0,0,0,0,5
+nugu,Nugu,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-01,winter,7,0,0,0,0,0,7
+nugu,Nugu,2024,2024-02,winter,5,0,0,0,0,0,5
+nugu,Nugu,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+nugu,Nugu,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2025,2025-01,winter,6,0,0,0,0,0,6
+nugu,Nugu,2025,2025-02,winter,5,0,0,0,0,0,5
+nugu,Nugu,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2026,2026-01,winter,6,0,0,0,0,0,6
+nugu,Nugu,2026,2026-02,winter,5,0,0,0,0,0,5
+nugu,Nugu,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+nugu,Nugu,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+nugu,Nugu,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+nugu,Nugu,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+kadra,Kadra,2022,2022-01,winter,6,4,3,3,0,1,2
+kadra,Kadra,2022,2022-02,winter,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-09,southwest-monsoon,5,0,0,0,0,0,5
+kadra,Kadra,2022,2022-10,post-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-01,winter,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-02,winter,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+kadra,Kadra,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-10,post-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2023,2023-12,post-monsoon,5,0,0,0,0,0,5
+kadra,Kadra,2024,2024-01,winter,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-02,winter,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-08,southwest-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2024,2024-09,southwest-monsoon,4,0,0,0,0,0,4
+kadra,Kadra,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+kadra,Kadra,2025,2025-01,winter,5,0,0,0,0,0,5
+kadra,Kadra,2025,2025-02,winter,5,0,0,0,0,0,5
+kadra,Kadra,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2025,2025-06,southwest-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2026,2026-01,winter,7,0,0,0,0,0,7
+kadra,Kadra,2026,2026-02,winter,6,0,0,0,0,0,6
+kadra,Kadra,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+kadra,Kadra,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2026,2026-07,southwest-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+kadra,Kadra,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+kadra,Kadra,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2022,2022-01,winter,7,4,3,3,0,1,3
+basava-sagara,Basava Sagara,2022,2022-02,winter,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-01,winter,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2023,2023-02,winter,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-01,winter,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2024,2024-02,winter,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2025,2025-01,winter,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2025,2025-02,winter,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2026,2026-01,winter,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2026,2026-02,winter,5,0,0,0,0,0,5
+basava-sagara,Basava Sagara,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+basava-sagara,Basava Sagara,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+basava-sagara,Basava Sagara,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+basava-sagara,Basava Sagara,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-01,winter,13,8,3,3,4,1,5
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-02,winter,11,0,0,0,0,0,11
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-03,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-04,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-05,pre-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-06,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-07,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-08,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-09,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-10,post-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-11,post-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2022,2022-12,post-monsoon,11,0,0,0,0,0,11
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-01,winter,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-02,winter,10,0,0,0,0,0,10
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-03,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-04,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-05,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-06,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-07,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-08,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-09,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-10,post-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-11,post-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2023,2023-12,post-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-01,winter,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-02,winter,11,0,0,0,0,0,11
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-03,pre-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-04,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-05,pre-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-06,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-07,southwest-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-08,southwest-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-09,southwest-monsoon,9,0,0,0,0,0,9
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-10,post-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-11,post-monsoon,12,0,0,0,0,0,12
+malaprabha,Malaprabha (Renuka Sagara),2024,2024-12,post-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-01,winter,11,0,0,0,0,0,11
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-02,winter,10,0,0,0,0,0,10
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-03,pre-monsoon,15,0,0,0,0,0,15
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-04,pre-monsoon,14,0,0,0,0,0,14
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-05,pre-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-06,southwest-monsoon,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-07,southwest-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-08,southwest-monsoon,15,0,0,0,0,0,15
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-09,southwest-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-10,post-monsoon,14,0,0,0,0,0,14
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-11,post-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2025,2025-12,post-monsoon,15,0,0,0,0,0,15
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-01,winter,13,0,0,0,0,0,13
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-02,winter,11,0,0,0,0,0,11
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-03,pre-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-04,pre-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-05,pre-monsoon,11,0,0,0,0,0,11
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-06,southwest-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-07,southwest-monsoon,15,0,0,0,0,0,15
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-08,southwest-monsoon,16,0,0,0,0,0,16
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-09,southwest-monsoon,14,0,0,0,0,0,14
+malaprabha,Malaprabha (Renuka Sagara),2026,2026-10,post-monsoon,10,0,0,0,0,0,10
+gerusoppa,Gerusoppa,2022,2022-01,winter,13,8,7,7,0,1,5
+gerusoppa,Gerusoppa,2022,2022-02,winter,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2022,2022-03,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-04,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-05,pre-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2022,2022-06,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-07,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-08,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-09,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-10,post-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2022,2022-11,post-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2022,2022-12,post-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-01,winter,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2023,2023-02,winter,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2023,2023-03,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-04,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-05,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-06,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-07,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-08,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-09,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-10,post-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2023,2023-11,post-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2023,2023-12,post-monsoon,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2024,2024-01,winter,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-02,winter,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2024,2024-03,pre-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2024,2024-04,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-05,pre-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-06,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-07,southwest-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-08,southwest-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2024,2024-09,southwest-monsoon,9,0,0,0,0,0,9
+gerusoppa,Gerusoppa,2024,2024-10,post-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-11,post-monsoon,12,0,0,0,0,0,12
+gerusoppa,Gerusoppa,2024,2024-12,post-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2025,2025-01,winter,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2025,2025-02,winter,10,0,0,0,0,0,10
+gerusoppa,Gerusoppa,2025,2025-03,pre-monsoon,15,0,0,0,0,0,15
+gerusoppa,Gerusoppa,2025,2025-04,pre-monsoon,14,0,0,0,0,0,14
+gerusoppa,Gerusoppa,2025,2025-05,pre-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2025,2025-06,southwest-monsoon,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2025,2025-07,southwest-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2025,2025-08,southwest-monsoon,15,0,0,0,0,0,15
+gerusoppa,Gerusoppa,2025,2025-09,southwest-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2025,2025-10,post-monsoon,14,0,0,0,0,0,14
+gerusoppa,Gerusoppa,2025,2025-11,post-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2025,2025-12,post-monsoon,15,0,0,0,0,0,15
+gerusoppa,Gerusoppa,2026,2026-01,winter,13,0,0,0,0,0,13
+gerusoppa,Gerusoppa,2026,2026-02,winter,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2026,2026-03,pre-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2026,2026-04,pre-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2026,2026-05,pre-monsoon,11,0,0,0,0,0,11
+gerusoppa,Gerusoppa,2026,2026-06,southwest-monsoon,14,0,0,0,0,0,14
+gerusoppa,Gerusoppa,2026,2026-07,southwest-monsoon,15,0,0,0,0,0,15
+gerusoppa,Gerusoppa,2026,2026-08,southwest-monsoon,16,0,0,0,0,0,16
+gerusoppa,Gerusoppa,2026,2026-09,southwest-monsoon,14,0,0,0,0,0,14
+gerusoppa,Gerusoppa,2026,2026-10,post-monsoon,12,0,0,0,0,0,12
+kodasalli,Kodasalli,2022,2022-01,winter,6,4,4,4,0,0,2
+kodasalli,Kodasalli,2022,2022-02,winter,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-09,southwest-monsoon,5,0,0,0,0,0,5
+kodasalli,Kodasalli,2022,2022-10,post-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-01,winter,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-02,winter,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+kodasalli,Kodasalli,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-10,post-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2023,2023-12,post-monsoon,5,0,0,0,0,0,5
+kodasalli,Kodasalli,2024,2024-01,winter,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-02,winter,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-08,southwest-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2024,2024-09,southwest-monsoon,4,0,0,0,0,0,4
+kodasalli,Kodasalli,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2025,2025-01,winter,5,0,0,0,0,0,5
+kodasalli,Kodasalli,2025,2025-02,winter,5,0,0,0,0,0,5
+kodasalli,Kodasalli,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2025,2025-06,southwest-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2026,2026-01,winter,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2026,2026-02,winter,6,0,0,0,0,0,6
+kodasalli,Kodasalli,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+kodasalli,Kodasalli,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2026,2026-07,southwest-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+kodasalli,Kodasalli,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+kodasalli,Kodasalli,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-01,winter,7,4,3,3,1,0,3
+karanja,Karanja,2022,2022-02,winter,5,0,0,0,0,0,5
+karanja,Karanja,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-01,winter,7,0,0,0,0,0,7
+karanja,Karanja,2023,2023-02,winter,5,0,0,0,0,0,5
+karanja,Karanja,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-01,winter,7,0,0,0,0,0,7
+karanja,Karanja,2024,2024-02,winter,5,0,0,0,0,0,5
+karanja,Karanja,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+karanja,Karanja,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2025,2025-01,winter,6,0,0,0,0,0,6
+karanja,Karanja,2025,2025-02,winter,5,0,0,0,0,0,5
+karanja,Karanja,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2026,2026-01,winter,6,0,0,0,0,0,6
+karanja,Karanja,2026,2026-02,winter,5,0,0,0,0,0,5
+karanja,Karanja,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+karanja,Karanja,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+karanja,Karanja,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+karanja,Karanja,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-01,winter,6,4,3,3,1,0,2
+kanva,Kanva,2022,2022-02,winter,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-08,southwest-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-01,winter,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-02,winter,5,0,0,0,0,0,5
+kanva,Kanva,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-05,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-01,winter,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-02,winter,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-07,southwest-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-09,southwest-monsoon,3,0,0,0,0,0,3
+kanva,Kanva,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2025,2025-01,winter,5,0,0,0,0,0,5
+kanva,Kanva,2025,2025-02,winter,6,0,0,0,0,0,6
+kanva,Kanva,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2025,2025-04,pre-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2025,2025-06,southwest-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2025,2025-09,southwest-monsoon,6,0,0,0,0,0,6
+kanva,Kanva,2025,2025-10,post-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2026,2026-01,winter,7,0,0,0,0,0,7
+kanva,Kanva,2026,2026-02,winter,6,0,0,0,0,0,6
+kanva,Kanva,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2026,2026-05,pre-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+kanva,Kanva,2026,2026-09,southwest-monsoon,8,0,0,0,0,0,8
+kanva,Kanva,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+manchanabele,Manchanabele,2022,2022-01,winter,6,4,4,4,0,0,2
+manchanabele,Manchanabele,2022,2022-02,winter,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-08,southwest-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-01,winter,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-02,winter,5,0,0,0,0,0,5
+manchanabele,Manchanabele,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-05,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-01,winter,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-02,winter,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-07,southwest-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-09,southwest-monsoon,3,0,0,0,0,0,3
+manchanabele,Manchanabele,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2025,2025-01,winter,5,0,0,0,0,0,5
+manchanabele,Manchanabele,2025,2025-02,winter,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2025,2025-04,pre-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2025,2025-06,southwest-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2025,2025-09,southwest-monsoon,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2025,2025-10,post-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2026,2026-01,winter,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2026,2026-02,winter,6,0,0,0,0,0,6
+manchanabele,Manchanabele,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2026,2026-05,pre-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+manchanabele,Manchanabele,2026,2026-09,southwest-monsoon,8,0,0,0,0,0,8
+manchanabele,Manchanabele,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+suvarnavathy,Suvarnavathy,2022,2022-01,winter,6,4,4,4,0,0,2
+suvarnavathy,Suvarnavathy,2022,2022-02,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-08,southwest-monsoon,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2022,2022-12,post-monsoon,5,0,0,0,0,0,5
+suvarnavathy,Suvarnavathy,2023,2023-01,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-02,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+suvarnavathy,Suvarnavathy,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-01,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-02,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-07,southwest-monsoon,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-09,southwest-monsoon,3,0,0,0,0,0,3
+suvarnavathy,Suvarnavathy,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2025,2025-01,winter,5,0,0,0,0,0,5
+suvarnavathy,Suvarnavathy,2025,2025-02,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2025,2025-04,pre-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2025,2025-06,southwest-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2025,2025-09,southwest-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2025,2025-10,post-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2026,2026-01,winter,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2026,2026-02,winter,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+suvarnavathy,Suvarnavathy,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+suvarnavathy,Suvarnavathy,2026,2026-09,southwest-monsoon,8,0,0,0,0,0,8
+suvarnavathy,Suvarnavathy,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+taraka,Taraka,2022,2022-01,winter,7,4,4,4,0,0,3
+taraka,Taraka,2022,2022-02,winter,5,0,0,0,0,0,5
+taraka,Taraka,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-01,winter,7,0,0,0,0,0,7
+taraka,Taraka,2023,2023-02,winter,5,0,0,0,0,0,5
+taraka,Taraka,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-01,winter,7,0,0,0,0,0,7
+taraka,Taraka,2024,2024-02,winter,5,0,0,0,0,0,5
+taraka,Taraka,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+taraka,Taraka,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2025,2025-01,winter,6,0,0,0,0,0,6
+taraka,Taraka,2025,2025-02,winter,5,0,0,0,0,0,5
+taraka,Taraka,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2026,2026-01,winter,6,0,0,0,0,0,6
+taraka,Taraka,2026,2026-02,winter,5,0,0,0,0,0,5
+taraka,Taraka,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+taraka,Taraka,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+taraka,Taraka,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+taraka,Taraka,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-01,winter,7,4,3,3,1,0,3
+votehole,Votehole,2022,2022-02,winter,5,0,0,0,0,0,5
+votehole,Votehole,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-01,winter,7,0,0,0,0,0,7
+votehole,Votehole,2023,2023-02,winter,5,0,0,0,0,0,5
+votehole,Votehole,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-01,winter,7,0,0,0,0,0,7
+votehole,Votehole,2024,2024-02,winter,5,0,0,0,0,0,5
+votehole,Votehole,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+votehole,Votehole,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2025,2025-01,winter,6,0,0,0,0,0,6
+votehole,Votehole,2025,2025-02,winter,5,0,0,0,0,0,5
+votehole,Votehole,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2026,2026-01,winter,6,0,0,0,0,0,6
+votehole,Votehole,2026,2026-02,winter,5,0,0,0,0,0,5
+votehole,Votehole,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+votehole,Votehole,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+votehole,Votehole,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+votehole,Votehole,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-01,winter,7,5,5,5,0,0,2
+bennethora,Bennethora,2022,2022-02,winter,5,0,0,0,0,0,5
+bennethora,Bennethora,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-01,winter,7,0,0,0,0,0,7
+bennethora,Bennethora,2023,2023-02,winter,5,0,0,0,0,0,5
+bennethora,Bennethora,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-01,winter,7,0,0,0,0,0,7
+bennethora,Bennethora,2024,2024-02,winter,5,0,0,0,0,0,5
+bennethora,Bennethora,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+bennethora,Bennethora,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2025,2025-01,winter,6,0,0,0,0,0,6
+bennethora,Bennethora,2025,2025-02,winter,5,0,0,0,0,0,5
+bennethora,Bennethora,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2026,2026-01,winter,6,0,0,0,0,0,6
+bennethora,Bennethora,2026,2026-02,winter,5,0,0,0,0,0,5
+bennethora,Bennethora,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+bennethora,Bennethora,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+bennethora,Bennethora,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+bennethora,Bennethora,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-01,winter,7,5,5,5,0,0,2
+chandrampalli,Chandrampalli,2022,2022-02,winter,5,0,0,0,0,0,5
+chandrampalli,Chandrampalli,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-01,winter,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2023,2023-02,winter,5,0,0,0,0,0,5
+chandrampalli,Chandrampalli,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-01,winter,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2024,2024-02,winter,5,0,0,0,0,0,5
+chandrampalli,Chandrampalli,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+chandrampalli,Chandrampalli,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2025,2025-01,winter,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2025,2025-02,winter,5,0,0,0,0,0,5
+chandrampalli,Chandrampalli,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2026,2026-01,winter,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2026,2026-02,winter,5,0,0,0,0,0,5
+chandrampalli,Chandrampalli,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+chandrampalli,Chandrampalli,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+chandrampalli,Chandrampalli,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+chandrampalli,Chandrampalli,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-01,winter,7,5,4,4,1,0,2
+dharma,Dharma,2022,2022-02,winter,5,0,0,0,0,0,5
+dharma,Dharma,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-01,winter,7,0,0,0,0,0,7
+dharma,Dharma,2023,2023-02,winter,5,0,0,0,0,0,5
+dharma,Dharma,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-01,winter,7,0,0,0,0,0,7
+dharma,Dharma,2024,2024-02,winter,5,0,0,0,0,0,5
+dharma,Dharma,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+dharma,Dharma,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2025,2025-01,winter,6,0,0,0,0,0,6
+dharma,Dharma,2025,2025-02,winter,5,0,0,0,0,0,5
+dharma,Dharma,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2026,2026-01,winter,6,0,0,0,0,0,6
+dharma,Dharma,2026,2026-02,winter,5,0,0,0,0,0,5
+dharma,Dharma,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+dharma,Dharma,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+dharma,Dharma,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+dharma,Dharma,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-01,winter,7,4,4,4,0,0,3
+upper-tunga,Upper Tunga,2022,2022-02,winter,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-01,winter,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2023,2023-02,winter,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2023,2023-06,southwest-monsoon,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-10,post-monsoon,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-01,winter,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-02,winter,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2025,2025-01,winter,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2025,2025-02,winter,4,0,0,0,0,0,4
+upper-tunga,Upper Tunga,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2026,2026-01,winter,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2026,2026-02,winter,5,0,0,0,0,0,5
+upper-tunga,Upper Tunga,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+upper-tunga,Upper Tunga,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+upper-tunga,Upper Tunga,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+upper-tunga,Upper Tunga,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-01,winter,6,4,3,3,1,0,2
+chikkahole,Chikkahole,2022,2022-02,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-08,southwest-monsoon,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2022,2022-12,post-monsoon,5,0,0,0,0,0,5
+chikkahole,Chikkahole,2023,2023-01,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-02,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+chikkahole,Chikkahole,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-01,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-02,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-07,southwest-monsoon,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-09,southwest-monsoon,3,0,0,0,0,0,3
+chikkahole,Chikkahole,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2025,2025-01,winter,5,0,0,0,0,0,5
+chikkahole,Chikkahole,2025,2025-02,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2025,2025-04,pre-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2025,2025-06,southwest-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2025,2025-09,southwest-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2025,2025-10,post-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2026,2026-01,winter,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2026,2026-02,winter,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+chikkahole,Chikkahole,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+chikkahole,Chikkahole,2026,2026-09,southwest-monsoon,8,0,0,0,0,0,8
+chikkahole,Chikkahole,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2022,2022-01,winter,7,5,3,3,2,0,2
+chiklihole,Chiklihole,2022,2022-02,winter,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-01,winter,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2023,2023-02,winter,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-01,winter,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2024,2024-02,winter,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2025,2025-01,winter,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2025,2025-02,winter,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2026,2026-01,winter,6,0,0,0,0,0,6
+chiklihole,Chiklihole,2026,2026-02,winter,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+chiklihole,Chiklihole,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+chiklihole,Chiklihole,2026,2026-09,southwest-monsoon,5,0,0,0,0,0,5
+chiklihole,Chiklihole,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-01,winter,7,4,4,4,0,0,3
+hattikuni,Hattikuni,2022,2022-02,winter,5,0,0,0,0,0,5
+hattikuni,Hattikuni,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-01,winter,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2023,2023-02,winter,5,0,0,0,0,0,5
+hattikuni,Hattikuni,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-01,winter,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2024,2024-02,winter,5,0,0,0,0,0,5
+hattikuni,Hattikuni,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+hattikuni,Hattikuni,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2025,2025-01,winter,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2025,2025-02,winter,5,0,0,0,0,0,5
+hattikuni,Hattikuni,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2026,2026-01,winter,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2026,2026-02,winter,5,0,0,0,0,0,5
+hattikuni,Hattikuni,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+hattikuni,Hattikuni,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+hattikuni,Hattikuni,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+hattikuni,Hattikuni,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-01,winter,7,4,1,1,2,1,3
+narihalla,Narihalla,2022,2022-02,winter,5,0,0,0,0,0,5
+narihalla,Narihalla,2022,2022-03,pre-monsoon,5,0,0,0,0,0,5
+narihalla,Narihalla,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-01,winter,7,0,0,0,0,0,7
+narihalla,Narihalla,2023,2023-02,winter,5,0,0,0,0,0,5
+narihalla,Narihalla,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-01,winter,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-02,winter,5,0,0,0,0,0,5
+narihalla,Narihalla,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+narihalla,Narihalla,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2025,2025-01,winter,6,0,0,0,0,0,6
+narihalla,Narihalla,2025,2025-02,winter,5,0,0,0,0,0,5
+narihalla,Narihalla,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+narihalla,Narihalla,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2026,2026-01,winter,6,0,0,0,0,0,6
+narihalla,Narihalla,2026,2026-02,winter,5,0,0,0,0,0,5
+narihalla,Narihalla,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+narihalla,Narihalla,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+narihalla,Narihalla,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+narihalla,Narihalla,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-01,winter,7,4,3,3,1,0,3
+upper-mullamari,Upper Mullamari,2022,2022-02,winter,5,0,0,0,0,0,5
+upper-mullamari,Upper Mullamari,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-01,winter,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2023,2023-02,winter,5,0,0,0,0,0,5
+upper-mullamari,Upper Mullamari,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-01,winter,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2024,2024-02,winter,5,0,0,0,0,0,5
+upper-mullamari,Upper Mullamari,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+upper-mullamari,Upper Mullamari,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2025,2025-01,winter,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2025,2025-02,winter,5,0,0,0,0,0,5
+upper-mullamari,Upper Mullamari,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2026,2026-01,winter,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2026,2026-02,winter,5,0,0,0,0,0,5
+upper-mullamari,Upper Mullamari,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+upper-mullamari,Upper Mullamari,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+upper-mullamari,Upper Mullamari,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+upper-mullamari,Upper Mullamari,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-01,winter,7,4,3,3,1,0,3
+lower-mullamari,Lower Mullamari,2022,2022-02,winter,5,0,0,0,0,0,5
+lower-mullamari,Lower Mullamari,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-01,winter,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2023,2023-02,winter,5,0,0,0,0,0,5
+lower-mullamari,Lower Mullamari,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-01,winter,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2024,2024-02,winter,5,0,0,0,0,0,5
+lower-mullamari,Lower Mullamari,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+lower-mullamari,Lower Mullamari,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2025,2025-01,winter,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2025,2025-02,winter,5,0,0,0,0,0,5
+lower-mullamari,Lower Mullamari,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2026,2026-01,winter,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2026,2026-02,winter,5,0,0,0,0,0,5
+lower-mullamari,Lower Mullamari,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+lower-mullamari,Lower Mullamari,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+lower-mullamari,Lower Mullamari,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+lower-mullamari,Lower Mullamari,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-01,winter,6,4,3,3,1,0,2
+gundal,Gundal,2022,2022-02,winter,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-08,southwest-monsoon,7,0,0,0,0,0,7
+gundal,Gundal,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2022,2022-12,post-monsoon,5,0,0,0,0,0,5
+gundal,Gundal,2023,2023-01,winter,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-02,winter,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+gundal,Gundal,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-01,winter,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-02,winter,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-07,southwest-monsoon,7,0,0,0,0,0,7
+gundal,Gundal,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-09,southwest-monsoon,3,0,0,0,0,0,3
+gundal,Gundal,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2025,2025-01,winter,5,0,0,0,0,0,5
+gundal,Gundal,2025,2025-02,winter,6,0,0,0,0,0,6
+gundal,Gundal,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+gundal,Gundal,2025,2025-04,pre-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+gundal,Gundal,2025,2025-06,southwest-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2025,2025-09,southwest-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2025,2025-10,post-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+gundal,Gundal,2026,2026-01,winter,7,0,0,0,0,0,7
+gundal,Gundal,2026,2026-02,winter,6,0,0,0,0,0,6
+gundal,Gundal,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+gundal,Gundal,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+gundal,Gundal,2026,2026-09,southwest-monsoon,8,0,0,0,0,0,8
+gundal,Gundal,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2022,2022-01,winter,7,5,4,4,1,0,2
+gandorinala,Gandorinala,2022,2022-02,winter,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-01,winter,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2023,2023-02,winter,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-01,winter,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2024,2024-02,winter,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2025,2025-01,winter,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2025,2025-02,winter,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2026,2026-01,winter,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2026,2026-02,winter,5,0,0,0,0,0,5
+gandorinala,Gandorinala,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+gandorinala,Gandorinala,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+gandorinala,Gandorinala,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+gandorinala,Gandorinala,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-01,winter,7,4,4,4,0,0,3
+maskinala,Maskinala,2022,2022-02,winter,5,0,0,0,0,0,5
+maskinala,Maskinala,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-01,winter,7,0,0,0,0,0,7
+maskinala,Maskinala,2023,2023-02,winter,5,0,0,0,0,0,5
+maskinala,Maskinala,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-01,winter,7,0,0,0,0,0,7
+maskinala,Maskinala,2024,2024-02,winter,4,0,0,0,0,0,4
+maskinala,Maskinala,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+maskinala,Maskinala,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2025,2025-01,winter,6,0,0,0,0,0,6
+maskinala,Maskinala,2025,2025-02,winter,5,0,0,0,0,0,5
+maskinala,Maskinala,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2026,2026-01,winter,6,0,0,0,0,0,6
+maskinala,Maskinala,2026,2026-02,winter,5,0,0,0,0,0,5
+maskinala,Maskinala,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+maskinala,Maskinala,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+maskinala,Maskinala,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+maskinala,Maskinala,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+maskinala,Maskinala,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-01,winter,7,5,3,3,2,0,2
+chulkinala,Chulkinala,2022,2022-02,winter,5,0,0,0,0,0,5
+chulkinala,Chulkinala,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-01,winter,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2023,2023-02,winter,5,0,0,0,0,0,5
+chulkinala,Chulkinala,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-01,winter,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2024,2024-02,winter,5,0,0,0,0,0,5
+chulkinala,Chulkinala,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+chulkinala,Chulkinala,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2025,2025-01,winter,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2025,2025-02,winter,5,0,0,0,0,0,5
+chulkinala,Chulkinala,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2026,2026-01,winter,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2026,2026-02,winter,5,0,0,0,0,0,5
+chulkinala,Chulkinala,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+chulkinala,Chulkinala,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+chulkinala,Chulkinala,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+chulkinala,Chulkinala,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-01,winter,6,4,4,4,0,0,2
+harinala,Harinala,2022,2022-02,winter,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-10,post-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2022,2022-12,post-monsoon,4,0,0,0,0,0,4
+harinala,Harinala,2023,2023-01,winter,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-02,winter,5,0,0,0,0,0,5
+harinala,Harinala,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+harinala,Harinala,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-10,post-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-01,winter,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-02,winter,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-08,southwest-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2024,2024-09,southwest-monsoon,4,0,0,0,0,0,4
+harinala,Harinala,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+harinala,Harinala,2025,2025-01,winter,5,0,0,0,0,0,5
+harinala,Harinala,2025,2025-02,winter,4,0,0,0,0,0,4
+harinala,Harinala,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2025,2025-06,southwest-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2026,2026-01,winter,7,0,0,0,0,0,7
+harinala,Harinala,2026,2026-02,winter,6,0,0,0,0,0,6
+harinala,Harinala,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+harinala,Harinala,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2026,2026-07,southwest-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+harinala,Harinala,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+harinala,Harinala,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-01,winter,7,4,2,2,2,0,3
+hirehalla,Hirehalla,2022,2022-02,winter,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-01,winter,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2023,2023-02,winter,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-05,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2023,2023-12,post-monsoon,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2024,2024-01,winter,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-02,winter,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2025,2025-01,winter,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2025,2025-02,winter,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2026,2026-01,winter,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2026,2026-02,winter,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2026,2026-05,pre-monsoon,5,0,0,0,0,0,5
+hirehalla,Hirehalla,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+hirehalla,Hirehalla,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+hirehalla,Hirehalla,2026,2026-09,southwest-monsoon,6,0,0,0,0,0,6
+hirehalla,Hirehalla,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-01,winter,6,4,4,4,0,0,2
+uduthorehalla,Uduthorehalla,2022,2022-02,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-05,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-08,southwest-monsoon,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2022,2022-12,post-monsoon,5,0,0,0,0,0,5
+uduthorehalla,Uduthorehalla,2023,2023-01,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-02,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-05,pre-monsoon,5,0,0,0,0,0,5
+uduthorehalla,Uduthorehalla,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-10,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-01,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-02,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-03,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-07,southwest-monsoon,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-09,southwest-monsoon,3,0,0,0,0,0,3
+uduthorehalla,Uduthorehalla,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2024,2024-12,post-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2025,2025-01,winter,5,0,0,0,0,0,5
+uduthorehalla,Uduthorehalla,2025,2025-02,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2025,2025-03,pre-monsoon,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2025,2025-04,pre-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2025,2025-05,pre-monsoon,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2025,2025-06,southwest-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2025,2025-08,southwest-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2025,2025-09,southwest-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2025,2025-10,post-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2025,2025-12,post-monsoon,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2026,2026-01,winter,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2026,2026-02,winter,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+uduthorehalla,Uduthorehalla,2026,2026-06,southwest-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2026,2026-08,southwest-monsoon,7,0,0,0,0,0,7
+uduthorehalla,Uduthorehalla,2026,2026-09,southwest-monsoon,8,0,0,0,0,0,8
+uduthorehalla,Uduthorehalla,2026,2026-10,post-monsoon,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2022,2022-01,winter,7,4,4,4,0,0,3
+jambhadhahalla,Jambhadhahalla,2022,2022-02,winter,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-01,winter,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2023,2023-02,winter,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2023,2023-06,southwest-monsoon,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-10,post-monsoon,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-01,winter,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-02,winter,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2025,2025-01,winter,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2025,2025-02,winter,4,0,0,0,0,0,4
+jambhadhahalla,Jambhadhahalla,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2026,2026-01,winter,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2026,2026-02,winter,5,0,0,0,0,0,5
+jambhadhahalla,Jambhadhahalla,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+jambhadhahalla,Jambhadhahalla,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+jambhadhahalla,Jambhadhahalla,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+jambhadhahalla,Jambhadhahalla,2026,2026-10,post-monsoon,6,0,0,0,0,0,6
+tattihalla,Tattihalla,2022,2022-01,winter,13,8,8,8,0,0,5
+tattihalla,Tattihalla,2022,2022-02,winter,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2022,2022-03,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2022,2022-04,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2022,2022-05,pre-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2022,2022-06,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2022,2022-07,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2022,2022-08,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2022,2022-09,southwest-monsoon,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2022,2022-10,post-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2022,2022-11,post-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2022,2022-12,post-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-01,winter,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2023,2023-02,winter,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2023,2023-03,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-04,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-05,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-06,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-07,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-08,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-09,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-10,post-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2023,2023-11,post-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2023,2023-12,post-monsoon,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2024,2024-01,winter,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2024,2024-02,winter,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2024,2024-03,pre-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2024,2024-04,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2024,2024-05,pre-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2024,2024-06,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2024,2024-07,southwest-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2024,2024-08,southwest-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2024,2024-09,southwest-monsoon,9,0,0,0,0,0,9
+tattihalla,Tattihalla,2024,2024-10,post-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2024,2024-11,post-monsoon,12,0,0,0,0,0,12
+tattihalla,Tattihalla,2024,2024-12,post-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2025,2025-01,winter,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2025,2025-02,winter,9,0,0,0,0,0,9
+tattihalla,Tattihalla,2025,2025-03,pre-monsoon,15,0,0,0,0,0,15
+tattihalla,Tattihalla,2025,2025-04,pre-monsoon,14,0,0,0,0,0,14
+tattihalla,Tattihalla,2025,2025-05,pre-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2025,2025-06,southwest-monsoon,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2025,2025-07,southwest-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2025,2025-08,southwest-monsoon,15,0,0,0,0,0,15
+tattihalla,Tattihalla,2025,2025-09,southwest-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2025,2025-10,post-monsoon,14,0,0,0,0,0,14
+tattihalla,Tattihalla,2025,2025-11,post-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2025,2025-12,post-monsoon,15,0,0,0,0,0,15
+tattihalla,Tattihalla,2026,2026-01,winter,13,0,0,0,0,0,13
+tattihalla,Tattihalla,2026,2026-02,winter,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2026,2026-03,pre-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2026,2026-04,pre-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2026,2026-05,pre-monsoon,11,0,0,0,0,0,11
+tattihalla,Tattihalla,2026,2026-06,southwest-monsoon,14,0,0,0,0,0,14
+tattihalla,Tattihalla,2026,2026-07,southwest-monsoon,15,0,0,0,0,0,15
+tattihalla,Tattihalla,2026,2026-08,southwest-monsoon,16,0,0,0,0,0,16
+tattihalla,Tattihalla,2026,2026-09,southwest-monsoon,14,0,0,0,0,0,14
+tattihalla,Tattihalla,2026,2026-10,post-monsoon,12,0,0,0,0,0,12
+savehaklu,Savehaklu,2022,2022-01,winter,7,4,3,3,1,0,3
+savehaklu,Savehaklu,2022,2022-02,winter,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2022,2022-03,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-04,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-05,pre-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2022,2022-06,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-07,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-08,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-09,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-10,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-11,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2022,2022-12,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-01,winter,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2023,2023-02,winter,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2023,2023-03,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-04,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-05,pre-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2023,2023-06,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-07,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-08,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-09,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-10,post-monsoon,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2023,2023-11,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2023,2023-12,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-01,winter,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2024,2024-02,winter,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2024,2024-03,pre-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2024,2024-04,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-05,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-06,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-07,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-08,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-09,southwest-monsoon,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2024,2024-10,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-11,post-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2024,2024-12,post-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2025,2025-01,winter,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2025,2025-02,winter,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2025,2025-03,pre-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2025,2025-04,pre-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2025,2025-05,pre-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2025,2025-06,southwest-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2025,2025-07,southwest-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2025,2025-08,southwest-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2025,2025-09,southwest-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2025,2025-10,post-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2025,2025-11,post-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2025,2025-12,post-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2026,2026-01,winter,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2026,2026-02,winter,5,0,0,0,0,0,5
+savehaklu,Savehaklu,2026,2026-03,pre-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2026,2026-04,pre-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2026,2026-05,pre-monsoon,6,0,0,0,0,0,6
+savehaklu,Savehaklu,2026,2026-06,southwest-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2026,2026-07,southwest-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2026,2026-08,southwest-monsoon,8,0,0,0,0,0,8
+savehaklu,Savehaklu,2026,2026-09,southwest-monsoon,7,0,0,0,0,0,7
+savehaklu,Savehaklu,2026,2026-10,post-monsoon,6,0,0,0,0,0,6

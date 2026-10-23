@@ -1,0 +1,9 @@
+Collecting shapely
+  Using cached shapely-2.2.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (6.7 kB)
+Requirement already satisfied: numpy>=1.26 in /Users/shriyahr/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from shapely) (2.3.5)
+Using cached shapely-2.2.0-cp312-cp312-macosx_11_0_arm64.whl (1.6 MB)
+Installing collected packages: shapely
+Successfully installed shapely-2.2.0
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.2
+[notice] To update, run: /Users/shriyahr/Documents/ChatGPT/Major/NEERWATCH/research/pretrained-review/venv/bin/python3.12 -m pip install --upgrade pip

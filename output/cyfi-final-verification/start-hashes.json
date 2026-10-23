@@ -1,0 +1,17 @@
+{
+  "data/reservoirs.json": "5766882e35cf490873676a4f012f8bc8c06de05e1113e8f74f49d771bbf7e707",
+  "research/fai-history/acquire.py": "d947da25c3f4b22fbfef517244113a7fec6816294e51dd27e91250a6ac011cbc",
+  "backend/config.py": "0a33523f34a42b13b5f4f7971c4b301e442b49f4616bffa683ee807781599d8b",
+  "backend/chlorophyll_review.py": "2e005b6ba0f5c900249c9ac6f058ac136b4ee9c2250c890e8cc19da51e72b440",
+  "backend/monitoring.py": "13033327725bab555feafa8b4f55d92fb70b8b1820bd4bb948f08651a3e5f06a",
+  "backend/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "backend/epa.py": "be0705124ec3e817d594ba680cd82efb554ebde5578df0adee286e9f24640775",
+  "backend/weather_quality.py": "c02bff2d1e561084c362a74a1e6ca1ef3956afb90b36ec0c91f04f115feb5867",
+  "backend/reports.py": "2c8f6048209262b6e611d0cc18a147d8d0a198f9f39622db7ec48df7abd41211",
+  "backend/fai.py": "e9e7d220eafe7250e7c403de4b5a9ab76391a72b5203042796a52571b924da78",
+  "backend/readiness.py": "2d38327642482ccab909ed29a77139705d12313dda46daf3af8d66ec490cd7ad",
+  "backend/main.py": "aed58a84392241ad0f900f771d74bf80ae2b9993d3f3e8131a186bd527ae78ca",
+  "backend/active.py": "887feb65ae5d86be6e197982e34e5b19a052c0e285273299d85f3148ec6f60e0",
+  "frontend/src/main.jsx": "56636c738cf514b103d430c9dbe800f9a175cd203e4a6d1ac5b70f5cc919c6fc",
+  "frontend/src/style.css": "bb02d166270333aeaf715944cb8a2b6a3dd94b293c98e08666a04d4440324f9c"
+}

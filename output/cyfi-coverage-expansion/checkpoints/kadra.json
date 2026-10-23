@@ -1,0 +1,6 @@
+{
+  "reservoir_id": "kadra",
+  "attempts": [],
+  "finished": true,
+  "reason": "Invalid boundary or registry point outside polygon; no replacement point guessed"
+}

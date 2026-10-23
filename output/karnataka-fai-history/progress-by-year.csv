@@ -1,0 +1,6 @@
+year,planned_acquisitions,processed_acquisitions,valid_acquisitions,valid_dates,quality_rejections,retryable_errors,unprocessed
+2022,3710,211,172,172,32,7,3499
+2023,3686,0,0,0,0,0,3686
+2024,3676,0,0,0,0,0,3676
+2025,4370,0,0,0,0,0,4370
+2026,3503,0,0,0,0,0,3503
