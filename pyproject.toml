@@ -1,0 +1,16 @@
+[project]
+name = "neerwatch"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115,<1",
+    "uvicorn>=0.30,<1",
+    "numpy>=2,<3",
+    "pandas>=2.2,<4",
+    "scipy>=1.14,<2",
+    "reportlab>=4,<6",
+    "Pillow>=11,<14",
+    "shapely>=2,<3"
+]
+[tool.vercel]
+entrypoint = "backend.main:app"
