@@ -8,7 +8,6 @@ from datetime import datetime,timezone
 from concurrent.futures import ThreadPoolExecutor
 import numpy as np
 from backend.config import DATA,today,write_json
-from pipeline.satellite import search,read_item,save_rgb
 from vendor.waterqual.indices import compute_ndci
 from backend.epa import classify
 SOURCE='https://doi.org/10.1364/OE.18.024109'
@@ -47,6 +46,7 @@ def process(identifier,observations=1,progress=None):
   LOGGER.info("Sentinel-2 %s %s %s",identifier,stage,details.get("item_id",details.get("reason","")))
   if progress:progress(stage=stage,**details)
  from shapely.geometry import shape
+ from pipeline.satellite import search,read_item,save_rgb
  from rasterio.warp import transform_geom
  from rasterio.transform import from_origin
  import rasterio
@@ -94,48 +94,3 @@ def process(identifier,observations=1,progress=None):
     tif=directory/f'{prefix}-chlorophyll.tif'
     with rasterio.open(tif,'w',driver='GTiff',height=chl.shape[0],width=chl.shape[1],count=1,dtype='float32',crs=f'EPSG:{epsg}',transform=transform,nodata=np.nan,compress='deflate') as dst:dst.write(chl,1);dst.update_tags(unit='ug/L',scene_id=prefix,algorithm=METHOD)
     with PLOT_LOCK:
-     import matplotlib;matplotlib.use('Agg')
-     import matplotlib.pyplot as plt
-     fig,ax=plt.subplots(figsize=(7,5));im=ax.imshow(chl,cmap='viridis',vmin=1,vmax=100);ax.set_title(record['name']+' · '+day);ax.axis('off');fig.colorbar(im,ax=ax,label='Chlorophyll-a screening estimate (µg/L)');fig.tight_layout();png=directory/f'{prefix}-chlorophyll.png';fig.savefig(png,dpi=130);plt.close(fig);manifest.update(chlorophyll_map_file=png.name,chlorophyll_raster_file=tif.name)
-   write_json(directory/f'{prefix}.json',manifest)
-   if not ok:
-    manifest['reason']=f'Only {count} algorithm-valid pixels ({fraction:.1%} coverage); requires 25 pixels and 10% reservoir coverage.'
-    if image_only is None:image_only=manifest
-    attempts.append({'item_id':prefix,'observed_at':manifest['observed_at'],'stage':'chlorophyll_quality','reason':manifest['reason'],'quality':manifest['quality']})
-    continue
-   hp=directory/'history.json';history=json.loads(hp.read_text()) if hp.exists() else [];history=[r for r in history if r['item_id']!=prefix]+[manifest];history.sort(key=lambda r:r['observed_at']);write_json(hp,history);accepted.append(manifest);days.add(day)
-   if len(accepted)==1:
-    write_json(directory/'latest.json',manifest);emit('result_saved',result=manifest,item_id=prefix)
-   if len(accepted)>=observations:break
-  except Exception as exc:
-   failure={'item_id':item['id'],'observed_at':item['properties']['datetime'],'reason':f'{type(exc).__name__}: {str(exc)[:300]}','quality':getattr(exc,'quality',None)}
-   attempts.append(failure);emit('scene_rejected',reason=failure['reason'],attempts=list(attempts))
- if not accepted:
-  if image_only:write_json(directory/'latest.json',image_only)
-  reason=f'No valid Sentinel-2 concentration in the {LOOKBACK_DAYS}-day search window ({len(items)} scenes). '
-  reason+=next((a['reason'] for a in attempts if a['reason']!='Incomplete reservoir footprint'),'No scene covers at least 95% of the reservoir.' if items else 'No Sentinel-2 scenes were found.')
-  raise ProcessingFailure(reason,attempts)
- return accepted[0]
-def start(identifier,force=False):
- with LOCK:
-  current=JOBS.get(identifier,{})
-  if current.get('status') in ('running','queued'):return current
-  cached=DATA/'sentinel2'/identifier/'latest.json'
-  if not force and cached.exists():
-   prior=json.loads(cached.read_text())
-   if prior.get('chlorophyll_a') is not None and prior.get('processed_at','')[:10]==today().isoformat():
-    return save_job(identifier,status='complete',stage='cached',result=prior,cached=True,reason=None)
-  save_job(identifier,status='queued',stage='queued',reason=None,result=None,attempts=[],started_at=datetime.now(timezone.utc).isoformat())
- def run():
-  save_job(identifier,status='running',stage='starting')
-  try:
-   result=process(identifier,2,progress=lambda **details:save_job(identifier,status='running',**details))
-   save_job(identifier,status='complete',stage='complete',result=result,reason=None,cached=False)
-  except Exception as exc:
-   LOGGER.exception('Sentinel-2 processing failed for %s',identifier)
-   save_job(identifier,status='failed',stage='failed',reason=str(exc),attempts=getattr(exc,'attempts',JOBS.get(identifier,{}).get('attempts',[])))
- POOL.submit(run)
- return JOBS[identifier]
-if __name__=='__main__':
- import argparse
- p=argparse.ArgumentParser();p.add_argument('--reservoir',default='tungabhadra');p.add_argument('--observations',type=int,default=2);a=p.parse_args();print(json.dumps(process(a.reservoir,a.observations),indent=2))
